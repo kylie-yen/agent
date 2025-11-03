@@ -3,7 +3,7 @@ import os
 
 # 初始化OpenAI客户端
 client = OpenAI(
-    api_key = "sk-52d250ded975425896d4fa47f05face8",
+    api_key=os.getenv("DASHSCOPE_API_KEY"),
     base_url="https://dashscope.aliyuncs.com/compatible-mode/v1"
 )
 
