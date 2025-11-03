@@ -1,7 +1,7 @@
 :::tips
 链接：[datawhale翻译](https://github.com/datawhalechina/llm-cookbook)  [英文原版课程](https://learn.deeplearning.ai/)
 
-状态：进行中
+状态：已完成
 
 时间：20251103
 
