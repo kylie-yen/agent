@@ -4,7 +4,7 @@ from langchain_core.output_parsers import StrOutputParser
 import os
 
 # --- 配置 API KEY ---
-# api_key = os.getenv("DASHSCOPE_API_KEY")
+api_key = os.getenv("DASHSCOPE_API_KEY")
 
 # 1. 定义组件
 model = ChatTongyi(model="qwen-plus")
@@ -12,7 +12,7 @@ model = ChatTongyi(model="qwen-plus")
 prompt = ChatPromptTemplate.from_template("请用一句话介绍一下：{topic}")
 parser = StrOutputParser() # 自动把 Message 转成纯文本字符串
 
-# 2. 使用 LCEL 组装链条 (流水线)
+# 2. 使用 LCEL 组装链条
 chain = prompt | model | parser
 
 # 3. 调用
@@ -20,4 +20,3 @@ chain = prompt | model | parser
 result = chain.invoke({"topic": "量子力学"})
 
 print(result)
-# 输出: 量子力学是研究微观粒子运动规律的物理学分支...
