@@ -1,0 +1,4002 @@
+Simulation Start: 2026-01-10 17:35:10.578584
+==================================================
+
+[Agent 5 - Year 1]
+Decision: Target Ratio 0.2, Loan 8000
+Reasoning: 当前经济作物投入产出比高，但风险也大。通过借贷增加目标种植比例以提高总收益潜力。
+
+[Agent 89 - Year 1]
+Decision: Target Ratio 0.5, Loan 0
+Reasoning: 当前经济状况下，集中资源种植保底收益的水稻是最安全的选择。
+
+[Agent 11 - Year 1]
+Decision: Target Ratio 0.5, Loan 114362
+Reasoning: 为了尽快提高收益，同时利用政府补贴和积累的资本进行经济作物种植，预计在第5年能获得可观利润。
+
+[Agent 7 - Year 1]
+Decision: Target Ratio 0.4, Loan 8000
+Reasoning: 平衡风险与收益，投资一定比例经济作物以期未来收入补偿维护成本并积累资金。
+
+[Agent 82 - Year 1]
+Decision: Target Ratio 0.3, Loan 12000
+Reasoning: 为了平衡风险和收益，先种植部分经济作物以获得未来潜在的高回报，同时预留足够的土地用于保底收益的水稻种植。
+
+[Agent 3 - Year 1]
+Decision: Target Ratio 0.5, Loan 3700
+Reasoning: 平衡风险与收益，先少量尝试经济作物种植以测试市场反应。
+
+[Agent 25 - Year 1]
+Decision: Target Ratio 0.5, Loan 0
+Reasoning: 当前经济作物种植后需5年才能收获，优先保证现有土地的保底收益。
+
+[Agent 32 - Year 1]
+Decision: Target Ratio 0.2, Loan 14000
+Reasoning: 保留一部分土地种植保底收益的水稻，同时用贷款增加经济作物比例以提升总体收益
+
+[Agent 16 - Year 1]
+Decision: Target Ratio 0.2, Loan 17600
+Reasoning: 当前经济作物投入回报周期长，优先保护现有资源并利用政府补贴减少资金压力。
+
+[Agent 67 - Year 1]
+Decision: Target Ratio 0.3, Loan 19600
+Reasoning: 维持现有经济作物投资的同时，将部分土地用于经济作物种植，以获得额外的收入来源并保持资产稳定。
+
+[Agent 73 - Year 1]
+Decision: Target Ratio 0.3, Loan 0
+Reasoning: 当前经济状况下，保持现有土地全部用于种植水稻是最安全的选择。
+
+[Agent 83 - Year 1]
+Decision: Target Ratio 0.3, Loan 4000
+Reasoning: 通过增加经济作物种植比例，尽管短期投入较高，但长期来看能够带来更高收益，符合进取型性格追求高回报的特性。
+
+[Agent 53 - Year 1]
+Decision: Target Ratio 0.2, Loan 43856
+Reasoning: 尽管目前没有经济作物收益，但为了实现长期资产增值和收入多样化，决定投资20%的土地种植经济作物。
+
+[Agent 17 - Year 1]
+Decision: Target Ratio 0.2, Loan 8800
+Reasoning: 在当前经济状况下，尝试少量种植经济作物以增加收入来源，同时保持稳健的投资策略。
+
+[Agent 51 - Year 1]
+Decision: Target Ratio 0.2, Loan 3000
+Reasoning: 保持投资稳健，发展部分经济作物以分散风险并期望获得额外收入。
+
+[Agent 98 - Year 1]
+Decision: Target Ratio 0.2, Loan 9600
+Reasoning: 当前经济作物投资收益较低，增加水稻种植面积以确保基础收入及资金安全。
+
+[Agent 18 - Year 1]
+Decision: Target Ratio 0.2, Loan 0
+Reasoning: 当前经济状况下，维持现有土地用于种植水稻以确保基本收益更为稳妥。
+
+[Agent 77 - Year 1]
+Decision: Target Ratio 0.2, Loan 0
+Reasoning: 目前存款足够覆盖种植经济作物的投入，且长期来看保底收益更为稳定可靠。
+
+[Agent 42 - Year 1]
+Decision: Target Ratio 0.2, Loan 8000
+Reasoning: 保持经济作物和水稻种植的平衡，同时考虑未来的收益潜力和发展空间。
+
+[Agent 72 - Year 1]
+Decision: Target Ratio 0.2, Loan 1300
+Reasoning: 为了尽快提高收入来源，投资一部分土地用于经济作物种植，同时申请小额贷款以覆盖初期投入成本。
+
+[Agent 70 - Year 1]
+Decision: Target Ratio 0.3, Loan 4800
+Reasoning: 虽然可以种植经济作物，但考虑到经济作物种植后需5年才能收获，且当前已有足够的储备来应对接下来几年的投入和补贴，所以决定先保底种植，待未来有更多现金流时再考虑增加经济作物种植比例。
+
+[Agent 21 - Year 1]
+Decision: Target Ratio 0.5, Loan 2500
+Reasoning: 尽管有风险，但通过扩大经济作物种植面积以期获得更高收益
+
+[Agent 92 - Year 1]
+Decision: Target Ratio 0.3, Loan 0
+Reasoning: 当前经济作物种植收益有限，优先保持土地保底收益以积累资金。
+
+[Agent 87 - Year 1]
+Decision: Target Ratio 0.2, Loan 13480
+Reasoning: 尽管当前经济作物投资回报率高，但剩余土地仍可保证水稻保底收益。短期借款用于扩大经济作物种植面积以追求更高收益。
+
+[Agent 86 - Year 1]
+Decision: Target Ratio 0.5, Loan 1000
+Reasoning: 平衡风险与收益，同时利用政府补贴和少量贷款扩大经济作物种植面积。
+
+[Agent 60 - Year 1]
+Decision: Target Ratio 0.3, Loan 0
+Reasoning: 当前资金充足，优先保持现有经济作物的保底收益。
+
+[Agent 63 - Year 1]
+Decision: Target Ratio 0.2, Loan 3000
+Reasoning: 尽管保留了部分土地种植水稻以确保最低收益，考虑到经济作物种植后的5年才能收获，决定尝试种植一定比例的经济作物，以便在未来的高回报期利用贷款资金。
+
+[Agent 50 - Year 1]
+Decision: Target Ratio 0.2, Loan 4400
+Reasoning: 优先保障现有土地收益，同时利用补贴减少经济作物投资风险。
+
+[Agent 22 - Year 1]
+Decision: Target Ratio 0.2, Loan 16000
+Reasoning: 当前存款不足以全面投入经济作物种植，且投资风险较高。
+
+[Agent 95 - Year 1]
+Decision: Target Ratio 0.3, Loan 5000
+Reasoning: 目前资产安全优先，少量经济作物以备不测且符合政府补贴条件。
+
+[Agent 28 - Year 1]
+Decision: Target Ratio 0.3, Loan 4800
+Reasoning: 保持现有经济作物比例，通过小额贷款缓解资金压力，以确保土地充分利用和收入稳定。
+
+[Agent 99 - Year 1]
+Decision: Target Ratio 0.2, Loan 8000
+Reasoning: 保留一部分土地种植保底收益的水稻，同时利用贷款尝试种植经济作物以提高整体收入。
+
+[Agent 6 - Year 1]
+Decision: Target Ratio 0.2, Loan 18400
+Reasoning: 当前经济状况稳健，优先投资以实现长期收益最大化。
+
+[Agent 4 - Year 1]
+Decision: Target Ratio 0.2, Loan 4168
+Reasoning: 当前经济状况下，适量种植经济作物可以带来额外收益，并且不会过度分散资源，同时考虑到政府补贴和负债的可能性。
+
+[Agent 64 - Year 1]
+Decision: Target Ratio 0.2, Loan 8000
+Reasoning: 预留资金应对经济作物种植初期可能遇到的额外成本，同时保持充足的流动资金进行日常开支和政府补贴的利用。
+
+[Agent 81 - Year 1]
+Decision: Target Ratio 0.2, Loan 11800
+Reasoning: 虽然初始投资较大，但通过经济作物的高回报来弥补并快速收回成本。
+
+[Agent 49 - Year 1]
+Decision: Target Ratio 0.3, Loan 5600
+Reasoning: 在维持现有水稻种植保底收益的同时，适当增加经济作物比例以平衡风险和收益。
+
+[Agent 78 - Year 1]
+Decision: Target Ratio 0.2, Loan 10000
+Reasoning: 将种植比例维持在较低水平以确保资产安全，同时利用贷款资金扩大水稻种植面积。
+
+[Agent 79 - Year 1]
+Decision: Target Ratio 0.4, Loan 8000
+Reasoning: 保留更多土地种植水稻以确保保底收益，同时适量投入经济作物进行尝试，降低风险。
+
+[Agent 91 - Year 1]
+Decision: Target Ratio 0.2, Loan 8000
+Reasoning: 确保资产安全，保留大部分土地种植保底收益的水稻以备不时之需。
+
+[Agent 14 - Year 1]
+Decision: Target Ratio 0.2, Loan 16000
+Reasoning: 平衡风险与收益，少量种植经济作物以保持资金流动性并获取补贴。
+
+[Agent 48 - Year 1]
+Decision: Target Ratio 0.3, Loan 42800
+Reasoning: 平衡风险与收益，保留一定土地种植水稻作为保底收益，并进行小额借贷以支持经济作物的投入。
+
+[Agent 39 - Year 1]
+Decision: Target Ratio 0.2, Loan 4400
+Reasoning: 在维持现有土地结构的同时，增加一部分经济作物种植比例以提高收入来源。
+
+[Agent 85 - Year 1]
+Decision: Target Ratio 0.5, Loan 10000
+Reasoning: 通过扩大经济作物种植比例，平衡风险和收益，同时利用贷款增加短期收益。
+
+[Agent 20 - Year 1]
+Decision: Target Ratio 0.3, Loan 48200
+Reasoning: 尽管保底收益是种植水稻，但增加经济作物比例可以提高整体收入潜力。当前经济作物为零，需要借贷扩大规模以实现这一目标。
+
+[Agent 33 - Year 1]
+Decision: Target Ratio 0.2, Loan 4780
+Reasoning: 通过投资20%的土地种植经济作物，既能获得短期收益以偿还贷款和维持生活，又不会影响剩余土地的保底收益。
+
+[Agent 8 - Year 1]
+Decision: Target Ratio 0.3, Loan 4800
+Reasoning: 通过种植部分经济作物并利用政府补贴，以期望在未来获得更高的经济效益。
+
+[Agent 76 - Year 1]
+Decision: Target Ratio 0.5, Loan 0
+Reasoning: 维持现有种植比例，确保经济作物成熟后有稳定收益，同时减少额外风险。
+
+[Agent 61 - Year 1]
+Decision: Target Ratio 0.2, Loan 0
+Reasoning: 当前经济作物种植尚无收入，优先保护和稳定现有土地收益
+
+[Agent 24 - Year 1]
+Decision: Target Ratio 0.3, Loan 4680
+Reasoning: 保持现有作物比例，同时申请小额贷款用于后续投入经济作物。
+
+[Agent 26 - Year 1]
+Decision: Target Ratio 0.25, Loan 0
+Reasoning: 当前经济状况下，优先确保现有土地收益稳定，降低风险。
+
+[Agent 9 - Year 1]
+Decision: Target Ratio 0.2, Loan 5600
+Reasoning: 平衡风险与收益，预留资金应对未来可能的经济作物投资。
+
+[Agent 44 - Year 1]
+Decision: Target Ratio 0.2, Loan 0
+Reasoning: 当前资产安全第一，经济作物种植需5年才能见效，优先维持现有土地收益稳定。
+
+[Agent 84 - Year 1]
+Decision: Target Ratio 0.2, Loan 4000
+Reasoning: 保持稳健的投资策略，先种植一部分经济作物以获得补贴并减少对稻米收益的依赖。
+
+[Agent 62 - Year 1]
+Decision: Target Ratio 0.3, Loan 23800
+Reasoning: 保持稳健，平衡风险与收益。当前经济作物投资回报周期较长，适量种植可以增加总收益并分散风险。
+
+[Agent 46 - Year 1]
+Decision: Target Ratio 0.2, Loan 0
+Reasoning: 当前经济作物种植投入大且无收益，优先维持现状以保护资产安全。
+
+[Agent 69 - Year 1]
+Decision: Target Ratio 0.5, Loan 4200
+Reasoning: 通过扩大经济作物种植面积，提高总收益以覆盖成本并积累资金
+
+[Agent 56 - Year 1]
+Decision: Target Ratio 0.2, Loan 0
+Reasoning: 当前经济作物投入成本较高，且还需5年才能见效。应优先保证土地的保底收益，减少经济作物投资风险。
+
+[Agent 0 - Year 1]
+Decision: Target Ratio 0.6, Loan 24000
+Reasoning: 尽管经济作物需要5年才能开始收益，但为了最大化未来的资产价值和长期收益潜力，选择种植一定比例的经济作物以期长远发展。
+
+[Agent 35 - Year 1]
+Decision: Target Ratio 0.25, Loan 16000
+Reasoning: 尽管经济作物种植需5年才能见效，但当前储备资金不足以支持全部土地用于经济作物且保证安全。因此选择一半的土地种经济作物以平衡风险和收益。
+
+[Agent 31 - Year 1]
+Decision: Target Ratio 0.2, Loan 11400
+Reasoning: 目前存款和补贴不足以支持全面种植经济作物，适量种植以平衡风险与收益。
+
+[Agent 80 - Year 1]
+Decision: Target Ratio 0.2, Loan 4800
+Reasoning: 在剩余土地中分配一部分种植经济作物，以维持资产和收入的稳定，并确保足够的储备金以防未来可能出现的风险。
+
+[Agent 93 - Year 1]
+Decision: Target Ratio 0.5, Loan 0
+Reasoning: 当前经济作物投资回报周期较长，优先保证现有土地收益。
+
+[Agent 71 - Year 1]
+Decision: Target Ratio 0.3, Loan 6660
+Reasoning: 当前经济作物投资风险较高，优先考虑保本并逐步扩展，同时利用贷款缓解初期资金压力。
+
+[Agent 68 - Year 1]
+Decision: Target Ratio 0.2, Loan 567153
+Reasoning: 尽管经济作物需要5年才能收获，但为了长期收益和发展战略，将种植比例设定为总土地的20%，通过贷款填补初期资金缺口。
+
+[Agent 29 - Year 1]
+Decision: Target Ratio 0.5, Loan 4400
+Reasoning: 平衡风险与收益，投资一半土地种植经济作物以维持现金流，同时保留一半土地用于保底收益的水稻种植。
+
+[Agent 54 - Year 1]
+Decision: Target Ratio 0.3, Loan 0
+Reasoning: 当前经济作物投入产出比低，优先保留现有土地种植水稻以确保现金流安全。
+
+[Agent 10 - Year 1]
+Decision: Target Ratio 0.2, Loan 5000
+Reasoning: 投资经济作物以实现未来收入增长，同时利用部分贷款维持农业生产并减轻资金压力。
+
+[Agent 88 - Year 1]
+Decision: Target Ratio 0.2, Loan 11000
+Reasoning: 当前资产安全第一，优先维持现有土地的经济作物种植，减少风险。
+
+[Agent 43 - Year 1]
+Decision: Target Ratio 0.2, Loan 0
+Reasoning: 目前有足够存款维持现有经济作物种植，且考虑到投资后需5年才能见效，决定继续保底种植水稻以确保现金流稳定
+
+[Agent 65 - Year 1]
+Decision: Target Ratio 0.2, Loan 4400
+Reasoning: 为了在有限的补贴下最大化收益，决定种植20%的土地为经济作物。剩余80%的土地用来保底收益的水稻种植。
+
+[Agent 19 - Year 1]
+Decision: Target Ratio 0.5, Loan 8500
+Reasoning: 扩大经济作物种植比例以提升整体收益，同时申请部分贷款缓解资金压力。
+
+[Agent 27 - Year 1]
+Decision: Target Ratio 0.3, Loan 1500
+Reasoning: 尽管经济作物投资回报周期较长，但通过少量贷款可以快速增加收入来源，以加快资金回笼速度。
+
+[Agent 58 - Year 1]
+Decision: Target Ratio 0.2, Loan 16800
+Reasoning: 尽管投资经济作物需要5年才能见到收益，但考虑到当前的市场机会和政府补贴，选择适度的投资比例以平衡风险与潜在回报
+
+[Agent 55 - Year 1]
+Decision: Target Ratio 0.7, Loan 4286.3
+Reasoning: 为了尽快达到经济作物收获期并获取收入，选择更多土地种植经济作物。
+
+[Agent 96 - Year 1]
+Decision: Target Ratio 0.3, Loan 0
+Reasoning: 当前资金充足，优先保留现有土地用于种植水稻以保证基本收益。
+
+[Agent 1 - Year 1]
+Decision: Target Ratio 0.2, Loan 12000
+Reasoning: 虽然经济作物需要5年后才能有收益，但通过贷款增加经济作物比例可以尽早获得收入以缓解资金压力。
+
+[Agent 75 - Year 1]
+Decision: Target Ratio 0.2, Loan 15628
+Reasoning: 为了在有限的资本下最大化收益，决定种植20%的土地于经济作物上。剩余的80%用于保底收益的水稻种植，并申请贷款以覆盖部分维护成本。
+
+[Agent 57 - Year 1]
+Decision: Target Ratio 0.2, Loan 40830
+Reasoning: 保留大部分土地用于保底收益的水稻种植，确保资产安全并获得稳定收入。经济作物投资需谨慎评估其风险与回报后再做决定。
+
+[Agent 15 - Year 1]
+Decision: Target Ratio 0.3, Loan 6000
+Reasoning: 通过投资少量经济作物获得潜在收益，同时保留大部分土地用于水稻种植以保证基本收入和稳定。
+
+[Agent 47 - Year 1]
+Decision: Target Ratio 0.3, Loan 45200
+Reasoning: 在当前经济状况下，适量种植经济作物以平衡收入来源，同时利用部分贷款资金以确保土地有效利用。
+
+[Agent 36 - Year 1]
+Decision: Target Ratio 0.25, Loan 4800
+Reasoning: 保留一半土地种植水稻作为保底收益，剩余的25%用于经济作物投资，以维持现金流平衡并逐步增加收入来源。
+
+[Agent 74 - Year 1]
+Decision: Target Ratio 0.2, Loan 14000
+Reasoning: 保持稳健发展，先投入种植经济作物以适应未来的市场需求和收益预期。
+
+[Agent 41 - Year 1]
+Decision: Target Ratio 0.2, Loan 4286
+Reasoning: 保持稳健，投资一部分土地用于经济作物种植以期在未来5年获得潜在收益，同时不会过度负债。
+
+[Agent 97 - Year 1]
+Decision: Target Ratio 0.3, Loan 0
+Reasoning: 当前经济状况下，投资少量经济作物以平衡收入来源更为稳妥。
+
+[Agent 13 - Year 1]
+Decision: Target Ratio 0.3, Loan 4800
+Reasoning: 保持现有经济作物比例，同时申请小额贷款以应对种植成本，并确保有足够的现金流量来维持日常开支和土地维护。
+
+[Agent 45 - Year 1]
+Decision: Target Ratio 0.3, Loan 6000
+Reasoning: 平衡风险与收益，保留一定比例土地用于经济作物种植以获得更高收益。同时申请贷款以维持总投入。
+
+[Agent 34 - Year 1]
+Decision: Target Ratio 0.2, Loan 5000
+Reasoning: 确保有足够的存款来维持现有土地的维护，同时减少经济作物的投资风险。
+
+[Agent 59 - Year 1]
+Decision: Target Ratio 0.3, Loan 6000
+Reasoning: 为了最大化收益，选择种植一定比例的经济作物，同时申请贷款以应对初期的大规模投入。
+
+[Agent 94 - Year 1]
+Decision: Target Ratio 0.2, Loan 4400
+Reasoning: 预留一部分土地用于种植经济作物，以期在未来获得更高的回报，并在需要时申请贷款支持。
+
+[Agent 40 - Year 1]
+Decision: Target Ratio 0.2, Loan 12000
+Reasoning: 为了在5年内达到经济作物种植的目标，同时确保有足够的现金流来维持现有土地的维护，决定适度投资经济作物。
+
+[Agent 52 - Year 1]
+Decision: Target Ratio 0.2, Loan 0
+Reasoning: 当前经济作物投入产出比高，但需5年才能完全收益。保留一部分土地用于保底水稻种植以确保基本收入。
+
+[Agent 12 - Year 1]
+Decision: Target Ratio 0.2, Loan 15880
+Reasoning: 通过种植少量经济作物获得额外收益以提升整体利润空间，同时控制贷款风险在可控范围内。
+
+[Agent 90 - Year 1]
+Decision: Target Ratio 0.5, Loan 8000
+Reasoning: 为了在短期内增加收益，扩大经济作物种植面积以争取政府补贴和市场价提升。
+
+[Agent 66 - Year 1]
+Decision: Target Ratio 0.5, Loan 8000
+Reasoning: 通过投资一半的土地种植经济作物，期望在5年后获得更大的收益回报，并覆盖成本和维护费用。同时申请贷款来确保有足够的资金投入。
+
+[Agent 23 - Year 1]
+Decision: Target Ratio 0.2, Loan 8000
+Reasoning: 增加经济作物种植比例以平衡收益与风险，同时申请贷款以减轻短期资金压力。
+
+[Agent 37 - Year 1]
+Decision: Target Ratio 0.5, Loan 3000
+Reasoning: 在当前经济环境下，增加投资以提高收益潜力是明智之举。
+
+[Agent 30 - Year 1]
+Decision: Target Ratio 0.2, Loan 134275
+Reasoning: 当前经济条件有限，维持现有土地种植水稻以保底收益并逐步积累资金用于未来经济作物种植。
+
+[Agent 2 - Year 1]
+Decision: Target Ratio 0.2, Loan 7600
+Reasoning: 虽然有存款和政府补贴，但为了提高整体收益，决定种植一定比例的经济作物。
+
+[Agent 38 - Year 1]
+Decision: Target Ratio 0.5, Loan 12490
+Reasoning: 为了提高收益，选择一半的土地种植经济作物，其余种水稻作为保底。
+
+[Agent 59 - Year 2]
+Decision: Target Ratio 0.3, Loan 6962
+Reasoning: 虽然经济作物投资较大，但长期来看能够带来更高的收益以覆盖成本和风险。
+
+[Agent 33 - Year 2]
+Decision: Target Ratio 0.5, Loan 13000
+Reasoning: 平衡经济作物投入与长期收益，确保维持土地整体价值并利用贷款进行必要补充。
+
+[Agent 73 - Year 2]
+Decision: Target Ratio 0.3, Loan 6000
+Reasoning: 在确保基本收益的同时，合理分配资源以支持经济作物种植。
+
+[Agent 2 - Year 2]
+Decision: Target Ratio 0.5, Loan 1600
+Reasoning: 保持现有经济作物投资比例，同时利用部分存款申请小额贷款以增加种植面积，避免资金紧张。
+
+[Agent 84 - Year 2]
+Decision: Target Ratio 0.2, Loan 8000
+Reasoning: 保留现有土地一半用于经济作物种植，以平衡风险和预期收益。
+
+[Agent 54 - Year 2]
+Decision: Target Ratio 0.3, Loan 16000
+Reasoning: 通过适度增加经济作物种植比例，确保资产安全并逐步提高收益。
+
+[Agent 1 - Year 2]
+Decision: Target Ratio 0.2, Loan 1600
+Reasoning: 尽管经济作物的回报需要5年后才能看到，但通过适量尝试可以为未来布局，同时不会显著增加当前的风险。
+
+[Agent 99 - Year 2]
+Decision: Target Ratio 0.2, Loan 16000
+Reasoning: 平衡风险与收益，适度增加经济作物种植比例以获得更高回报。
+
+[Agent 51 - Year 2]
+Decision: Target Ratio 0.2, Loan 6000
+Reasoning: 在现有经济作物投入产出比低的情况下，增加少量种植比例以试探市场反应并利用贷款支持短期收入。
+
+[Agent 67 - Year 2]
+Decision: Target Ratio 0.3, Loan 5800
+Reasoning: 保持现有经济作物收益稳定，避免因投入过多导致资金紧张
+
+[Agent 96 - Year 2]
+Decision: Target Ratio 0.3, Loan 1200
+Reasoning: 平衡风险与收益，维持现有经济作物比例以保持现金流稳定同时增加保底收益的手段。
+
+[Agent 79 - Year 2]
+Decision: Target Ratio 0.5, Loan 0
+Reasoning: 当前经济作物投资未见回报，维持现状以确保财务稳定和风险控制。
+
+[Agent 12 - Year 2]
+Decision: Target Ratio 0.2, Loan 3200
+Reasoning: 保持现有经济作物比例，避免过度投资可能带来的风险，同时利用贷款增加短期收益潜力。
+
+[Agent 75 - Year 2]
+Decision: Target Ratio 0.2, Loan 3200
+Reasoning: 保留一部分土地种植水稻以确保基本收益，同时增加经济作物比例以期待更高回报。
+
+[Agent 72 - Year 2]
+Decision: Target Ratio 0.2, Loan 4400
+Reasoning: 维持现有经济作物种植比例，以最小化风险并确保基本的现金流。同时申请贷款以应对后续可能的资金缺口。
+
+[Agent 15 - Year 2]
+Decision: Target Ratio 0.4, Loan 9500
+Reasoning: 保留一部分土地用于种植水稻以确保保底收益，同时在经济作物上投入以期望未来获得更大收益。
+
+[Agent 42 - Year 2]
+Decision: Target Ratio 0.2, Loan 8000
+Reasoning: 保持资金流动性以应对不确定性和维护现有经济作物，同时少量种植新经济作物作为长期投资策略。
+
+[Agent 16 - Year 2]
+Decision: Target Ratio 0.2, Loan 3600
+Reasoning: 优先保护现有投资并确保资产安全，同时申请贷款用于扩大剩余水稻种植面积。
+
+[Agent 40 - Year 2]
+Decision: Target Ratio 0.2, Loan 5600
+Reasoning: 平衡经济作物和水稻种植，以确保稳定的现金流并为未来投资打下基础。
+
+[Agent 31 - Year 2]
+Decision: Target Ratio 0.2, Loan 11472
+Reasoning: 为了充分利用现有土地并获得较快的经济回报，决定种植比例为总土地的20%，剩余80%用于保持水稻保底收益。
+
+[Agent 35 - Year 2]
+Decision: Target Ratio 0.3, Loan 4800
+Reasoning: 保留大部分土地种植保底收益的水稻，以确保资产安全和现金流稳定。
+
+[Agent 61 - Year 2]
+Decision: Target Ratio 0.2, Loan 0
+Reasoning: 目前经济作物已有1.7亩投入，预计下一年收获后进行扩大种植。当前维持现有规模对资金管理更为稳健，避免过多占用短期收益的土地。
+
+[Agent 36 - Year 2]
+Decision: Target Ratio 0.4, Loan 2400
+Reasoning: 目前经济作物投入产出比低，保持现有土地比例以保障资产安全。
+
+[Agent 82 - Year 2]
+Decision: Target Ratio 0.2, Loan 3600
+Reasoning: 保持现有经济作物种植比例，以维持现金流稳定并预留资金用于下一年的种子和肥料等必需品采购。
+
+[Agent 81 - Year 2]
+Decision: Target Ratio 0.2, Loan 14800
+Reasoning: 保留一部分土地种植水稻作为保底收益，同时投资一定比例的土地种植经济作物以获取更高收益。考虑到市场环境和风险，选择适度的现金作物比例有助于平衡风险与收益。
+
+[Agent 39 - Year 2]
+Decision: Target Ratio 0.3, Loan 1200
+Reasoning: 平衡投资风险，保留更多土地用于水稻种植以确保基本收益。
+
+[Agent 46 - Year 2]
+Decision: Target Ratio 0.5, Loan 0
+Reasoning: 目前经济作物投资已满五年，无新增收益。优先保持现有种植比例，等待成熟作物产生收入以偿还前期成本并增加现金流。
+
+[Agent 70 - Year 2]
+Decision: Target Ratio 0.3, Loan 6000
+Reasoning: 为了平衡风险与收益，优先发展经济作物以期获得更高回报，并通过小额借贷来支撑初期投入。
+
+[Agent 9 - Year 2]
+Decision: Target Ratio 0.25, Loan 1000
+Reasoning: 保持现有经济作物比例，利用部分存款和政府补贴以减轻前期投入负担，并预留资金应对潜在的市场风险。
+
+[Agent 57 - Year 2]
+Decision: Target Ratio 0.2, Loan 4080
+Reasoning: 保持现有经济作物比例，以确保稳定的收入来源和资金安全。
+
+[Agent 5 - Year 2]
+Decision: Target Ratio 0.2, Loan 1600
+Reasoning: 保持现有经济作物比例，同时适量增加以获取潜在收益。申请小额贷款用于维护新种植的经济作物以减少总投入压力。
+
+[Agent 24 - Year 2]
+Decision: Target Ratio 0.3, Loan 0
+Reasoning: 当前经济作物投资后需5年才能收获，为了维持现有土地使用和避免负债申请贷款，保持现有种植比例以确保现金流稳定
+
+[Agent 49 - Year 2]
+Decision: Target Ratio 0.3, Loan 5644.8
+Reasoning: 保持现有经济作物投资比例，同时申请贷款以应对后续的土地维护成本。
+
+[Agent 52 - Year 2]
+Decision: Target Ratio 0.2, Loan 4000
+Reasoning: 维持现有经济作物投资的同时，适度增加水稻种植比例以保持现金流稳定并获得保底收益。
+
+[Agent 94 - Year 2]
+Decision: Target Ratio 0.3, Loan 6600
+Reasoning: 保持经济作物种植比例在2.2亩，同时申请小额贷款以维持土地的使用和投资，确保资产安全并寻求长期收益。
+
+[Agent 53 - Year 2]
+Decision: Target Ratio 0.2, Loan 4800
+Reasoning: 保持现有经济作物比例，通过借款维持种植成本，为未来的收益增长做准备。
+
+[Agent 88 - Year 2]
+Decision: Target Ratio 0.2, Loan 0
+Reasoning: 当前经济作物投资回报率低，优先保护现有资产安全
+
+[Agent 11 - Year 2]
+Decision: Target Ratio 0.5, Loan 10600
+Reasoning: 扩大经济作物种植比例以提高整体收益，同时利用贷款资金维持现有经济作物的生长。
+
+[Agent 62 - Year 2]
+Decision: Target Ratio 0.3, Loan 7200
+Reasoning: 维持现有经济作物种植的同时，保留部分土地用于水稻种植以确保稳定收益，并申请贷款补充经济作物的投入资金。
+
+[Agent 19 - Year 2]
+Decision: Target Ratio 0.5, Loan 7000
+Reasoning: 尽管剩余土地可以种植保底收益的水稻，但为了尽快提高收入并为未来的经济作物投入做准备，选择半数土地用于经济作物种植。
+
+[Agent 25 - Year 2]
+Decision: Target Ratio 0.5, Loan 0
+Reasoning: 目前经济作物投入产出比低，优先确保水稻保底收益以维持现金流稳定。
+
+[Agent 76 - Year 2]
+Decision: Target Ratio 0.5, Loan 14000
+Reasoning: 平衡现有作物投入与未来收益，同时合理规划贷款以应对经济作物种植初期的高维护成本。
+
+[Agent 44 - Year 2]
+Decision: Target Ratio 0.15, Loan 23000
+Reasoning: 为了确保资产安全，优先保留现有经济作物的土地比例，同时申请贷款以维持其他土地的种植。
+
+[Agent 78 - Year 2]
+Decision: Target Ratio 0.2, Loan 0
+Reasoning: 当前经济作物尚未成熟，投资风险较高且无法带来收益，优先保护资产安全。
+
+[Agent 66 - Year 2]
+Decision: Target Ratio 0.5, Loan 0
+Reasoning: 当前经济作物投入产出比低，应将更多土地用于种植保底收益的水稻以减少风险。
+
+[Agent 34 - Year 2]
+Decision: Target Ratio 0.2, Loan 1000
+Reasoning: 目前经济作物投入产出比不明显，优先保证现有土地保底收益
+
+[Agent 32 - Year 2]
+Decision: Target Ratio 0.2, Loan 34640
+Reasoning: 保持现有经济作物比例以确保至少有部分产出，同时申请贷款用于剩余土地的种植以增加收益。
+
+[Agent 91 - Year 2]
+Decision: Target Ratio 0.2, Loan 16000
+Reasoning: 维持现有资产安全，优先考虑土地的保值与增值。
+
+[Agent 17 - Year 2]
+Decision: Target Ratio 0.2, Loan 8000
+Reasoning: 平衡现有经济作物投入与后续收益，同时考虑适度借贷以提高土地利用效率。
+
+[Agent 28 - Year 2]
+Decision: Target Ratio 0.3, Loan 0
+Reasoning: 当前经济作物投入产出比低，优先保留土地种植保底收益的水稻。
+
+[Agent 69 - Year 2]
+Decision: Target Ratio 0.5, Loan 4200
+Reasoning: 为了尽快提高收入，增加经济作物种植比例以获得补贴收益。
+
+[Agent 10 - Year 2]
+Decision: Target Ratio 0.3, Loan 1200
+Reasoning: 保持现有经济作物投入，同时考虑借贷以提高土地使用效率。
+
+[Agent 63 - Year 2]
+Decision: Target Ratio 0.2, Loan 6000
+Reasoning: 保留一半的土地种植水稻以保证基本收益，同时通过贷款投入一部分经济作物，既能确保资金安全又能适应政策和市场需求。
+
+[Agent 21 - Year 2]
+Decision: Target Ratio 0.5, Loan 3000
+Reasoning: 虽然剩余的土地适合种植水稻以确保保底收益，但扩大经济作物的种植比例可以提高整体投资回报率。
+
+[Agent 60 - Year 2]
+Decision: Target Ratio 0.3, Loan 5600
+Reasoning: 现有经济作物投入产出比低，优先保证土地保底收益并减少损失。
+
+[Agent 50 - Year 2]
+Decision: Target Ratio 0.2, Loan 4400
+Reasoning: 当前经济作物投入产出比低，优先保护资金安全。
+
+[Agent 38 - Year 2]
+Decision: Target Ratio 0.8, Loan 17600
+Reasoning: 当前经济作物投入产出比低，扩大种植面积以提升整体收益能力。
+
+[Agent 43 - Year 2]
+Decision: Target Ratio 0.2, Loan 10000
+Reasoning: 通过种植一定比例的经济作物获取收入，同时确保有足够的资金进行下一年的土地维护和可能的新技术尝试。
+
+[Agent 87 - Year 2]
+Decision: Target Ratio 0.2, Loan 3400
+Reasoning: 扩大经济作物种植比例以增加未来收益，同时申请贷款用于维护现有经济作物。
+
+[Agent 30 - Year 2]
+Decision: Target Ratio 0.2, Loan 4800
+Reasoning: 通过种植20%的土地为经济作物，既能维持现有土地利用的多样性，又能确保在投资回报前有足够的现金流。
+
+[Agent 18 - Year 2]
+Decision: Target Ratio 0.25, Loan 0
+Reasoning: 当前经济作物种植尚未产出，优先保护现有资源和资金以确保可持续发展。
+
+[Agent 14 - Year 2]
+Decision: Target Ratio 0.2, Loan 3200
+Reasoning: 虽然种植经济作物需要5年才能收益，但考虑到长期投资和稳健型性格，适量的经济作物可以带来额外收入以支持水稻保底收益。
+
+[Agent 97 - Year 2]
+Decision: Target Ratio 0.3, Loan 6000
+Reasoning: 保持经济作物种植比例在总土地的30%，以确保有稳定的收入来源，并通过贷款补充投入资金。
+
+[Agent 20 - Year 2]
+Decision: Target Ratio 0.3, Loan 24000
+Reasoning: 为了加快土地利用效率，提升整体收益，在现有基础上增加经济作物种植比例。
+
+[Agent 47 - Year 2]
+Decision: Target Ratio 0.2, Loan 0
+Reasoning: 当前经济作物投资在已有土地中比例较高，继续维持现有比例以保持资金流动性并规避过度分散风险。
+
+[Agent 3 - Year 2]
+Decision: Target Ratio 0.5, Loan 0
+Reasoning: 当前资金状况下，维持现有经济作物比例以保障现金流稳定更为合适。
+
+[Agent 77 - Year 2]
+Decision: Target Ratio 0.3, Loan 6000
+Reasoning: 保持现有经济作物比例，同时利用部分存款申请小额贷款以应对未来5年的维护成本。
+
+[Agent 56 - Year 2]
+Decision: Target Ratio 0.2, Loan 1000
+Reasoning: 为了维持经济作物的种植并确保下一年度有稳定的收益来源，同时不会对水稻种植的土地产生负面影响。
+
+[Agent 58 - Year 2]
+Decision: Target Ratio 0.25, Loan 3400
+Reasoning: 保持经济作物种植比例在25%，既充分利用现有土地，又维持稳定的现金流，以备后续投资水稻和经济作物的成长期所需。
+
+[Agent 95 - Year 2]
+Decision: Target Ratio 0.3, Loan 6000
+Reasoning: 在当前情况下，增加经济作物的比例可以提高总收益，同时政府补贴和储备的存款能够覆盖初期投资。
+
+[Agent 29 - Year 2]
+Decision: Target Ratio 0.5, Loan 4400
+Reasoning: 保持现有经济作物种植比例，同时申请部分贷款以应对可能的现金短缺和土地维护成本。
+
+[Agent 0 - Year 2]
+Decision: Target Ratio 0.5, Loan 14000
+Reasoning: 尽管面临经济作物种植后的五年等待期，但我希望通过扩大现有经济作物的种植比例来实现更快的资金回流和收益增长。
+
+[Agent 45 - Year 2]
+Decision: Target Ratio 0.3, Loan 1400
+Reasoning: 在现有资产和补贴下，优先种植经济作物以增加收入来源，同时适度控制风险。
+
+[Agent 92 - Year 2]
+Decision: Target Ratio 0.3, Loan 0
+Reasoning: 当前经济作物已有2.2亩，投入产出比不明显；保留一定比例的土地种植水稻以确保基础收益。
+
+[Agent 8 - Year 2]
+Decision: Target Ratio 0.3, Loan 1600
+Reasoning: 保持现有的经济作物种植比例，同时利用政府补贴和贷款进行短期的经济效益提升。
+
+[Agent 26 - Year 2]
+Decision: Target Ratio 0.25, Loan 0
+Reasoning: 当前经济作物投资尚未产生收益，优先考虑保留资金以备后续可能的风险投资和资产增值。
+
+[Agent 27 - Year 2]
+Decision: Target Ratio 0.3, Loan 8400
+Reasoning: 保持现有经济作物与水稻种植平衡，确保资金安全并维持一定收益。
+
+[Agent 22 - Year 2]
+Decision: Target Ratio 0.2, Loan 3200
+Reasoning: 优先保护现有资产并确保存款安全，同时利用补贴维持经济作物种植。
+
+[Agent 13 - Year 2]
+Decision: Target Ratio 0.3, Loan 4800
+Reasoning: 当前经济作物投入产出比低，通过贷款增加种植比例以提高收益潜力。
+
+[Agent 98 - Year 2]
+Decision: Target Ratio 0.2, Loan 9600
+Reasoning: 尽管当前经济作物投入产出比低，但扩大经济作物种植可以为未来储备更多的收益。我将申请贷款以应对短期内的成本压力。
+
+[Agent 68 - Year 2]
+Decision: Target Ratio 0.2, Loan 5600
+Reasoning: 保持现有经济作物种植比例，利用部分存款申请小额贷款以维持整体投资稳定。
+
+[Agent 64 - Year 2]
+Decision: Target Ratio 0.3, Loan 0
+Reasoning: 当前经济作物投资收益较低，优先保证现有水稻种植以保障基础收入。
+
+[Agent 48 - Year 2]
+Decision: Target Ratio 0.3, Loan 6800
+Reasoning: 保持经济作物种植比例，同时满足资金需求以覆盖后续一年的土地维护成本。
+
+[Agent 89 - Year 2]
+Decision: Target Ratio 0.4, Loan 1600
+Reasoning: 保持现有经济作物种植比例以维持基本收益，同时申请部分贷款用于扩大水稻种植面积以保证总产量。
+
+[Agent 37 - Year 2]
+Decision: Target Ratio 0.5, Loan 33000
+Reasoning: 通过扩大经济作物种植面积至一半，虽然短期可能会增加成本和风险，但长期来看能提高整体收益，从而更快实现资产积累和偿还贷款的能力。
+
+[Agent 23 - Year 2]
+Decision: Target Ratio 0.2, Loan 1600
+Reasoning: 预留一定比例的土地种植经济作物，以平衡长期收益与风险。
+
+[Agent 71 - Year 2]
+Decision: Target Ratio 0.3, Loan 0
+Reasoning: 当前经济作物投资亏损，优先保障土地保底收益
+
+[Agent 80 - Year 2]
+Decision: Target Ratio 0.25, Loan 4800
+Reasoning: 保持现有经济作物比例以确保最低收益并减少风险，同时利用政府补贴缓解初期投资压力。
+
+[Agent 86 - Year 2]
+Decision: Target Ratio 0.5, Loan 3200
+Reasoning: 维持现有种植结构，确保经济作物和水稻的平衡发展以保障收入稳定性。同时申请小额贷款用于土地维护。
+
+[Agent 93 - Year 2]
+Decision: Target Ratio 0.5, Loan 2000
+Reasoning: 保持现有经济作物种植比例，同时通过小额借贷维持经济作物的投入以避免放弃可能带来的损失。
+
+[Agent 74 - Year 2]
+Decision: Target Ratio 0.2, Loan 3600
+Reasoning: 保留更多土地用于种植水稻以确保现金流，同时适度投资经济作物以期在未来获得收益。
+
+[Agent 7 - Year 2]
+Decision: Target Ratio 0.4, Loan 16000
+Reasoning: 保持现有经济作物投资比例，同时申请贷款以应对未来5年种植维护所需资金缺口。
+
+[Agent 6 - Year 2]
+Decision: Target Ratio 0.2, Loan 0
+Reasoning: 保持现有经济作物比例，以确保现金流稳定并逐步积累种植经验。
+
+[Agent 65 - Year 2]
+Decision: Target Ratio 0.4, Loan 0
+Reasoning: 当前经济作物尚未成熟，投入产出比不高，优先发展保底收益的水稻种植。
+
+[Agent 41 - Year 2]
+Decision: Target Ratio 0.2, Loan 4368
+Reasoning: 虽然经济作物种植需5年才能收获，但通过保持现有经济作物的投入并合理利用贷款资金扩大水稻种植面积以确保收入稳定。
+
+[Agent 90 - Year 2]
+Decision: Target Ratio 0.5, Loan 0
+Reasoning: 当前经济作物投资收益较低，保留一部分土地用于水稻种植以确保基本保底收入。
+
+[Agent 83 - Year 2]
+Decision: Target Ratio 0.4, Loan 28000
+Reasoning: 尽管经济作物种植后需5年才能收获，但为了尽快增加收入并为未来做准备，我决定在现有土地中保留一定比例的土地种植经济作物。
+
+[Agent 55 - Year 2]
+Decision: Target Ratio 0.75, Loan 4200
+Reasoning: 通过增加经济作物种植比例，利用政府补贴和自身的存款进行短期高收益投资，以尽快积累更多资源用于未来的更大规模投资。
+
+[Agent 85 - Year 2]
+Decision: Target Ratio 0.5, Loan 2400
+Reasoning: 维持现有经济作物以确保部分收入来源，同时保留一部分土地用于水稻种植保障粮食安全。
+
+[Agent 4 - Year 2]
+Decision: Target Ratio 0.2, Loan 4000
+Reasoning: 平衡风险与收益，保留部分土地种植水稻以确保基本收益，同时进行小额投资尝试经济作物的潜在增长。
+
+[Agent 7 - Year 3]
+Decision: Target Ratio 0.4, Loan 2800
+Reasoning: 平衡风险与收益，保留一部分土地种植保底收益的水稻以应对经济作物的风险。
+
+[Agent 96 - Year 3]
+Decision: Target Ratio 0.3, Loan 1200
+Reasoning: 平衡风险与收益，保留部分土地种植水稻以确保基本收入，同时尝试少量经济作物增加未来收入潜力。
+
+[Agent 4 - Year 3]
+Decision: Target Ratio 0.2, Loan 40200
+Reasoning: 保本的同时最大化未来收益，先种植经济作物以获取补贴并减少土地闲置损失。
+
+[Agent 19 - Year 3]
+Decision: Target Ratio 0.5, Loan 14000
+Reasoning: 为了尽快回收成本并实现经济作物的利润，增加目标种植比例是必要的。
+
+[Agent 49 - Year 3]
+Decision: Target Ratio 0.3, Loan 5600
+Reasoning: 平衡现有资产与未来收益，保留一定比例土地种植保底作物以应对不确定性。
+
+[Agent 74 - Year 3]
+Decision: Target Ratio 0.2, Loan 3000
+Reasoning: 保留一部分土地种植水稻以确保保底收益，同时适量增加经济作物种植面积以便在未来获得更高收益。
+
+[Agent 72 - Year 3]
+Decision: Target Ratio 0.2, Loan 4600
+Reasoning: 尽管经济作物需要投入较多，但长期来看其收益能够弥补土地的保底收入并偿还贷款。
+
+[Agent 51 - Year 3]
+Decision: Target Ratio 0.2, Loan 6000
+Reasoning: 保持现有经济作物比例稳定，同时进行小额借贷以获取额外的土地种植水稻，提升整体收益可能性。
+
+[Agent 87 - Year 3]
+Decision: Target Ratio 0.2, Loan 3400
+Reasoning: 为了尽快提高整体收益，扩大经济作物种植比例至总土地的20%是一个明智的选择。
+
+[Agent 52 - Year 3]
+Decision: Target Ratio 0.4, Loan 8000
+Reasoning: 保持现有经济作物比例以稳定收入，同时申请部分贷款用于扩大水稻种植面积增加保底收益。
+
+[Agent 99 - Year 3]
+Decision: Target Ratio 0.2, Loan 0
+Reasoning: 当前资产状况下，维持现有经济作物种植以确保现金流稳定更为适宜。
+
+[Agent 21 - Year 3]
+Decision: Target Ratio 0.5, Loan 2000
+Reasoning: 平衡现有资源，提高经济作物比例以实现更快的收益增长。
+
+[Agent 41 - Year 3]
+Decision: Target Ratio 0.2, Loan 43619
+Reasoning: 保持现有经济作物比例，以便在收获后能覆盖成本并积累资金用于下一年度的发展。
+
+[Agent 3 - Year 3]
+Decision: Target Ratio 0.5, Loan 37428
+Reasoning: 保持现有经济作物与水稻种植比例，以维持现金流并确保基础收益稳定。考虑申请适量贷款以支持经济作物的维护和后期收获。
+
+[Agent 53 - Year 3]
+Decision: Target Ratio 0.3, Loan 6800
+Reasoning: 保底收益并尝试提高土地利用效率，以应对未来作物收获的不确定性。
+
+[Agent 84 - Year 3]
+Decision: Target Ratio 0.5, Loan 0
+Reasoning: 当前经济作物尚未收获，优先保留资金用于水稻种植以确保基本收益和未来投资。
+
+[Agent 43 - Year 3]
+Decision: Target Ratio 0.2, Loan 0
+Reasoning: 当前经济作物投入产出比低，优先保护现有资源并保持资金安全。
+
+[Agent 47 - Year 3]
+Decision: Target Ratio 0.2, Loan 3400
+Reasoning: 保持现有经济作物比例，利用部分存款和政府补贴作为启动资金进行小额投资。
+
+[Agent 81 - Year 3]
+Decision: Target Ratio 0.2, Loan 13600
+Reasoning: 保持现有经济作物比例，同时利用积蓄和政府补贴申请贷款以维持经济作物的投入，确保长期收益。
+
+[Agent 40 - Year 3]
+Decision: Target Ratio 0.2, Loan 5600
+Reasoning: 保持现有经济作物比例以保证收益，同时申请部分贷款用于种植以增加短期收入。
+
+[Agent 79 - Year 3]
+Decision: Target Ratio 0.5, Loan 4000
+Reasoning: 平衡风险与收益，同时利用政府补贴和现有资金进行部分经济作物种植以实现盈利
+
+[Agent 42 - Year 3]
+Decision: Target Ratio 0.2, Loan 0
+Reasoning: 当前资金不足以全面种植经济作物，优先保证现有经济作物投入和土地保底收益
+
+[Agent 0 - Year 3]
+Decision: Target Ratio 0.5, Loan 19600
+Reasoning: 当前经济作物已有2亩投入，为保证收益并准备下一年的种植计划，增加一半的土地用于经济作物是合理的长期投资策略。
+
+[Agent 26 - Year 3]
+Decision: Target Ratio 0.25, Loan 0
+Reasoning: 目前经济作物投资尚未产生收益，优先保障现有资源安全。
+
+[Agent 50 - Year 3]
+Decision: Target Ratio 0.2, Loan 4400
+Reasoning: 优先保护现有投资，减少财务风险
+
+[Agent 95 - Year 3]
+Decision: Target Ratio 0.3, Loan 0
+Reasoning: 当前资金不足以支持经济作物种植，且优先考虑资产安全。
+
+[Agent 82 - Year 3]
+Decision: Target Ratio 0.2, Loan 0
+Reasoning: 当前经济作物投入产出比低，优先保留土地用于保底收益的水稻种植以保证现金流安全。
+
+[Agent 12 - Year 3]
+Decision: Target Ratio 0.2, Loan 2400
+Reasoning: 保持土地平衡，确保经济作物与水稻种植比例合理，同时申请贷款以维持经济运转。
+
+[Agent 28 - Year 3]
+Decision: Target Ratio 0.3, Loan 16000
+Reasoning: 平衡现有投资和未来收益，保留足够土地用于水稻种植确保保底收益，并申请贷款扩大经济作物面积以加速回报。
+
+[Agent 86 - Year 3]
+Decision: Target Ratio 0.3, Loan 5600
+Reasoning: 保持现有经济作物比例，同时考虑到低风险收益的水稻种植以保证资金安全并为未来种树做准备。
+
+[Agent 63 - Year 3]
+Decision: Target Ratio 0.2, Loan 6000
+Reasoning: 保留一部分土地种植水稻以确保基本收益，同时投资较少的土地用于经济作物尝试新的生产方式。
+
+[Agent 68 - Year 3]
+Decision: Target Ratio 0.2, Loan 5600
+Reasoning: 维持现有经济作物比例以保证现金流稳定，同时申请小额贷款用于购买化肥和农药，提高已有经济作物产量。
+
+[Agent 56 - Year 3]
+Decision: Target Ratio 0.2, Loan 1000
+Reasoning: 在当前资产状况下，适度增加经济作物种植比例可以平衡收益与风险，同时缓解资金压力。
+
+[Agent 89 - Year 3]
+Decision: Target Ratio 0.3, Loan 5600
+Reasoning: 保持现有经济作物种植比例，利用部分存款申请贷款以扩大经济作物种植面积，同时保留一部分土地种植保底收益的水稻。
+
+[Agent 76 - Year 3]
+Decision: Target Ratio 0.5, Loan 14000
+Reasoning: 保持现有经济作物种植比例的同时，增加一部分土地用于经济作物以期在未来获得收益。考虑到当前的经济状况和政府补贴，借款来扩大种植规模是可行的选择。
+
+[Agent 70 - Year 3]
+Decision: Target Ratio 0.25, Loan 3600
+Reasoning: 通过增加经济作物种植比例，可以较快获得收益以支持下一年的投入，并利用贷款缓解资金压力。
+
+[Agent 66 - Year 3]
+Decision: Target Ratio 0.5, Loan 4000
+Reasoning: 保持现有经济作物比例，同时确保有足够的资金用于土地维护和可能的小额借贷以应对不确定性。
+
+[Agent 29 - Year 3]
+Decision: Target Ratio 0.5, Loan 4400
+Reasoning: 平衡投资风险与收益，保留一部分土地用于种植保底收益的水稻。
+
+[Agent 67 - Year 3]
+Decision: Target Ratio 0.3, Loan 5800
+Reasoning: 保留一半土地种植水稻以保障现金流和资产安全，同时通过贷款扩大经济作物种植面积。
+
+[Agent 83 - Year 3]
+Decision: Target Ratio 0.4, Loan 2800
+Reasoning: 为了在未来的经济作物收获期增加收益，同时利用现有的土地资源进行短期投资。
+
+[Agent 27 - Year 3]
+Decision: Target Ratio 0.3, Loan 8400
+Reasoning: 平衡现有经济作物与剩余种植水稻之间的收益，同时考虑到维持土地健康和预防未来可能的风险。
+
+[Agent 94 - Year 3]
+Decision: Target Ratio 0.3, Loan 6600
+Reasoning: 保持现有经济作物比例，通过小额借贷维持运营以确保现金流稳定。
+
+[Agent 73 - Year 3]
+Decision: Target Ratio 0.3, Loan 6000
+Reasoning: 虽然仅种植现金作物可以更快地见到收益，但考虑到经济作物的低产期和风险，保持一定比例的传统水稻种植有助于稳定收入并避免过度依赖单一作物。
+
+[Agent 45 - Year 3]
+Decision: Target Ratio 0.3, Loan 4200
+Reasoning: 当前经济作物投入产出比低，扩大水稻种植以确保稳定收益并积累资金用于未来经济作物的进一步投资。
+
+[Agent 93 - Year 3]
+Decision: Target Ratio 0.5, Loan 10000
+Reasoning: 保持现有经济作物比例以维持现金流，同时申请贷款扩大水稻种植面积增加保底收益。
+
+[Agent 20 - Year 3]
+Decision: Target Ratio 0.3, Loan 8420
+Reasoning: 尽管经济作物需要5年才能收获，但当前的存款和补贴不足以支持全额种植。通过借贷一部分土地以减少现金作物比例，以节省维持成本，并在经济作物成熟后迅速获利来偿还贷款。
+
+[Agent 15 - Year 3]
+Decision: Target Ratio 0.5, Loan 0
+Reasoning: 当前经济作物投入产出比低，优先保护现有资产和现金流。
+
+[Agent 1 - Year 3]
+Decision: Target Ratio 0.2, Loan 12000
+Reasoning: 保持现有经济作物种植比例，以获取政府补贴并覆盖维护成本。考虑申请贷款用于维持运营和应对未来可能的市场波动。
+
+[Agent 54 - Year 3]
+Decision: Target Ratio 0.3, Loan 16000
+Reasoning: 保持经济作物投资比例在可控范围内，同时确保有足够资金用于维护及维持现有农作物的正常运行。
+
+[Agent 36 - Year 3]
+Decision: Target Ratio 0.33, Loan 1200
+Reasoning: 保留部分土地种植保底作物以确保收入稳定，同时合理分配资源进行经济作物投资。
+
+[Agent 2 - Year 3]
+Decision: Target Ratio 0.5, Loan 13600
+Reasoning: 保持经济作物和水稻种植比例平衡，同时利用部分贷款扩大经济作物的种植面积以便未来收益
+
+[Agent 30 - Year 3]
+Decision: Target Ratio 0.2, Loan 4600
+Reasoning: 通过增加经济作物种植比例，提高整体收入以应对投资周期内维护费用。同时控制贷款额度在可控范围内。
+
+[Agent 80 - Year 3]
+Decision: Target Ratio 0.3, Loan 4800
+Reasoning: 当前存款不足以支持全部经济作物种植，需适量保留稻田以确保资金安全。
+
+[Agent 75 - Year 3]
+Decision: Target Ratio 0.2, Loan 3200
+Reasoning: 保持经济作物种植比例在合理范围内，确保资金用于主要收益来源并留出缓冲空间。
+
+[Agent 88 - Year 3]
+Decision: Target Ratio 0.2, Loan 11000
+Reasoning: 保留更多土地种植水稻以保证稳定收入，同时通过贷款投资经济作物获得未来可能的收益。
+
+[Agent 46 - Year 3]
+Decision: Target Ratio 0.5, Loan 8200
+Reasoning: 在保持现有经济作物4.1亩的基础上，通过贷款增加种植面积至一半，以提高整体收益。
+
+[Agent 22 - Year 3]
+Decision: Target Ratio 0.2, Loan 3200
+Reasoning: 优先保证现有经济作物投入，同时确保资金安全
+
+[Agent 34 - Year 3]
+Decision: Target Ratio 0.3, Loan 1500
+Reasoning: 为了保障资金安全并尽可能保留土地种植水稻以实现长期收益，选择低比例投资经济作物。
+
+[Agent 10 - Year 3]
+Decision: Target Ratio 0.4, Loan 0
+Reasoning: 当前经济作物投资尚未带来收益，但剩余土地可用于水稻种植以保证稳定收入。
+
+[Agent 92 - Year 3]
+Decision: Target Ratio 0.25, Loan 0
+Reasoning: 在当前经济状况下，将一半的土地用于经济作物种植是相对保守且可持续的选择。
+
+[Agent 8 - Year 3]
+Decision: Target Ratio 0.3, Loan 16000
+Reasoning: 保持现有经济作物比例的同时，通过借贷补充资金以维持土地的运转，同时为明年收获做准备。
+
+[Agent 77 - Year 3]
+Decision: Target Ratio 0.3, Loan 6000
+Reasoning: 保留一部分土地种植水稻以保证稳定收入，同时增加经济作物比例以提高整体收益潜力。
+
+[Agent 65 - Year 3]
+Decision: Target Ratio 0.5, Loan 3600
+Reasoning: 平衡风险与收益，预留足够资金应对经济作物种植初期的高投入，同时确保粮食安全。
+
+[Agent 91 - Year 3]
+Decision: Target Ratio 0.2, Loan 16000
+Reasoning: 目前经济作物投入产出比低，且资金安全为首要考虑。
+
+[Agent 17 - Year 3]
+Decision: Target Ratio 0.2, Loan 8000
+Reasoning: 为了提高收益，保留一部分土地种植经济作物，并申请贷款以应对投资初期的成本压力。
+
+[Agent 18 - Year 3]
+Decision: Target Ratio 0.25, Loan 6400
+Reasoning: 当前经济作物投资收益较低，维持现状以节省资金用于后续种植水稻保底收入。
+
+[Agent 37 - Year 3]
+Decision: Target Ratio 0.5, Loan 14000
+Reasoning: 扩大经济作物种植比例，以提高整体收益并尽快收回投资成本。
+
+[Agent 25 - Year 3]
+Decision: Target Ratio 0.5, Loan 0
+Reasoning: 当前经济作物投入产出比不高，优先保证现有经济作物的稳定收益并逐步扩大投资
+
+[Agent 13 - Year 3]
+Decision: Target Ratio 0.3, Loan 14000
+Reasoning: 在现有资金下，适度增加经济作物种植比例以平衡收入来源并为未来储备资金。
+
+[Agent 33 - Year 3]
+Decision: Target Ratio 0.5, Loan 13000
+Reasoning: 平衡风险与收益，保留部分土地种植水稻以确保最低收益，并申请小额贷款用于经济作物的维护和培育。
+
+[Agent 24 - Year 3]
+Decision: Target Ratio 0.3, Loan 10000
+Reasoning: 通过种植少量经济作物来平衡风险和收益，同时利用贷款减轻当前的财务压力并优化土地使用。
+
+[Agent 55 - Year 3]
+Decision: Target Ratio 0.7, Loan 2800
+Reasoning: 扩大经济作物种植面积，以获得更高的潜在收益回报。
+
+[Agent 64 - Year 3]
+Decision: Target Ratio 0.3, Loan 12000
+Reasoning: 平衡风险与收益，保留部分土地种植水稻以确保保底收益的同时减少投资压力。
+
+[Agent 6 - Year 3]
+Decision: Target Ratio 0.2, Loan 3600
+Reasoning: 保留一部分土地种植水稻以确保保底收益，同时利用部分贷款资金扩大经济作物面积以便于在5年后收获并出售获得利润。
+
+[Agent 60 - Year 3]
+Decision: Target Ratio 0.3, Loan 5600
+Reasoning: 当前经济作物投资回报期长，优先保本并增加水稻种植以确保现金流安全。
+
+[Agent 11 - Year 3]
+Decision: Target Ratio 0.5, Loan 11480
+Reasoning: 尽管经济作物需要投入，但它们在未来能带来更高收益，通过增加种植比例来平衡资金需求。
+
+[Agent 5 - Year 3]
+Decision: Target Ratio 0.2, Loan 0
+Reasoning: 目前经济作物投入产出比低，保底收益的水稻种植更稳健且成本可控。
+
+[Agent 16 - Year 3]
+Decision: Target Ratio 0.2, Loan 3600
+Reasoning: 优先保护现有资产，确保资金安全并逐步扩大经济作物种植面积。
+
+[Agent 48 - Year 3]
+Decision: Target Ratio 0.3, Loan 6600
+Reasoning: 为了在当前的经济环境下最大化收益，决定种植30%的土地于经济作物以利用政府补贴，同时留出70%用于水稻保底收入。
+
+[Agent 71 - Year 3]
+Decision: Target Ratio 0.3, Loan 0
+Reasoning: 现有经济作物投入产出比低，优先保证土地保底收益
+
+[Agent 57 - Year 3]
+Decision: Target Ratio 0.2, Loan 4040
+Reasoning: 目前经济作物投入产出比低，优先保本并增加水稻种植以确保现金流安全。
+
+[Agent 14 - Year 3]
+Decision: Target Ratio 0.2, Loan 3200
+Reasoning: 保持现有经济作物种植比例，继续投入维护费用，并申请部分贷款以应对未来可能的风险和不确定性。
+
+[Agent 62 - Year 3]
+Decision: Target Ratio 0.3, Loan 7200
+Reasoning: 维持现有经济作物种植比例，同时利用部分存款申请小额贷款以补充投入资金。
+
+[Agent 35 - Year 3]
+Decision: Target Ratio 0.3, Loan 4800
+Reasoning: 当前存款不足以支持种植经济作物并保持资产安全，申请贷款以平衡投资与维持现有土地保底收益。
+
+[Agent 32 - Year 3]
+Decision: Target Ratio 0.2, Loan 3000
+Reasoning: 保持经济作物比例适中，既不增加过多风险也保证基础收益。考虑申请一定额度的贷款以应对投入需求。
+
+[Agent 98 - Year 3]
+Decision: Target Ratio 0.5, Loan 4800
+Reasoning: 为了实现长期收益最大化，选择一半土地种植经济作物以平衡风险和回报。
+
+[Agent 85 - Year 3]
+Decision: Target Ratio 0.5, Loan 2800
+Reasoning: 保持现有经济作物稳定，同时利用贷款扩大种植面积以实现多样化收入来源。
+
+[Agent 69 - Year 3]
+Decision: Target Ratio 0.5, Loan 4400
+Reasoning: 增加经济作物种植比例，以提高整体收益潜力。
+
+[Agent 59 - Year 3]
+Decision: Target Ratio 0.3, Loan 6960
+Reasoning: 尽管当前经济作物无产出，但仍需保持适度的投资以应对未来的收获期。同时利用部分存款申请贷款扩大种植面积，提高资产回报率。
+
+[Agent 97 - Year 3]
+Decision: Target Ratio 0.3, Loan 6000
+Reasoning: 尽管只种植1/3的土地于经济作物，可以平衡风险与收益，并利用贷款扩大投资规模。
+
+[Agent 39 - Year 3]
+Decision: Target Ratio 0.3, Loan 1200
+Reasoning: 为了充分利用土地，提高整体收益，决定种植30%的土地于经济作物上。
+
+[Agent 90 - Year 3]
+Decision: Target Ratio 0.5, Loan 0
+Reasoning: 优先保证经济作物的初始投资，同时保护现有收益稳定的水稻种植比例。
+
+[Agent 61 - Year 3]
+Decision: Target Ratio 0.2, Loan 0
+Reasoning: 今年主要以保底收益的水稻种植为主，待经济作物成熟后再逐步增加投资比例。
+
+[Agent 31 - Year 3]
+Decision: Target Ratio 0.2, Loan 1100
+Reasoning: 保持现有经济作物比例，同时申请小额贷款用于维持其种植和维护成本。
+
+[Agent 44 - Year 3]
+Decision: Target Ratio 0.5, Loan 9200
+Reasoning: 在现有经济作物投入后，增加适量的经济作物种植以平衡资产结构，并利用贷款覆盖部分投资成本。
+
+[Agent 58 - Year 3]
+Decision: Target Ratio 0.25, Loan 0
+Reasoning: 当前经济作物还未成熟，投入产出比不高。优先保持土地多样性以确保保底收益，并为下一年的种植做准备。
+
+[Agent 9 - Year 3]
+Decision: Target Ratio 0.2, Loan 12000
+Reasoning: 保持现有经济作物比例，同时为下一年度的种植做准备
+
+[Agent 38 - Year 3]
+Decision: Target Ratio 0.8, Loan 176000
+Reasoning: 扩大经济作物种植比例以提高收益，同时申请贷款以维持经济作物的投入。
+
+[Agent 78 - Year 3]
+Decision: Target Ratio 0.2, Loan 10000
+Reasoning: 保留大部分土地种植水稻以确保安全，同时利用贷款投资少量经济作物等待5年后收获。
+
+[Agent 23 - Year 3]
+Decision: Target Ratio 0.5, Loan 0
+Reasoning: 当前经济作物投入产出不成比例，优先保证现有水稻种植以确保现金流稳定。
+
+[Agent 56 - Year 4]
+Decision: Target Ratio 0.2, Loan 0
+Reasoning: 当前经济作物投入产出比低，优先保证现有土地的保底收益
+
+[Agent 8 - Year 4]
+Decision: Target Ratio 0.3, Loan 16000
+Reasoning: 为了最大化未来的收益，保留部分土地种植经济作物以抵消维护成本，并通过贷款补充投资资金。
+
+[Agent 30 - Year 4]
+Decision: Target Ratio 0.2, Loan 13600
+Reasoning: 尽管经济作物种植需5年才能收获，但我希望通过合理分配土地，在保障水稻收益的同时，适度投资经济作物以增加未来的收入潜力。
+
+[Agent 57 - Year 4]
+Decision: Target Ratio 0.2, Loan 4040
+Reasoning: 保持现有资产安全，优先考虑成熟作物的收益以增加现金流。
+
+[Agent 62 - Year 4]
+Decision: Target Ratio 0.3, Loan 2400
+Reasoning: 当前经济作物投资收益低于水稻，保留一部分土地用于保底收益同时考虑资金需求
+
+[Agent 31 - Year 4]
+Decision: Target Ratio 0.2, Loan 14000
+Reasoning: 维持现有经济作物投资，同时利用借贷扩大种植面积以增加未来收益潜力。
+
+[Agent 91 - Year 4]
+Decision: Target Ratio 0.2, Loan 3200
+Reasoning: 保持当前投资比例，避免高风险且短期内无明显收益的经济作物种植，专注于保底收益的土地
+
+[Agent 61 - Year 4]
+Decision: Target Ratio 0.25, Loan 1400
+Reasoning: 保持现有经济作物种植比例，适度提高以获取短期收益，同时申请贷款用于维护已投入的经济作物。
+
+[Agent 81 - Year 4]
+Decision: Target Ratio 0.2, Loan 15000
+Reasoning: 平衡风险与收益，保持一定比例的经济作物种植以获取补贴和保底收益。同时申请适当贷款以支持经济作物的初期投资。
+
+[Agent 96 - Year 4]
+Decision: Target Ratio 0.4, Loan 12000
+Reasoning: 确保经济作物种植比例不高于总土地的40%，同时考虑利用贷款以平衡投资与现金流入的压力。
+
+[Agent 98 - Year 4]
+Decision: Target Ratio 0.5, Loan 24000
+Reasoning: 为了提高收益并逐步扩大经济作物种植面积，同时考虑到资金需求，决定将一半的土地用于经济作物种植。
+
+[Agent 19 - Year 4]
+Decision: Target Ratio 0.5, Loan 37000
+Reasoning: 当前经济作物投入产出比低，优先扩大水稻种植以确保基础收益，并申请贷款用于经济作物的投资。
+
+[Agent 14 - Year 4]
+Decision: Target Ratio 0.2, Loan 3200
+Reasoning: 保持现有经济作物比例以减少风险，同时为未来可能的投资做准备。
+
+[Agent 64 - Year 4]
+Decision: Target Ratio 0.3, Loan 12000
+Reasoning: 通过合理分配土地种植比例，确保经济作物与水稻的平衡，同时利用贷款增加收入来源。
+
+[Agent 79 - Year 4]
+Decision: Target Ratio 0.5, Loan 0
+Reasoning: 当前经济作物投资见效需时，优先保本并考虑长期收益稳定
+
+[Agent 26 - Year 4]
+Decision: Target Ratio 0.25, Loan 0
+Reasoning: 当前土地已经投入较多，优先保障现有经济作物的收益与安全。
+
+[Agent 15 - Year 4]
+Decision: Target Ratio 0.5, Loan 8000
+Reasoning: 平衡风险与收益，确保经济作物和水稻种植均能持续投资并获取补贴
+
+[Agent 13 - Year 4]
+Decision: Target Ratio 0.3, Loan 4800
+Reasoning: 通过种植30%的土地用于经济作物，可以利用政府补贴和额外的17亩保底收益土地来平衡风险，同时保持稳健的投资策略。
+
+[Agent 72 - Year 4]
+Decision: Target Ratio 0.2, Loan 4400
+Reasoning: 保持现有投资比例，利用部分存款进行小额借贷以增加经济作物种植面积。
+
+[Agent 45 - Year 4]
+Decision: Target Ratio 0.2, Loan 4600
+Reasoning: 投资经济作物以平衡收入和长期收益，同时通过贷款补充初始资金。
+
+[Agent 38 - Year 4]
+Decision: Target Ratio 0.8, Loan 17640
+Reasoning: 尽管经济作物需5年才能收获，但我希望通过扩大当前种植比例以尽快增加收入。
+
+[Agent 22 - Year 4]
+Decision: Target Ratio 0.2, Loan 3200
+Reasoning: 当前经济作物投入产出不成比例，优先考虑减少风险和保证现有土地的收益安全。
+
+[Agent 4 - Year 4]
+Decision: Target Ratio 0.2, Loan 4000
+Reasoning: 保留一部分土地种植保底收益的水稻，同时合理分配经济作物以平衡风险和收益。
+
+[Agent 41 - Year 4]
+Decision: Target Ratio 0.2, Loan 4280
+Reasoning: 尽管经济作物需要5年才能收获，但为了保持资产流动性并持续获得政府补贴，维持现有种植结构以平衡风险和收益是明智的。
+
+[Agent 84 - Year 4]
+Decision: Target Ratio 0.5, Loan 4000
+Reasoning: 平衡风险与收益，确保经济作物投资后可产生效益且留出一部分土地种植水稻保障基本收入。
+
+[Agent 88 - Year 4]
+Decision: Target Ratio 0.2, Loan 1160
+Reasoning: 保持现有经济作物投资以确保资产安全，同时减少对剩余土地的占用风险。
+
+[Agent 51 - Year 4]
+Decision: Target Ratio 0.3, Loan 6000
+Reasoning: 保持现有经济作物比例，同时在可控范围内申请贷款以维持土地的维护成本。
+
+[Agent 16 - Year 4]
+Decision: Target Ratio 0.25, Loan 3600
+Reasoning: 当前经济作物投入产出比不高，优先保证现有土地保底收益并逐步增加投资比例。
+
+[Agent 71 - Year 4]
+Decision: Target Ratio 0.3, Loan 0
+Reasoning: 当前经济作物投资回报率低，且无成熟产出，优先保留资源用于水稻种植以保证保底收益和资产安全。
+
+[Agent 66 - Year 4]
+Decision: Target Ratio 0.5, Loan 0
+Reasoning: 当前经济作物已投入无收益，优先保留资金用于水稻种植以确保基础收入。
+
+[Agent 5 - Year 4]
+Decision: Target Ratio 0.2, Loan 16000
+Reasoning: 保持现有经济作物比例以获得补贴，同时预留一部分资金用于可能的未来风险投资。
+
+[Agent 59 - Year 4]
+Decision: Target Ratio 0.5, Loan 132411
+Reasoning: 尽管经济作物需投入较大，但长远来看它们能带来高收益，且目前存款仅够维持一年的种植成本。扩大经济作物种植比例有助于提高总收益，以覆盖贷款和后续年度的维护费用。
+
+[Agent 21 - Year 4]
+Decision: Target Ratio 0.7, Loan 14000
+Reasoning: 为了最大化资产回报，扩大经济作物种植比例可以提升整体收益。
+
+[Agent 94 - Year 4]
+Decision: Target Ratio 0.3, Loan 6600
+Reasoning: 虽然经济作物需要5年才能收获，但短期投入能够带来政府补贴和市场价的收益。通过贷款扩大经济作物种植比例以提高年度现金流。
+
+[Agent 25 - Year 4]
+Decision: Target Ratio 0.5, Loan 16000
+Reasoning: 保留一半土地种植经济作物以分散风险，同时确保有足够的资金进行投入。
+
+[Agent 65 - Year 4]
+Decision: Target Ratio 0.5, Loan 4200
+Reasoning: 平衡风险与收益，保留一定比例的土地用于经济作物种植以获取未来收入，同时申请贷款维持土地维护费用。
+
+[Agent 74 - Year 4]
+Decision: Target Ratio 0.2, Loan 3000
+Reasoning: 保持经济作物与保底收益土地的平衡，确保现金流稳定同时进行适量投资。
+
+[Agent 73 - Year 4]
+Decision: Target Ratio 0.3, Loan 6000
+Reasoning: 保持现有经济作物比例，避免过度投入导致现金流紧张。申请小额贷款以支持剩余土地的水稻种植。
+
+[Agent 43 - Year 4]
+Decision: Target Ratio 0.2, Loan 0
+Reasoning: 当前经济作物尚未成熟，投入产出比低。剩余土地种植保底收益的水稻更为合适。
+
+[Agent 24 - Year 4]
+Decision: Target Ratio 0.3, Loan 6000
+Reasoning: 保持现有经济作物种植比例，通过小额借贷补充资金，以维持土地平衡和收益稳定。
+
+[Agent 68 - Year 4]
+Decision: Target Ratio 0.35, Loan 28000
+Reasoning: 保留一部分土地用于水稻种植以确保基本收益，并利用剩余的土地进行经济作物的试种，以评估其市场表现并为可能的大规模投资做准备。
+
+[Agent 35 - Year 4]
+Decision: Target Ratio 0.3, Loan 0
+Reasoning: 当前经济作物种植成本高，且未成熟产生收益，优先保护现有资产安全
+
+[Agent 85 - Year 4]
+Decision: Target Ratio 0.5, Loan 14000
+Reasoning: 平衡风险与收益，投入一半土地种植经济作物以维持现金流和部分利润。剩余土地用于保底收益的水稻种植。
+
+[Agent 7 - Year 4]
+Decision: Target Ratio 0.4, Loan 8000
+Reasoning: 保留一部分土地用于种植水稻确保保底收益，同时增加经济作物的种植比例以追求更高的经济效益。
+
+[Agent 67 - Year 4]
+Decision: Target Ratio 0.3, Loan 5800
+Reasoning: 保留更多土地种植保底收益的水稻，以确保现金流稳定并逐步积累投资经济作物的资金。
+
+[Agent 92 - Year 4]
+Decision: Target Ratio 0.2, Loan 3600
+Reasoning: 为了平衡风险和收益，决定保留一半的土地种植水稻以确保保底收益，同时利用剩余的土地发展经济作物。
+
+[Agent 37 - Year 4]
+Decision: Target Ratio 0.5, Loan 3000
+Reasoning: 尽管经济作物种植需5年才可收获，但当前经济状况下扩大现有经济作物比例可以更快积累资金用于未来的投资
+
+[Agent 70 - Year 4]
+Decision: Target Ratio 0.4, Loan 2400
+Reasoning: 保留部分土地种植水稻以确保基本收益，同时适量种植经济作物以寻求更高回报并准备未来的贷款。
+
+[Agent 39 - Year 4]
+Decision: Target Ratio 0.5, Loan 2400
+Reasoning: 平衡风险与收益，维持现有经济作物投资同时减少短期现金流出。
+
+[Agent 9 - Year 4]
+Decision: Target Ratio 0.25, Loan 1000
+Reasoning: 保持经济作物比例稳定，同时利用政府补贴和贷款扩大种植面积以提高总收益。
+
+[Agent 87 - Year 4]
+Decision: Target Ratio 0.2, Loan 3400
+Reasoning: 尽管目前投入无产出，但长期来看经济作物收益潜力大，需加大投资比例以争取未来高回报。
+
+[Agent 2 - Year 4]
+Decision: Target Ratio 0.5, Loan 14000
+Reasoning: 保持现有经济作物比例，通过借款增加投资以提高整体盈利能力。
+
+[Agent 36 - Year 4]
+Decision: Target Ratio 0.3, Loan 5600
+Reasoning: 虽然经济作物投资回报周期长，但当前资金充足且风险可控。优先保护现有资产安全并确保基础水稻种植收益。
+
+[Agent 58 - Year 4]
+Decision: Target Ratio 0.3, Loan 16800
+Reasoning: 保留部分土地用于水稻种植作为保底收益，同时合理分配资源以实现长期稳健增长。
+
+[Agent 90 - Year 4]
+Decision: Target Ratio 0.5, Loan 40000
+Reasoning: 扩大经济作物种植比例以获取更高收益，同时申请贷款弥补资金缺口。
+
+[Agent 6 - Year 4]
+Decision: Target Ratio 0.2, Loan 16000
+Reasoning: 保持经济作物与水稻种植的平衡，以确保现金流稳定和逐步积累投资回报。
+
+[Agent 55 - Year 4]
+Decision: Target Ratio 0.5, Loan 2400
+Reasoning: 为了尽快提高收益，扩大经济作物种植比例至一半，同时申请部分贷款以应对初期的维护成本。
+
+[Agent 83 - Year 4]
+Decision: Target Ratio 0.35, Loan 21800
+Reasoning: 尽管现有经济作物的投入尚未产出，但考虑到未来五年的收益潜力和政府补贴，增加经济作物种植比例以扩大收入来源。
+
+[Agent 44 - Year 4]
+Decision: Target Ratio 0.5, Loan 14000
+Reasoning: 保持现有经济作物种植比例，以确保资金安全并利用政府补贴进行必要维护。
+
+[Agent 3 - Year 4]
+Decision: Target Ratio 0.5, Loan 0
+Reasoning: 当前经济作物没有产出，优先保持土地多样化以备后续尝试新技术或获得更高收益
+
+[Agent 12 - Year 4]
+Decision: Target Ratio 0.2, Loan 0
+Reasoning: 当前经济作物投资回报周期较长，维持现有种植结构以减少风险和维护资金安全。
+
+[Agent 99 - Year 4]
+Decision: Target Ratio 0.4, Loan 8000
+Reasoning: 保持现有经济作物种植比例，以确保稳定收益同时考虑资金风险平衡。
+
+[Agent 76 - Year 4]
+Decision: Target Ratio 0.5, Loan 14000
+Reasoning: 通过借贷一部分资金，将种植比例提高到一半，既考虑到了当前的收益问题，又为未来的经济作物收获做好准备。
+
+[Agent 46 - Year 4]
+Decision: Target Ratio 0.5, Loan 0
+Reasoning: 当前经济作物尚未产生收益，优先维持土地保值与安全。
+
+[Agent 86 - Year 4]
+Decision: Target Ratio 0.5, Loan 1600
+Reasoning: 平衡风险与收益，确保经济作物和水稻种植的比例，同时利用贷款缓解资金压力。
+
+[Agent 34 - Year 4]
+Decision: Target Ratio 0.2, Loan 4000
+Reasoning: 优先保证现有经济作物投资安全，同时通过少量种植经济作物获取补贴来维持现金流。
+
+[Agent 33 - Year 4]
+Decision: Target Ratio 0.5, Loan 13200
+Reasoning: 平衡风险与收益，维持现有经济作物种植比例以保证基础收入的同时合理分配资源。
+
+[Agent 50 - Year 4]
+Decision: Target Ratio 0.2, Loan 4400
+Reasoning: 维持现有资产安全，避免过度投资带来的风险。
+
+[Agent 60 - Year 4]
+Decision: Target Ratio 0.3, Loan 5600
+Reasoning: 优先保护现有资产，同时考虑政府补贴下的最低收益保障。
+
+[Agent 28 - Year 4]
+Decision: Target Ratio 0.3, Loan 16800
+Reasoning: 保持现有经济作物投资比例，同时确保有足够的储备金应对下一年的种植成本。
+
+[Agent 48 - Year 4]
+Decision: Target Ratio 0.3, Loan 14800
+Reasoning: 为了平衡风险和收益，将一半的土地用于经济作物种植，以利用政府补贴并尽快实现收入。
+
+[Agent 42 - Year 4]
+Decision: Target Ratio 0.2, Loan 8000
+Reasoning: 通过减少经济作物种植比例，减轻初期投入压力，同时保留充足的土地用于保底收益的水稻种植。
+
+[Agent 80 - Year 4]
+Decision: Target Ratio 0.25, Loan 4800
+Reasoning: 当前经济作物投入产出低，优先保护资产安全并考虑长期收益。
+
+[Agent 54 - Year 4]
+Decision: Target Ratio 0.3, Loan 16000
+Reasoning: 保持现有经济作物种植比例，以获得政府补贴维持现金流，并准备明年扩大种植面积。
+
+[Agent 32 - Year 4]
+Decision: Target Ratio 0.2, Loan 3000
+Reasoning: 在确保基本收益的同时，适度增加经济作物种植比例以平衡资产风险和收益。
+
+[Agent 47 - Year 4]
+Decision: Target Ratio 0.3, Loan 12000
+Reasoning: 保持现有经济作物比例，同时通过小额借贷增加种植面积以提高收入潜力。
+
+[Agent 89 - Year 4]
+Decision: Target Ratio 0.5, Loan 1600
+Reasoning: 平衡现有资产和市场情况，既保证了基本收益，又为未来尝试经济作物留有余地。
+
+[Agent 78 - Year 4]
+Decision: Target Ratio 0.2, Loan 0
+Reasoning: 当前主要资产为土地，短期内保持投资比例稳定有助于积累更多资金用于可能的投资机会。
+
+[Agent 75 - Year 4]
+Decision: Target Ratio 0.2, Loan 3200
+Reasoning: 目前经济作物种植投入大且无产出，而剩余土地可保底收益。通过少量借贷扩大经济作物种植比例以分散风险并积累资金。
+
+[Agent 11 - Year 4]
+Decision: Target Ratio 0.5, Loan 11000
+Reasoning: 为了充分利用土地并获得更高收益，选择一半的土地种植经济作物，剩余一半种植水稻以确保保底收入。
+
+[Agent 40 - Year 4]
+Decision: Target Ratio 0.2, Loan 1400
+Reasoning: 保持经济作物与水稻种植平衡，以避免单一风险，同时利用补贴进行少量贷款维持经济作物的投入。
+
+[Agent 20 - Year 4]
+Decision: Target Ratio 0.3, Loan 48200
+Reasoning: 保持现有经济作物比例，同时申请贷款扩大水稻种植面积以增加保底收益。
+
+[Agent 1 - Year 4]
+Decision: Target Ratio 0.3, Loan 4280
+Reasoning: 维持现有经济作物比例，同时通过贷款增加种植面积以提高整体收益。
+
+[Agent 23 - Year 4]
+Decision: Target Ratio 0.4, Loan 8000
+Reasoning: 保持现有经济作物种植比例，同时利用政府补贴和技术支持进行稳健投资。
+
+[Agent 69 - Year 4]
+Decision: Target Ratio 0.5, Loan 4200
+Reasoning: 为了最大化收益，决定将一半的土地种植经济作物。这样可以充分利用政府补贴和市场价，同时保持一定的风险分散。
+
+[Agent 52 - Year 4]
+Decision: Target Ratio 0.4, Loan 8000
+Reasoning: 平衡风险与收益，保留部分土地种植水稻以保证保底收益同时适度发展经济作物增加收入。
+
+[Agent 93 - Year 4]
+Decision: Target Ratio 0.5, Loan 0
+Reasoning: 当前经济作物投入产出比较低，优先保护现有投资并考虑长期收益
+
+[Agent 97 - Year 4]
+Decision: Target Ratio 0.3, Loan 6000
+Reasoning: 保持经济作物比例在合理范围，同时考虑未来收益和风险平衡。
+
+[Agent 18 - Year 4]
+Decision: Target Ratio 0.25, Loan 16000
+Reasoning: 确保经济作物种植比例，同时利用存款和贷款资金维持现有种植规模以获取最低收益。
+
+[Agent 10 - Year 4]
+Decision: Target Ratio 0.5, Loan 10000
+Reasoning: 平衡风险与收益，保留部分土地种植水稻以确保最低收益，同时通过贷款增加经济作物比例。
+
+[Agent 77 - Year 4]
+Decision: Target Ratio 0.3, Loan 60000
+Reasoning: 保持稳健投资，利用现有土地种植经济作物以实现短期收益，同时确保足够的现金流。
+
+[Agent 63 - Year 4]
+Decision: Target Ratio 0.5, Loan 30000
+Reasoning: 平衡风险与收益，优先投入剩余土地以保证最低保底收益的同时考虑经济作物的长远投资价值。
+
+[Agent 49 - Year 4]
+Decision: Target Ratio 0.3, Loan 5600
+Reasoning: 保留部分土地种植水稻以确保最低收益，同时利用剩余资金进行小额借贷以增加经济作物的投资比例。
+
+[Agent 53 - Year 4]
+Decision: Target Ratio 0.3, Loan 6840
+Reasoning: 保留大部分土地种植保底收益的水稻，同时投入一定比例的土地用于经济作物以期获得更高回报。
+
+[Agent 0 - Year 4]
+Decision: Target Ratio 0.5, Loan 7800
+Reasoning: 当前经济作物投入产出比低，扩大经济作物种植比例可提高整体收益。
+
+[Agent 29 - Year 4]
+Decision: Target Ratio 0.3, Loan 4400
+Reasoning: 确保经济作物种植面积，同时准备资金应对后续5年的维护成本。
+
+[Agent 95 - Year 4]
+Decision: Target Ratio 0.3, Loan 0
+Reasoning: 当前经济作物投资亏损，优先维护现有土地并节省资金用于长期规划。
+
+[Agent 82 - Year 4]
+Decision: Target Ratio 0.2, Loan 4400
+Reasoning: 保留一部分土地种植水稻以确保最低收益，并利用剩余的土地和政府补贴进行经济作物投资，同时申请小额贷款缓解资金压力。
+
+[Agent 17 - Year 4]
+Decision: Target Ratio 0.2, Loan 8000
+Reasoning: 保持当前种植比例，适量投资经济作物以平衡收益和风险。考虑贷款用于初期投入，减少现金压力。
+
+[Agent 27 - Year 4]
+Decision: Target Ratio 0.2, Loan 8000
+Reasoning: 确保经济作物和水稻种植的平衡，同时利用贷款资金扩大经济作物面积以提高收益。
+
+[Agent 71 - Year 5]
+Decision: Target Ratio 0.3, Loan 0
+Reasoning: 当前经济作物投资还未产生收益，优先保证现有土地的安全性。
+
+[Agent 53 - Year 5]
+Decision: Target Ratio 0.3, Loan 7200
+Reasoning: 维持现有经济作物投资比例，以确保基本收益的同时申请贷款用于土地改良和扩展
+
+[Agent 8 - Year 5]
+Decision: Target Ratio 0.25, Loan 1600
+Reasoning: 保持稳健投资，优先保证现有经济作物的收益并维持土地平衡。
+
+[Agent 16 - Year 5]
+Decision: Target Ratio 0.25, Loan 3968
+Reasoning: 保留现有经济作物投资以确保最低收益，同时申请贷款用于种植保底水稻的土地，以保持整体资产安全
+
+[Agent 27 - Year 5]
+Decision: Target Ratio 0.2, Loan 5600
+Reasoning: 平衡风险与收益，优先确保经济作物种植以快速回本并获取补贴
+
+[Agent 0 - Year 5]
+Decision: Target Ratio 0.6, Loan 48000
+Reasoning: 为了在接下来的5年中最大化收益，增加经济作物种植比例以获得政府补贴和市场价差，同时确保有足够的流动资金来承担每年2000元的维护费用。
+
+[Agent 60 - Year 5]
+Decision: Target Ratio 0.4, Loan 7200
+Reasoning: 优先保持资产安全，同时考虑现有经济作物的收益潜力。
+
+[Agent 20 - Year 5]
+Decision: Target Ratio 0.3, Loan 7200
+Reasoning: 尽管现有经济作物没有产出，但考虑到长期投资视角和政府补贴支持，优先扩大经济作物种植面积以增加未来收益潜力。
+
+[Agent 95 - Year 5]
+Decision: Target Ratio 0.5, Loan 4000
+Reasoning: 确保现有经济作物投资获得稳定收益，同时保留部分土地用于水稻种植，保证保底收益。
+
+[Agent 45 - Year 5]
+Decision: Target Ratio 0.25, Loan 4600
+Reasoning: 尽管经济作物种植需5年才能产出，但将其比例控制在合理范围内可以平衡短期收益与长期投资的关系。
+
+[Agent 25 - Year 5]
+Decision: Target Ratio 0.5, Loan 8000
+Reasoning: 平衡风险与收益，保留一部分土地种植保底收益的水稻，同时扩大经济作物种植比例以获取更多现金流。
+
+[Agent 17 - Year 5]
+Decision: Target Ratio 0.2, Loan 8000
+Reasoning: 目前只有少量经济作物投入产出，通过借贷增加经济作物种植比例以提高总收益。
+
+[Agent 97 - Year 5]
+Decision: Target Ratio 0.6, Loan 12000
+Reasoning: 保持现有经济作物比例不变，同时通过小额借贷增加种植面积以提高总收益。
+
+[Agent 7 - Year 5]
+Decision: Target Ratio 0.4, Loan 2800
+Reasoning: 保持现有经济作物种植比例，利用部分存款申请小额贷款以维持资金流动并增加短期收入。
+
+[Agent 49 - Year 5]
+Decision: Target Ratio 0.3, Loan 5600
+Reasoning: 平衡现有资源与未来收益，优先保护已投入的土地以避免资产流失。
+
+[Agent 64 - Year 5]
+Decision: Target Ratio 0.25, Loan 10000
+Reasoning: 通过增加经济作物种植比例，平衡风险和收益，同时利用贷款资金维持土地的投入与维护。
+
+[Agent 39 - Year 5]
+Decision: Target Ratio 0.5, Loan 4400
+Reasoning: 平衡投资风险与收益，优先保证经济作物种植以获取补贴和后期产出的潜力。
+
+[Agent 98 - Year 5]
+Decision: Target Ratio 0.5, Loan 3200
+Reasoning: 虽然经济作物需要在5年后才可收获，但当前的存款和补贴不足以覆盖接下来两年的投入。扩大经济作物种植比例可以缓解资金压力并尽早产生收益以应对未来投资。
+
+[Agent 11 - Year 5]
+Decision: Target Ratio 0.5, Loan 11349
+Reasoning: 通过增加经济作物种植比例，期望在未来的收获季节获得更多的收入以覆盖投资成本和补贴
+
+[Agent 50 - Year 5]
+Decision: Target Ratio 0.5, Loan 0
+Reasoning: 当前经济作物投入产出比低，优先维持现有土地的保底收益。
+
+[Agent 28 - Year 5]
+Decision: Target Ratio 0.3, Loan 5600
+Reasoning: 保持现有经济作物的稳定收益，同时利用部分土地种植水稻以确保保底收入，并申请小额贷款以维持整体资金运转。
+
+[Agent 40 - Year 5]
+Decision: Target Ratio 0.25, Loan 800
+Reasoning: 保持经济作物和水稻种植比例，兼顾风险控制与长期收益。
+
+[Agent 15 - Year 5]
+Decision: Target Ratio 0.5, Loan 48000
+Reasoning: 平衡风险与收益，保留更多土地种植保底作物以确保基本收入，同时适度增加经济作物投资比例。
+
+[Agent 10 - Year 5]
+Decision: Target Ratio 0.4, Loan 10000
+Reasoning: 保持现有经济作物比例，通过小额贷款增加种植面积以提高整体收益
+
+[Agent 13 - Year 5]
+Decision: Target Ratio 0.5, Loan 3600
+Reasoning: 平衡现有经济作物投资与稻米保底收益，同时降低风险。
+
+[Agent 33 - Year 5]
+Decision: Target Ratio 0.5, Loan 3000
+Reasoning: 为了平衡风险和收益，同时最大化长期回报，决定一半土地种植经济作物。通过小额借贷来弥补部分投入成本。
+
+[Agent 54 - Year 5]
+Decision: Target Ratio 0.3, Loan 5600
+Reasoning: 当前经济作物投入产出比不高，增加其比例可提升整体收益，同时申请贷款支持扩大种植规模。
+
+[Agent 38 - Year 5]
+Decision: Target Ratio 0.8, Loan 176440
+Reasoning: 尽管经济作物需要5年后才能收获，但为了最大化长期收益，扩大经济作物种植比例是明智的决策。
+
+[Agent 21 - Year 5]
+Decision: Target Ratio 0.7, Loan 3500
+Reasoning: 扩大经济作物种植面积以提高整体收益，同时申请部分贷款应对短期资金需求。
+
+[Agent 87 - Year 5]
+Decision: Target Ratio 0.5, Loan 27400
+Reasoning: 通过扩大经济作物种植比例，可以在维持现有保底收益的同时增加收入，以覆盖高额的维护成本和争取政府补贴。
+
+[Agent 14 - Year 5]
+Decision: Target Ratio 0.2, Loan 3200
+Reasoning: 虽然经济作物投资回报慢，但为长期收益预留资金。
+
+[Agent 84 - Year 5]
+Decision: Target Ratio 0.5, Loan 4000
+Reasoning: 平衡风险与收益，保留一部分土地用于水稻种植以保证现金流，同时适度扩大经济作物投资比例。
+
+[Agent 99 - Year 5]
+Decision: Target Ratio 0.4, Loan 0
+Reasoning: 当前经济作物投资已投入，继续维持现有比例以确保现金流稳定
+
+[Agent 55 - Year 5]
+Decision: Target Ratio 0.5, Loan 11000
+Reasoning: 扩大经济作物种植比例，以提高整体收益潜力。
+
+[Agent 82 - Year 5]
+Decision: Target Ratio 0.2, Loan 12000
+Reasoning: 为了充分利用现有的土地资源并获得一定收益，同时保持合理的投资风险，决定种植比例为20%。剩余80%的土地将继续种植水稻以确保保底收益。
+
+[Agent 86 - Year 5]
+Decision: Target Ratio 0.6, Loan 13800
+Reasoning: 保持现有经济作物种植比例，以确保稳定的收益并覆盖土地维护成本。考虑申请贷款增加水稻种植面积。
+
+[Agent 41 - Year 5]
+Decision: Target Ratio 0.2, Loan 42857
+Reasoning: 保留部分土地种植水稻以保证稳定的保底收益，同时通过贷款扩大经济作物的种植面积来提高整体经济效益。
+
+[Agent 78 - Year 5]
+Decision: Target Ratio 0.2, Loan 10000
+Reasoning: 优先保护现有投资并积累更多资金以应对未来可能的不确定性。
+
+[Agent 62 - Year 5]
+Decision: Target Ratio 0.3, Loan 7200
+Reasoning: 保持现有经济作物比例不变，减少投入风险；同时适度增加水稻种植以确保基本收益。
+
+[Agent 88 - Year 5]
+Decision: Target Ratio 0.2, Loan 1100
+Reasoning: 当前经济作物尚未成熟且投入较大，优先保证土地利用效率和资金安全。
+
+[Agent 70 - Year 5]
+Decision: Target Ratio 0.4, Loan 8000
+Reasoning: 在现有的经济作物投资和政府补贴下，增加现金作物种植比例有助于提高短期收益并缓解资金压力。同时确保土地利用效率最大化。
+
+[Agent 91 - Year 5]
+Decision: Target Ratio 0.2, Loan 0
+Reasoning: 当前经济作物投入产出比低，优先保护现有资产安全。
+
+[Agent 26 - Year 5]
+Decision: Target Ratio 0.25, Loan 16000
+Reasoning: 优先保证现有经济作物投入，同时申请贷款扩大保底水稻种植面积以确保现金流稳定。
+
+[Agent 2 - Year 5]
+Decision: Target Ratio 0.5, Loan 3800
+Reasoning: 平衡风险与收益，保留一定比例土地种植保底作物，同时利用贷款增加经济作物种植面积。
+
+[Agent 34 - Year 5]
+Decision: Target Ratio 0.2, Loan 5000
+Reasoning: 目前经济作物投入产出比不高，优先保证现有土地收益稳定
+
+[Agent 1 - Year 5]
+Decision: Target Ratio 0.3, Loan 4200
+Reasoning: 保留一部分土地种植水稻以确保基本收益，并通过贷款支持经济作物投资，实现长期稳健发展。
+
+[Agent 80 - Year 5]
+Decision: Target Ratio 0.3, Loan 4800
+Reasoning: 当前经济作物投入产出比低，减少投资风险，优先保护现有资产和扩大水稻种植面积以确保稳定的保底收益。
+
+[Agent 69 - Year 5]
+Decision: Target Ratio 0.5, Loan 12000
+Reasoning: 增加经济作物种植比例以提高收益，同时申请贷款扩大规模
+
+[Agent 72 - Year 5]
+Decision: Target Ratio 0.25, Loan 3000
+Reasoning: 保持现有作物比例，适度增加经济作物以维持现金流并为未来投资做准备。
+
+[Agent 66 - Year 5]
+Decision: Target Ratio 0.5, Loan 4000
+Reasoning: 平衡种植水稻和经济作物，以获取最低收益并减少风险。
+
+[Agent 5 - Year 5]
+Decision: Target Ratio 0.2, Loan 0
+Reasoning: 当前经济作物投入产出比低，优先保护现有资源及增加水稻种植以确保现金流稳定。
+
+[Agent 51 - Year 5]
+Decision: Target Ratio 0.3, Loan 2680
+Reasoning: 维持现有经济作物的投入比例，同时为剩余土地预留资金，以备不时之需。
+
+[Agent 52 - Year 5]
+Decision: Target Ratio 0.4, Loan 8800
+Reasoning: 保持现有经济作物比例，同时利用贷款扩大水稻种植以确保稳定收益。
+
+[Agent 57 - Year 5]
+Decision: Target Ratio 0.2, Loan 40400
+Reasoning: 现有经济作物投资已无产出，优先确保土地保底收益和资金安全
+
+[Agent 46 - Year 5]
+Decision: Target Ratio 0.5, Loan 8200
+Reasoning: 保持经济作物和水稻种植比例均衡，利用政府补贴及贷款资金维持运营。
+
+[Agent 6 - Year 5]
+Decision: Target Ratio 0.3, Loan 0
+Reasoning: 保持现有经济作物比例，以维持当前收入，同时节省资金用于未来可能的技术升级或风险投资。
+
+[Agent 18 - Year 5]
+Decision: Target Ratio 0.3, Loan 6400
+Reasoning: 保留一部分土地种植水稻以确保基本收益，同时投资一半的土地种植经济作物进行长期回报。
+
+[Agent 92 - Year 5]
+Decision: Target Ratio 0.2, Loan 3600
+Reasoning: 保持现有经济作物投资，同时确保有足够的流动资金应对可能的额外支出和市场波动。
+
+[Agent 58 - Year 5]
+Decision: Target Ratio 0.3, Loan 0
+Reasoning: 当前经济作物投入产出比低，优先保证现有种植收益稳定
+
+[Agent 76 - Year 5]
+Decision: Target Ratio 0.3, Loan 0
+Reasoning: 当前经济作物投资回报较低，维持现状以节省资金用于更高效的农作物种植。
+
+[Agent 42 - Year 5]
+Decision: Target Ratio 0.2, Loan 8000
+Reasoning: 为了维持土地的多样性，同时最大化利润，计划种植经济作物0.18亩，剩余用于保底收益的土地。
+
+[Agent 30 - Year 5]
+Decision: Target Ratio 0.25, Loan 3000
+Reasoning: 保持现有经济作物与保底水稻种植比例平衡，同时申请小额贷款用于维持经济作物的投入。
+
+[Agent 61 - Year 5]
+Decision: Target Ratio 0.25, Loan 0
+Reasoning: 当前经济作物投入产出比低，优先保留更多土地用于保底收益的水稻种植。
+
+[Agent 32 - Year 5]
+Decision: Target Ratio 0.2, Loan 3600
+Reasoning: 当前经济作物投入产出比不高，通过适度增加经济作物种植比例以提高整体收入，同时申请部分贷款用于扩展种植规模。
+
+[Agent 81 - Year 5]
+Decision: Target Ratio 0.2, Loan 0
+Reasoning: 优先保证现有经济作物的存活与发展，同时保持一定比例的土地用于水稻种植以确保基本收益。
+
+[Agent 63 - Year 5]
+Decision: Target Ratio 0.4, Loan 32000
+Reasoning: 保持现有经济作物比例，同时为剩余土地准备足够的资本进行水稻种植以确保保底收益。
+
+[Agent 68 - Year 5]
+Decision: Target Ratio 0.3, Loan 14000
+Reasoning: 保持现有经济作物比例以维持现金流，同时申请贷款扩大剩余的水稻种植面积。
+
+[Agent 94 - Year 5]
+Decision: Target Ratio 0.3, Loan 0
+Reasoning: 当前经济作物投入产出比不高，优先保证基础收益以备贷款和后期发展。
+
+[Agent 3 - Year 5]
+Decision: Target Ratio 0.5, Loan 18700
+Reasoning: 当前经济作物投入产出比低，通过借贷扩大现有经济作物种植比例以增加未来收入的可能性。
+
+[Agent 96 - Year 5]
+Decision: Target Ratio 0.5, Loan 2000
+Reasoning: 平衡现有经济作物和水稻种植，以最小化风险并确保现金流稳定。
+
+[Agent 23 - Year 5]
+Decision: Target Ratio 0.35, Loan 2800
+Reasoning: 平衡风险与收益，保留一部分土地用于种植水稻以确保基本收入，同时增加经济作物比例以期获得更高收益。
+
+[Agent 22 - Year 5]
+Decision: Target Ratio 0.2, Loan 3200
+Reasoning: 当前土地和资金状况下，将部分土地用于经济作物种植有助于平衡收入来源，同时保证现金流安全。
+
+[Agent 47 - Year 5]
+Decision: Target Ratio 0.3, Loan 5000
+Reasoning: 在保障基础水稻种植的同时，适度增加经济作物比例以提高整体收益，同时考虑借款维持现金流。
+
+[Agent 77 - Year 5]
+Decision: Target Ratio 0.4, Loan 12000
+Reasoning: 保持现有经济作物比例不变，同时适度增加水稻种植面积以保障现金流安全。
+
+[Agent 79 - Year 5]
+Decision: Target Ratio 0.5, Loan 4000
+Reasoning: 平衡风险与收益，投资一半土地种植经济作物以获取补贴和潜在利润。剩余土地种植水稻作为保底收入
+
+[Agent 19 - Year 5]
+Decision: Target Ratio 0.5, Loan 17600
+Reasoning: 平衡风险与收益，保留一半土地种植经济作物以获取补贴和部分利润，同时维持水稻作为稳定收入来源。
+
+[Agent 59 - Year 5]
+Decision: Target Ratio 0.5, Loan 11475.7
+Reasoning: 当前经济作物投资已无产出，扩大水稻种植比例可保证收益并逐步增加经济作物投资规模。
+
+[Agent 29 - Year 5]
+Decision: Target Ratio 0.25, Loan 1400
+Reasoning: 保持现有经济作物种植比例，同时适度增加投资以期提高整体收益。
+
+[Agent 35 - Year 5]
+Decision: Target Ratio 0.25, Loan 0
+Reasoning: 当前经济作物投入产出比低，优先保证现有资产安全。
+
+[Agent 36 - Year 5]
+Decision: Target Ratio 0.4, Loan 5600
+Reasoning: 确保资金安全，将一半土地用于保底收益的水稻种植。
+
+[Agent 37 - Year 5]
+Decision: Target Ratio 0.5, Loan 4200
+Reasoning: 保持现有经济作物比例稳定，以便尽快积累足够资金申请更大规模的贷款。
+
+[Agent 24 - Year 5]
+Decision: Target Ratio 0.3, Loan 2000
+Reasoning: 保持稳健，部分投资经济作物以平衡收益风险，同时确保有足够的现金用于下一年的维护。
+
+[Agent 48 - Year 5]
+Decision: Target Ratio 0.3, Loan 6600
+Reasoning: 尽管经济作物还需5年才能完全投产，但当前种植水稻带来的保底收益对资金需求较小。适量投入经济作物以保持多样性和未来潜力
+
+[Agent 56 - Year 5]
+Decision: Target Ratio 0.2, Loan 1000
+Reasoning: 保留部分土地种植水稻作为保底收益，同时投资一定比例的土地种植经济作物以追求更高收益，并考虑申请小额贷款减轻初期压力。
+
+[Agent 74 - Year 5]
+Decision: Target Ratio 0.2, Loan 3600
+Reasoning: 保持现有经济作物比例，以获取政府补贴，并预留一部分资金用于下一年的种植准备。
+
+[Agent 83 - Year 5]
+Decision: Target Ratio 0.4, Loan 3600
+Reasoning: 虽然现有经济作物只有投入无产出，但增加其比例可以分散风险并尽快获得回报。
+
+[Agent 9 - Year 5]
+Decision: Target Ratio 0.5, Loan 1200
+Reasoning: 平衡经济作物种植投入与剩余土地收益，同时利用贷款缓解资金压力。
+
+[Agent 85 - Year 5]
+Decision: Target Ratio 0.5, Loan 12000
+Reasoning: 平衡现有经济作物投入与剩余土地利用，同时考虑市场补贴和政府支持的可能性。
+
+[Agent 90 - Year 5]
+Decision: Target Ratio 0.5, Loan 4800
+Reasoning: 尽管经济作物需5年才能收获，但当前投资经济作物能迅速增加收入以应对后续长期投资的需求。
+
+[Agent 75 - Year 5]
+Decision: Target Ratio 0.2, Loan 16000
+Reasoning: 保持现有经济作物比例，通过贷款增加投入以提高产出潜力。
+
+[Agent 4 - Year 5]
+Decision: Target Ratio 0.2, Loan 4020
+Reasoning: 当前经济作物投入产出比低，优先确保土地收益稳定。
+
+[Agent 67 - Year 5]
+Decision: Target Ratio 0.3, Loan 8400
+Reasoning: 当前经济作物种植成本高且无收益，优先考虑维持现有土地投资安全，减少贷款风险。
+
+[Agent 12 - Year 5]
+Decision: Target Ratio 0.2, Loan 2400
+Reasoning: 保持现有经济作物比例，通过借款维持运营并准备未来更多投入。
+
+[Agent 93 - Year 5]
+Decision: Target Ratio 0.5, Loan 20000
+Reasoning: 保持现有经济作物比例，同时利用部分存款申请小额贷款以扩大种植面积，确保投资回报率。
+
+[Agent 65 - Year 5]
+Decision: Target Ratio 0.5, Loan 4200
+Reasoning: 平衡种植经济作物与水稻的比例，同时考虑到需要一定的风险和收益。
+
+[Agent 31 - Year 5]
+Decision: Target Ratio 0.2, Loan 1100
+Reasoning: 保持现有经济作物比例，同时借款用于投入剩余土地种植水稻以实现保底收益。
+
+[Agent 44 - Year 5]
+Decision: Target Ratio 0.3, Loan 17600
+Reasoning: 保持现有经济作物比例，以确保收益稳定并覆盖维护成本。
+
+[Agent 73 - Year 5]
+Decision: Target Ratio 0.3, Loan 6000
+Reasoning: 保持稳健，兼顾保底收益与经济作物投资回报预期。
+
+[Agent 89 - Year 5]
+Decision: Target Ratio 0.5, Loan 2800
+Reasoning: 保持现有经济作物种植比例，同时利用剩余土地种植水稻以获取保底收益，并申请部分贷款缓解资金压力。
+
+[Agent 43 - Year 5]
+Decision: Target Ratio 0.2, Loan 1000
+Reasoning: 保持现有经济作物种植比例，同时利用部分存款和贷款资金扩大水稻种植面积以确保收入来源。
+
+[Agent 84 - Year 6]
+Decision: Target Ratio 0.5, Loan 0
+Reasoning: 目前经济作物投入产出比不高，维持现状以节约现金流用于未来可能的扩张投资。
+
+[Agent 56 - Year 6]
+Decision: Target Ratio 0.8, Loan 0
+Reasoning: 当前经济作物收益良好且有补贴，保留土地用于水稻种植以确保保底收益，并未发现明显增加现金作物收入的必要性。
+
+[Agent 44 - Year 6]
+Decision: Target Ratio 0.25, Loan 14000
+Reasoning: 当前经济作物投入产出比低，增加水稻种植以保障资产安全与现金流稳定。
+
+[Agent 39 - Year 6]
+Decision: Target Ratio 0.5, Loan 4400
+Reasoning: 平衡风险与收益，发展经济作物同时确保有足够资金维持现有种植面积和投入
+
+[Agent 26 - Year 6]
+Decision: Target Ratio 0.3, Loan 4800
+Reasoning: 在当前情况下，减少经济作物种植比例以保护资产安全更为稳妥。
+
+[Agent 46 - Year 6]
+Decision: Target Ratio 0.5, Loan 8200
+Reasoning: 平衡风险与收益，保留部分土地种植水稻以确保基本收入，并申请贷款扩大经济作物种植面积。
+
+[Agent 49 - Year 6]
+Decision: Target Ratio 0.3, Loan 5600
+Reasoning: 保持现有经济作物比例的同时，适量增加投资以提高整体收益和风险分散。
+
+[Agent 91 - Year 6]
+Decision: Target Ratio 0.2, Loan 0
+Reasoning: 当前资产状况下，保持现有经济作物种植比例相对保守，不申请贷款
+
+[Agent 24 - Year 6]
+Decision: Target Ratio 0.3, Loan 0
+Reasoning: 目前经济作物已有成熟部分，预计明年开始产生收入，剩余土地用于水稻种植保证基础收益。
+
+[Agent 76 - Year 6]
+Decision: Target Ratio 0.4, Loan 2800
+Reasoning: 保留一定比例的土地种植水稻以确保基础收益，同时增加经济作物的比例进行投资
+
+[Agent 30 - Year 6]
+Decision: Target Ratio 0.2, Loan 13600
+Reasoning: 平衡风险和收益，保留足够的水稻种植面积以确保基础收入并为未来经济作物的投入做准备。
+
+[Agent 4 - Year 6]
+Decision: Target Ratio 0.2, Loan 4000
+Reasoning: 尽管经济作物种植需5年才能完全收益，但作为稳健型投资者会选择一部分土地继续投入以保持现金流稳定，并且考虑借款维持现有规模
+
+[Agent 1 - Year 6]
+Decision: Target Ratio 0.3, Loan 0
+Reasoning: 目前经济作物已有收益，且有政府补贴，继续保持现状为宜。剩余土地用于保底的水稻种植更为稳妥。
+
+[Agent 45 - Year 6]
+Decision: Target Ratio 0.3, Loan 1200
+Reasoning: 平衡风险与收益，优先保证现有经济作物的收益同时适度扩展新种植面积。
+
+[Agent 94 - Year 6]
+Decision: Target Ratio 0.3, Loan 6600
+Reasoning: 平衡风险与收益，维持现有经济作物比例以保证现金流同时为未来种植水稻做准备。
+
+[Agent 65 - Year 6]
+Decision: Target Ratio 0.3, Loan 4200
+Reasoning: 保持土地平衡，既投入部分资源用于经济作物以获取短期收益，又保留一部分面积种植水稻确保基本收入，同时申请贷款减轻投资压力。
+
+[Agent 13 - Year 6]
+Decision: Target Ratio 0.4, Loan 5600
+Reasoning: 保持现有经济作物比例，同时补充足够的资金用于土地维护。
+
+[Agent 2 - Year 6]
+Decision: Target Ratio 0.6, Loan 13600
+Reasoning: 保持现有经济作物比例稳定，同时利用借款扩大种植面积以增加收入来源。
+
+[Agent 32 - Year 6]
+Decision: Target Ratio 0.2, Loan 3000
+Reasoning: 当前经济作物收益较低，通过适量投资获取额外收入以平衡整体资产回报。
+
+[Agent 97 - Year 6]
+Decision: Target Ratio 0.7, Loan 12000
+Reasoning: 为了充分利用现有资源并获得更高的经济收益，决定扩大经济作物种植面积至70%。
+
+[Agent 59 - Year 6]
+Decision: Target Ratio 0.5, Loan 11000
+Reasoning: 通过扩大经济作物种植面积，利用政府补贴和贷款资金，提高总收益以覆盖高额的初始投资成本。
+
+[Agent 74 - Year 6]
+Decision: Target Ratio 0.2, Loan 3000
+Reasoning: 保持经济作物种植比例在可控范围内，同时利用贷款增加短期收益
+
+[Agent 40 - Year 6]
+Decision: Target Ratio 0.5, Loan 0
+Reasoning: 当前经济作物收益稳定，剩余土地可以保底种植水稻以保证现金流和长期利润。
+
+[Agent 17 - Year 6]
+Decision: Target Ratio 0.2, Loan 8000
+Reasoning: 通过种植部分经济作物以平衡收入来源，同时确保有足够的现金用于土地维护和维持流动资金。
+
+[Agent 27 - Year 6]
+Decision: Target Ratio 0.4, Loan 5600
+Reasoning: 平衡投资风险，保留部分土地用于水稻保底收益同时增加经济作物收入比例。
+
+[Agent 78 - Year 6]
+Decision: Target Ratio 0.2, Loan 1000
+Reasoning: 保留大部分土地种植水稻以确保稳定收益，同时适量种植经济作物获取额外收入。
+
+[Agent 93 - Year 6]
+Decision: Target Ratio 0.5, Loan 0
+Reasoning: 当前经济作物已成熟可获得收益，剩余土地用于保底种植水稻更稳健。
+
+[Agent 23 - Year 6]
+Decision: Target Ratio 0.3, Loan 12800
+Reasoning: 通过增加经济作物种植比例，可以更快实现经济收益以偿还贷款并积累资金。同时保持部分土地用于水稻保底收益。
+
+[Agent 63 - Year 6]
+Decision: Target Ratio 0.4, Loan 12000
+Reasoning: 平衡现有经济作物与剩余土地资源，同时考虑未来5年种植经济作物所需资金需求
+
+[Agent 81 - Year 6]
+Decision: Target Ratio 0.2, Loan 14000
+Reasoning: 保持经济作物种植比例以获取部分收入，同时有足够的资金支持维护和维持水稻生产。
+
+[Agent 87 - Year 6]
+Decision: Target Ratio 0.5, Loan 13000
+Reasoning: 为了充分利用现有的土地资源并尽快回收投资，扩大经济作物种植面积是关键。
+
+[Agent 38 - Year 6]
+Decision: Target Ratio 0.8, Loan 17600
+Reasoning: 尽管资金紧张，但我希望在现有的经济作物上增加投资比例以提高收益。剩余的土地可以种植水稻保证基本收益并降低风险。
+
+[Agent 64 - Year 6]
+Decision: Target Ratio 0.25, Loan 8800
+Reasoning: 通过增加经济作物种植比例，平衡收入与成本，以确保长期稳定的收益。
+
+[Agent 70 - Year 6]
+Decision: Target Ratio 0.4, Loan 800
+Reasoning: 平衡风险与收益，保留部分土地种植保底水稻以应对经济作物可能的不确定性。
+
+[Agent 60 - Year 6]
+Decision: Target Ratio 0.3, Loan 0
+Reasoning: 当前经济作物已成熟并可获得收入，保留一部分土地种植水稻以确保保底收益，并且优先考虑资产安全。
+
+[Agent 55 - Year 6]
+Decision: Target Ratio 0.5, Loan 2200
+Reasoning: 通过增加经济作物比例，提高总收益以覆盖维护成本并为未来打下基础。
+
+[Agent 51 - Year 6]
+Decision: Target Ratio 0.3, Loan 4680
+Reasoning: 平衡经济作物投资与水稻保底收益，同时利用部分政府补贴和贷款资金。
+
+[Agent 52 - Year 6]
+Decision: Target Ratio 0.5, Loan 20000
+Reasoning: 平衡现有经济作物投资与剩余土地使用，同时考虑到市场前景和长期收益。
+
+[Agent 15 - Year 6]
+Decision: Target Ratio 0.4, Loan 8000
+Reasoning: 尽管经济作物投资回报周期较长，但仍需合理安排以维持整体盈利水平。
+
+[Agent 21 - Year 6]
+Decision: Target Ratio 0.6, Loan 3000
+Reasoning: 为了最大化收益，扩大经济作物种植比例至60%，同时申请贷款以应对前期较高的投入成本。
+
+[Agent 71 - Year 6]
+Decision: Target Ratio 0.3, Loan 6600
+Reasoning: 当前经济作物投资回报率较低，优先保证资产安全和储备流动性。
+
+[Agent 22 - Year 6]
+Decision: Target Ratio 0.2, Loan 3200
+Reasoning: 通过保持部分土地种植水稻，同时在剩余土地中适度增加经济作物比例，以维持现金流的同时降低风险。
+
+[Agent 62 - Year 6]
+Decision: Target Ratio 0.4, Loan 8000
+Reasoning: 保持现有经济作物比例，同时增加一部分土地种植经济作物以平衡风险和收益。
+
+[Agent 83 - Year 6]
+Decision: Target Ratio 0.5, Loan 3800
+Reasoning: 通过扩大经济作物种植面积，短期内可以提高收益并尽快积累资金以应对未来成本和投资需求。
+
+[Agent 89 - Year 6]
+Decision: Target Ratio 0.3, Loan 1600
+Reasoning: 为了在短期内增加收益，平衡风险与回报，将一半的土地用于经济作物种植。同时申请一笔贷款以应对前期成本压力。
+
+[Agent 33 - Year 6]
+Decision: Target Ratio 0.75, Loan 12000
+Reasoning: 通过扩大经济作物种植比例，以期获得更高的回报，同时申请贷款弥补部分成本压力。
+
+[Agent 79 - Year 6]
+Decision: Target Ratio 0.5, Loan 0
+Reasoning: 当前经济作物已有一定收益，保留一半土地种植经济作物以平衡风险和收益。
+
+[Agent 34 - Year 6]
+Decision: Target Ratio 0.3, Loan 7000
+Reasoning: 当前经济作物投入产出低，优先保证现有土地保底收益。
+
+[Agent 92 - Year 6]
+Decision: Target Ratio 0.25, Loan 3600
+Reasoning: 确保经济作物种植面积，以期未来能获得较高的经济效益。同时控制贷款金额在可控范围内。
+
+[Agent 61 - Year 6]
+Decision: Target Ratio 0.25, Loan 0
+Reasoning: 当前经济作物已有一定产出，且政府补贴可以覆盖部分成本，因此维持现有种植比例较为稳妥。
+
+[Agent 35 - Year 6]
+Decision: Target Ratio 0.3, Loan 4800
+Reasoning: 保证现有经济作物成熟收益，同时为剩余土地预留充足的资金以备不时之需。
+
+[Agent 18 - Year 6]
+Decision: Target Ratio 0.3, Loan 8000
+Reasoning: 保留一部分土地种植保底收益的水稻，同时在现有经济作物上进行改进以提高产量和价值。
+
+[Agent 80 - Year 6]
+Decision: Target Ratio 0.3, Loan 16000
+Reasoning: 在当前资产状况下，优先保护现有投资，并利用政府补贴和积蓄进行适度经济作物种植。
+
+[Agent 57 - Year 6]
+Decision: Target Ratio 0.3, Loan 6000
+Reasoning: 当前经济作物投入产出比高，优先保证已有收益稳定以抵御风险。
+
+[Agent 8 - Year 6]
+Decision: Target Ratio 0.25, Loan 0
+Reasoning: 当前经济作物和水稻的组合在短期内可以带来稳定的收入，无需额外贷款。
+
+[Agent 85 - Year 6]
+Decision: Target Ratio 0.5, Loan 14000
+Reasoning: 平衡风险和收益，既维持现有经济作物的产出又预留资金应对可能的意外支出。
+
+[Agent 90 - Year 6]
+Decision: Target Ratio 0.5, Loan 16000
+Reasoning: 为了最大化收益，提升经济作物比例有助于提高总收益。当前土地分配符合既定目标，并考虑了风险控制。
+
+[Agent 53 - Year 6]
+Decision: Target Ratio 0.3, Loan 24000
+Reasoning: 保持现有经济作物比例，同时通过借款扩大种植面积以提高收益潜力。
+
+[Agent 12 - Year 6]
+Decision: Target Ratio 0.2, Loan 3200
+Reasoning: 在当前资金状况下，适度增加经济作物比例可以带来一定收益，同时不会过度消耗资金。
+
+[Agent 73 - Year 6]
+Decision: Target Ratio 0.3, Loan 6000
+Reasoning: 保持现有经济作物比例以确保现金流，并考虑在剩余土地中适当投入，同时利用部分存款申请贷款以平衡风险和收益。
+
+[Agent 67 - Year 6]
+Decision: Target Ratio 0.3, Loan 5800
+Reasoning: 确保现有经济作物收益最大化，同时维持资产安全。
+
+[Agent 36 - Year 6]
+Decision: Target Ratio 0.3, Loan 4800
+Reasoning: 当前经济作物投资收益较低且风险较大，优先保护现有资产并考虑长期稳定发展。
+
+[Agent 37 - Year 6]
+Decision: Target Ratio 0.5, Loan 4800
+Reasoning: 为了最大化收益，将一半的土地用于经济作物种植。剩余土地种植保底收益的水稻，以确保基本收益并降低风险。
+
+[Agent 3 - Year 6]
+Decision: Target Ratio 0.5, Loan 0
+Reasoning: 当前经济作物已经成熟并产生收入，保留一半土地种植经济作物以保持投资多样性。
+
+[Agent 88 - Year 6]
+Decision: Target Ratio 0.2, Loan 0
+Reasoning: 当前经济作物收益稳定且已有产出，优先保护现有资产安全。
+
+[Agent 9 - Year 6]
+Decision: Target Ratio 0.3, Loan 12000
+Reasoning: 保持经济作物种植比例在一定范围内，以充分利用政府补贴并减少风险。
+
+[Agent 48 - Year 6]
+Decision: Target Ratio 0.3, Loan 0
+Reasoning: 当前经济作物收益较高，且已有一定的土地投入产出，维持现状以获得稳定收益。
+
+[Agent 58 - Year 6]
+Decision: Target Ratio 0.3, Loan 5600
+Reasoning: 通过将经济作物种植比例控制在合理范围内，既能保持资产安全，又能确保长期收益稳定。
+
+[Agent 95 - Year 6]
+Decision: Target Ratio 0.5, Loan 0
+Reasoning: 当前经济作物已有一定产出，剩余土地保底收益优先。申请贷款将增加风险。
+
+[Agent 28 - Year 6]
+Decision: Target Ratio 0.3, Loan 2400
+Reasoning: 保持现有经济作物种植比例以维持现金流，并在必要时申请小额贷款以增加土地利用效率。
+
+[Agent 0 - Year 6]
+Decision: Target Ratio 0.5, Loan 14000
+Reasoning: 保持现有经济作物种植比例，利用政府补贴和新增贷款扩大经济作物面积，提高整体收益。
+
+[Agent 16 - Year 6]
+Decision: Target Ratio 0.3, Loan 4680
+Reasoning: 当前经济作物收益不稳定且投入大，保底收益的水稻种植是更安全的选择。
+
+[Agent 50 - Year 6]
+Decision: Target Ratio 0.5, Loan 0
+Reasoning: 目前经济作物已有产出，剩余土地种植水稻能确保保底收益，同时维持低风险投资策略。
+
+[Agent 11 - Year 6]
+Decision: Target Ratio 0.8, Loan 9200
+Reasoning: 尽管投资成本高，但通过扩大经济作物种植比例，有望在未来的收获中获得更高收益。
+
+[Agent 86 - Year 6]
+Decision: Target Ratio 0.5, Loan 3200
+Reasoning: 保持经济作物与水稻种植比例平衡，同时通过贷款缓解资金压力，为后续年份的收割做准备。
+
+[Agent 72 - Year 6]
+Decision: Target Ratio 0.25, Loan 3200
+Reasoning: 保持现有经济作物比例，适度增加投资以应对可能的未来市场波动和收益需求。
+
+[Agent 66 - Year 6]
+Decision: Target Ratio 0.5, Loan 0
+Reasoning: 目前经济作物已成熟，继续维持当前比例以保证稳定的现金流和收益。剩余的土地可以用于水稻种植以保障基本收益和粮食安全。
+
+[Agent 20 - Year 6]
+Decision: Target Ratio 0.4, Loan 12000
+Reasoning: 增加经济作物种植比例，以提高整体收益并尽早偿还贷款
+
+[Agent 69 - Year 6]
+Decision: Target Ratio 0.5, Loan 4200
+Reasoning: 当前经济作物有产出，剩余土地种植水稻保底收益不足，考虑扩大经济作物比例以追求更高收益。
+
+[Agent 43 - Year 6]
+Decision: Target Ratio 0.4, Loan 8000
+Reasoning: 通过保留一部分土地种植水稻作为保底收益，同时在可控范围内增加经济作物比例以提高整体收益。
+
+[Agent 75 - Year 6]
+Decision: Target Ratio 0.3, Loan 4000
+Reasoning: 保持现有经济作物种植比例，同时准备小额借贷以应对后期大规模投入的资金需求。
+
+[Agent 6 - Year 6]
+Decision: Target Ratio 0.4, Loan 0
+Reasoning: 目前经济作物已占总土地的一定比例，继续维持以确保收入稳定和减少对水稻种植的依赖。同时通过政府补贴减轻部分投入压力。
+
+[Agent 5 - Year 6]
+Decision: Target Ratio 0.2, Loan 1600
+Reasoning: 保持现有作物比例，通过贷款解决投入资金缺口以维持土地收益。
+
+[Agent 54 - Year 6]
+Decision: Target Ratio 0.3, Loan 16000
+Reasoning: 保持现有经济作物比例，同时考虑长期收益和风险平衡
+
+[Agent 10 - Year 6]
+Decision: Target Ratio 0.4, Loan 1200
+Reasoning: 保留一部分土地种植保底收益的水稻，其余用于经济作物尝试增加收入来源。
+
+[Agent 98 - Year 6]
+Decision: Target Ratio 0.5, Loan 2400
+Reasoning: 为了尽快扩大经济作物种植面积以提高收益，同时利用贷款解决资金不足问题。
+
+[Agent 68 - Year 6]
+Decision: Target Ratio 0.4, Loan 16000
+Reasoning: 平衡风险与收益，优先发展现有经济作物以快速回本并获取补贴。同时预留部分土地种植水稻作为保底收入。
+
+[Agent 25 - Year 6]
+Decision: Target Ratio 0.5, Loan 0
+Reasoning: 当前经济作物已有4.2亩成熟，预计能产生收入。剩余土地全部种植水稻以保证最低收益，并不急于扩大经济作物的面积。
+
+[Agent 29 - Year 6]
+Decision: Target Ratio 0.3, Loan 12000
+Reasoning: 平衡风险与收益，优先保障现有经济作物的生长并计划扩大规模以增加未来收益。
+
+[Agent 99 - Year 6]
+Decision: Target Ratio 0.4, Loan 16000
+Reasoning: 当前经济作物投资回报周期长且成本高，适当减少投入比例以维持现金流稳定，并计划通过贷款缓解短期资金压力。
+
+[Agent 41 - Year 6]
+Decision: Target Ratio 0.2, Loan 4280
+Reasoning: 保持现有经济作物比例，同时储备足够的资金应对下一年的维护成本。
+
+[Agent 96 - Year 6]
+Decision: Target Ratio 0.5, Loan 4000
+Reasoning: 平衡风险与收益，确保经济作物和水稻的稳定产出。同时通过贷款增加短期资金灵活性。
+
+[Agent 19 - Year 6]
+Decision: Target Ratio 0.7, Loan 15628
+Reasoning: 为了在接下来的几年内快速增加收入，将更多的土地用于经济作物种植。
+
+[Agent 7 - Year 6]
+Decision: Target Ratio 0.3, Loan 5600
+Reasoning: 为了最大化长期收益，保留一部分土地种植经济作物，同时申请小额贷款以维持土地的正常使用和维护。
+
+[Agent 82 - Year 6]
+Decision: Target Ratio 0.2, Loan 14000
+Reasoning: 为了平衡风险和收益，决定保留一定比例的土地种植经济作物以获取额外收入，同时利用贷款增加整体土地管理的灵活性。
+
+[Agent 14 - Year 6]
+Decision: Target Ratio 0.2, Loan 3200
+Reasoning: 保持现有经济作物比例，确保资金用于水稻种植以维持现金流平衡并考虑未来可能的收益增长。
+
+[Agent 42 - Year 6]
+Decision: Target Ratio 0.2, Loan 8000
+Reasoning: 保持现有经济作物比例，以平衡投资风险与收益，同时申请一定贷款增加种植面积。
+
+[Agent 77 - Year 6]
+Decision: Target Ratio 0.4, Loan 3800
+Reasoning: 为了平衡经济作物和水稻种植的比例，同时确保有足够的现金流来支付维护费用，并且预留一部分资金应对可能的市场波动。
+
+[Agent 47 - Year 6]
+Decision: Target Ratio 0.35, Loan 7000
+Reasoning: 保持现有经济作物比例，同时利用部分存款申请小额贷款以扩大种植面积
+
+[Agent 31 - Year 6]
+Decision: Target Ratio 0.2, Loan 0
+Reasoning: 当前经济作物的投入产出比已足够，剩余土地继续用于保底收益的土地种植。
+
+[Agent 31 - Year 7]
+Decision: Target Ratio 0.2, Loan 0
+Reasoning: 当前经济作物已经成熟，有收益，优先保证其产出以增加现金流。
+
+[Agent 59 - Year 7]
+Decision: Target Ratio 0.5, Loan 10400
+Reasoning: 当前经济作物投资回报率高，剩余土地全部用于种植经济作物以提高收益。
+
+[Agent 65 - Year 7]
+Decision: Target Ratio 0.3, Loan 1200
+Reasoning: 保本为先，同时考虑未来收益潜力。
+
+[Agent 17 - Year 7]
+Decision: Target Ratio 0.2, Loan 0
+Reasoning: 当前资金状况下，先保持现有经济作物的比例以确保最低收益，并为后续可能的投入做好准备。
+
+[Agent 97 - Year 7]
+Decision: Target Ratio 0.7, Loan 0
+Reasoning: 目前经济作物已占总土地的比例较高，通过控制种植比例可以减轻短期内的资金压力并提高效率。同时保持部分水稻种植以保证稳定的收入来源。
+
+[Agent 77 - Year 7]
+Decision: Target Ratio 0.4, Loan 15680
+Reasoning: 当前经济作物投资回报率较高，且剩余土地有限。通过适量贷款增加经济作物种植面积以提升整体收益。
+
+[Agent 85 - Year 7]
+Decision: Target Ratio 0.5, Loan 14000
+Reasoning: 平衡风险与收益，保留一部分土地种植水稻作为保底，同时投入一半的土地种植经济作物以期获得更高的回报
+
+[Agent 58 - Year 7]
+Decision: Target Ratio 0.3, Loan 12000
+Reasoning: 维持经济作物种植比例，同时考虑未来收益和市场波动风险
+
+[Agent 32 - Year 7]
+Decision: Target Ratio 0.25, Loan 3000
+Reasoning: 平衡风险与收益，投资一定比例的经济作物以期获得更高回报，并通过贷款缓解资金压力。
+
+[Agent 50 - Year 7]
+Decision: Target Ratio 0.4, Loan 22000
+Reasoning: 确保现有经济作物收益的同时，合理分配土地以平衡风险和回报。
+
+[Agent 89 - Year 7]
+Decision: Target Ratio 0.3, Loan 5600
+Reasoning: 保持稳健投资策略，既不冒太大风险，又能最大化利用补贴和剩余土地资源。
+
+[Agent 71 - Year 7]
+Decision: Target Ratio 0.4, Loan 13200
+Reasoning: 优先保本并逐步扩大经济作物种植以增加未来收益的确定性
+
+[Agent 8 - Year 7]
+Decision: Target Ratio 0.3, Loan 16000
+Reasoning: 在保障现有经济作物收益的同时，适度扩展经济作物种植面积以提高整体经济效益。
+
+[Agent 93 - Year 7]
+Decision: Target Ratio 0.5, Loan 0
+Reasoning: 目前经济作物收益稳定，继续投资以维持现有收入和积累更多资金。剩余土地种植水稻提供保底收益。
+
+[Agent 34 - Year 7]
+Decision: Target Ratio 0.2, Loan 4000
+Reasoning: 目前经济作物收益有限，优先保证现有经济作物稳定生长并获取政府补贴，同时增加水稻种植以确保最低收益。
+
+[Agent 1 - Year 7]
+Decision: Target Ratio 0.3, Loan 12000
+Reasoning: 平衡风险与收益，优先发展经济作物以获取收入并降低对水稻的依赖。同时利用借款增加经济作物面积。
+
+[Agent 35 - Year 7]
+Decision: Target Ratio 0.3, Loan 16000
+Reasoning: 当前资金安全第一，经济作物投资风险较大，优先考虑保留土地用于保底收益。
+
+[Agent 45 - Year 7]
+Decision: Target Ratio 0.3, Loan 0
+Reasoning: 当前经济作物投资回报周期较长，优先保证现有成熟作物收益，同时利用政府补贴维持土地使用。
+
+[Agent 2 - Year 7]
+Decision: Target Ratio 0.5, Loan 14000
+Reasoning: 平衡现有作物收益与未来作物增长，同时储备足够的现金流以应对经济作物种植初期的高成本。
+
+[Agent 57 - Year 7]
+Decision: Target Ratio 0.3, Loan 0
+Reasoning: 当前经济作物收益较低，优先保留更多土地用于保底收益的水稻种植以确保资金安全。
+
+[Agent 39 - Year 7]
+Decision: Target Ratio 0.5, Loan 4400
+Reasoning: 为了最大化未来收益，将一半的土地种植经济作物，以获得补贴和市场价收入。另一半土地种植水稻作为保底收益，并申请贷款维持经济作物的日常维护成本。
+
+[Agent 22 - Year 7]
+Decision: Target Ratio 0.2, Loan 3200
+Reasoning: 将一半的土地用于经济作物种植，以确保资金安全并维持最低收益。
+
+[Agent 73 - Year 7]
+Decision: Target Ratio 0.3, Loan 6000
+Reasoning: 维持现有经济作物比例，通过小额借贷缓解资金压力。
+
+[Agent 6 - Year 7]
+Decision: Target Ratio 0.5, Loan 14000
+Reasoning: 保持现有经济作物比例，确保有产出的经济作物维持，同时增加水稻种植面积以保证收益。申请贷款进一步扩大经济作物种植。
+
+[Agent 3 - Year 7]
+Decision: Target Ratio 0.5, Loan 0
+Reasoning: 当前经济作物已成熟并产生收益，保留一定比例土地种植水稻以确保保底收益，并维持现有财务稳定。
+
+[Agent 12 - Year 7]
+Decision: Target Ratio 0.25, Loan 3600
+Reasoning: 保持现有经济作物比例稳定，利用部分存款申请贷款以增加种植面积并维持收益。
+
+[Agent 61 - Year 7]
+Decision: Target Ratio 0.25, Loan 8000
+Reasoning: 平衡经济作物投入与现有资金情况，确保年度现金流稳健。
+
+[Agent 62 - Year 7]
+Decision: Target Ratio 0.3, Loan 12000
+Reasoning: 保持现有经济作物比例，为未来扩大种植做准备，并通过贷款补充资金进行土地整合与管理。
+
+[Agent 63 - Year 7]
+Decision: Target Ratio 0.5, Loan 12000
+Reasoning: 平衡现有经济作物的投资收益与新种植水稻的保底收益，同时利用贷款增加经济作物面积以实现更高回报。
+
+[Agent 82 - Year 7]
+Decision: Target Ratio 0.2, Loan 4400
+Reasoning: 保持现有经济作物比例，适度增加种植面积以获取补贴，同时申请小额贷款减少现金流压力。
+
+[Agent 23 - Year 7]
+Decision: Target Ratio 0.3, Loan 8000
+Reasoning: 保持现有经济作物种植比例稳定，同时利用部分贷款扩大现有经济作物种植面积以提高收益潜力。
+
+[Agent 40 - Year 7]
+Decision: Target Ratio 0.5, Loan 2800
+Reasoning: 平衡经济作物和水稻种植，以获取更多收益并确保现金流稳定。
+
+[Agent 46 - Year 7]
+Decision: Target Ratio 0.5, Loan 0
+Reasoning: 当前经济作物已有4.1亩成熟并产生收入，剩余土地主要用于保底收益的水稻种植。保持现有比例以最大化当前收入，并为未来年度积累更多资金用于潜在的新技术或作物扩展投资。
+
+[Agent 5 - Year 7]
+Decision: Target Ratio 0.2, Loan 0
+Reasoning: 保持现有经济作物比例不变，同时用于投资剩余土地种植水稻以保障稳定收益。
+
+[Agent 9 - Year 7]
+Decision: Target Ratio 0.3, Loan 4800
+Reasoning: 在现有资源下，适当增加经济作物比例以平衡收益与风险。
+
+[Agent 19 - Year 7]
+Decision: Target Ratio 0.75, Loan 13000
+Reasoning: 增加经济作物种植面积以提高收益，同时申请部分贷款用于维护和扩大规模。
+
+[Agent 99 - Year 7]
+Decision: Target Ratio 0.4, Loan 8000
+Reasoning: 平衡风险与收益，优先确保经济作物健康生长以获得补贴和未来收益。同时适量扩大经济作物种植面积。
+
+[Agent 53 - Year 7]
+Decision: Target Ratio 0.3, Loan 0
+Reasoning: 目前经济作物收益为零，优先种植保底的水稻以积累资金和经验。
+
+[Agent 26 - Year 7]
+Decision: Target Ratio 0.3, Loan 5600
+Reasoning: 当前经济作物投资回报周期长且风险较高，优先保本并考虑未来现金流稳定
+
+[Agent 29 - Year 7]
+Decision: Target Ratio 0.4, Loan 1200
+Reasoning: 维持当前经济作物种植规模以保持稳定的收入来源，同时申请贷款用于后续的土地改造和维护。
+
+[Agent 88 - Year 7]
+Decision: Target Ratio 0.2, Loan 11680
+Reasoning: 当前经济作物投入产出比低，优先保护现有投资并储备资金应对风险。
+
+[Agent 52 - Year 7]
+Decision: Target Ratio 0.5, Loan 11000
+Reasoning: 平衡风险与收益，投资一半土地种植经济作物以获取补贴和部分收入。剩余土地种植保底收益的水稻。
+
+[Agent 68 - Year 7]
+Decision: Target Ratio 0.4, Loan 16800
+Reasoning: 保持现有经济作物比例，同时考虑未来投资潜力和政府补贴，以维持现金流稳定。
+
+[Agent 16 - Year 7]
+Decision: Target Ratio 0.25, Loan 4640
+Reasoning: 当前经济作物投资风险较大，而保留部分土地种植水稻作为保底收益，同时申请贷款用于新增经济作物投资以平衡风险和收益
+
+[Agent 14 - Year 7]
+Decision: Target Ratio 0.3, Loan 12800
+Reasoning: 保持现有经济作物种植比例，以获得稳定的现金流和补贴，同时为明年扩大经济作物种植做准备。
+
+[Agent 44 - Year 7]
+Decision: Target Ratio 0.25, Loan 14000
+Reasoning: 优先保护现有收益并确保存款安全，同时考虑合理利用补贴和部分贷款扩大经济作物种植面积。
+
+[Agent 36 - Year 7]
+Decision: Target Ratio 0.3, Loan 4800
+Reasoning: 当前经济作物投入大，市场风险高，优先保证资产安全
+
+[Agent 38 - Year 7]
+Decision: Target Ratio 0.8, Loan 17620
+Reasoning: 扩大经济作物种植面积以提高收益，同时申请贷款以应对短期资金需求。
+
+[Agent 81 - Year 7]
+Decision: Target Ratio 0.2, Loan 13600
+Reasoning: 保留一部分土地种植水稻作为保底收益，同时适度增加经济作物的种植比例以获取更多收入。
+
+[Agent 76 - Year 7]
+Decision: Target Ratio 0.5, Loan 10000
+Reasoning: 平衡种植经济作物和水稻以确保现金流稳定，同时考虑未来可能的市场需求变化。
+
+[Agent 94 - Year 7]
+Decision: Target Ratio 0.3, Loan 6600
+Reasoning: 维持现有经济作物种植，同时利用部分存款申请小额贷款以支持新种现金作物的比例。
+
+[Agent 42 - Year 7]
+Decision: Target Ratio 0.4, Loan 7200
+Reasoning: 当前经济作物收益有限，通过增加经济作物种植比例以优化资产配置和现金流管理。
+
+[Agent 66 - Year 7]
+Decision: Target Ratio 0.5, Loan 0
+Reasoning: 目前土地已满，保持现有比例，避免进一步投资风险。
+
+[Agent 55 - Year 7]
+Decision: Target Ratio 0.5, Loan 4400
+Reasoning: 在现有经济作物基础上增加种植面积，以获得更高的收益潜力。
+
+[Agent 30 - Year 7]
+Decision: Target Ratio 0.3, Loan 4680
+Reasoning: 保持现有经济作物比例，同时利用部分存款申请小额贷款以维持种植活动
+
+[Agent 83 - Year 7]
+Decision: Target Ratio 0.4, Loan 3600
+Reasoning: 为了尽快增加收入并为下一年的经济作物种植做准备，本年度集中种植40%的土地以经济作物为主。
+
+[Agent 20 - Year 7]
+Decision: Target Ratio 0.4, Loan 19600
+Reasoning: 提升经济作物比例以尽快实现收益，同时承担一定的财务压力以便尽早偿还贷款并积累资金。
+
+[Agent 56 - Year 7]
+Decision: Target Ratio 0.8, Loan 0
+Reasoning: 当前经济作物已有1亩可收益，剩余3亩投入以期最大化收益。同时考虑到明年5年后才能全面收获，目前资金较为充裕，无需申请贷款。
+
+[Agent 15 - Year 7]
+Decision: Target Ratio 0.5, Loan 19620
+Reasoning: 平衡风险与收益，保留一定比例的土地用于经济作物种植以获得短期收益，同时确保有足够的资金投入维护成熟作物。
+
+[Agent 10 - Year 7]
+Decision: Target Ratio 0.4, Loan 1000
+Reasoning: 保本的前提下，适度增加经济作物比例以减少对剩余土地的依赖
+
+[Agent 47 - Year 7]
+Decision: Target Ratio 0.35, Loan 5600
+Reasoning: 为了充分利用现有资源并减少对水稻种植的依赖，同时确保财务稳定，决定增加经济作物种植比例。
+
+[Agent 0 - Year 7]
+Decision: Target Ratio 0.6, Loan 14800
+Reasoning: 为了尽快提高收益，将现有土地中60%用于种植经济作物。
+
+[Agent 90 - Year 7]
+Decision: Target Ratio 0.5, Loan 4800
+Reasoning: 平衡现有经济作物与剩余土地利用，确保资金充足并兼顾未来收益。
+
+[Agent 21 - Year 7]
+Decision: Target Ratio 0.6, Loan 3000
+Reasoning: 扩大经济作物种植面积以提高整体收益，同时申请贷款增加资金储备。
+
+[Agent 87 - Year 7]
+Decision: Target Ratio 0.5, Loan 3400
+Reasoning: 保持经济作物和水稻种植比例均衡，同时扩大经济作物面积以追求更高收益。
+
+[Agent 4 - Year 7]
+Decision: Target Ratio 0.3, Loan 6000
+Reasoning: 保留一定比例的土地种植经济作物，以获取短期收益和增加现金流。剩余土地则种水稻确保保底收入，并通过贷款扩大经济作物种植面积。
+
+[Agent 13 - Year 7]
+Decision: Target Ratio 0.4, Loan 800
+Reasoning: 平衡当前投资收益与未来作物成熟期收入，降低风险。
+
+[Agent 49 - Year 7]
+Decision: Target Ratio 0.3, Loan 5200
+Reasoning: 平衡风险与收益，确保经济作物和水稻种植比例合理，同时避免过度投入导致现金流紧张。
+
+[Agent 54 - Year 7]
+Decision: Target Ratio 0.4, Loan 16000
+Reasoning: 平衡短期收益与长期资产增长，确保有足够的资金应对经济作物种植的初期投入。
+
+[Agent 7 - Year 7]
+Decision: Target Ratio 0.3, Loan 0
+Reasoning: 当前经济作物已有一定产出，继续维持原有比例以确保收益稳定，并且减少贷款压力。
+
+[Agent 11 - Year 7]
+Decision: Target Ratio 0.8, Loan 17600
+Reasoning: 当前经济作物投资已产生收益，为获得更高回报，决定增加经济作物种植比例。
+
+[Agent 96 - Year 7]
+Decision: Target Ratio 0.5, Loan 4000
+Reasoning: 保持现有经济作物比例，以稳定收益并利用补贴，同时通过小额贷款进行短期补充。
+
+[Agent 41 - Year 7]
+Decision: Target Ratio 0.2, Loan 4365
+Reasoning: 保持经济作物和水稻种植比例，同时利用部分贷款资金以提高总收益。
+
+[Agent 84 - Year 7]
+Decision: Target Ratio 0.4, Loan 8000
+Reasoning: 保持现有经济作物比例，利用贷款弥补种植成本以维持产量。
+
+[Agent 74 - Year 7]
+Decision: Target Ratio 0.2, Loan 3000
+Reasoning: 保持现有经济作物比例，同时通过小额借贷增加短期收益。
+
+[Agent 28 - Year 7]
+Decision: Target Ratio 0.5, Loan 2000
+Reasoning: 保持现有经济作物比例，以获得部分收益并维持生产，同时通过小额贷款缓解资金压力。
+
+[Agent 60 - Year 7]
+Decision: Target Ratio 0.25, Loan 4800
+Reasoning: 当前经济作物已有稳定的产出，但剩余土地投资水稻以确保最低收益并逐步扩大经济作物种植比例。
+
+[Agent 18 - Year 7]
+Decision: Target Ratio 0.3, Loan 8020
+Reasoning: 保持现有经济作物比例，通过小额借贷应对短期资金缺口。
+
+[Agent 79 - Year 7]
+Decision: Target Ratio 0.5, Loan 4000
+Reasoning: 平衡风险与收益，保留一部分土地种植水稻以确保稳定收入，同时增加经济作物比例提高利润空间。
+
+[Agent 98 - Year 7]
+Decision: Target Ratio 0.33, Loan 19200
+Reasoning: 当前经济作物已有一定产出，扩大种植比例可以提高收入以应对维护成本，并留出更多土地种植水稻作为保底收益。
+
+[Agent 27 - Year 7]
+Decision: Target Ratio 0.5, Loan 12000
+Reasoning: 平衡风险与收益，保留一定比例土地种植水稻确保保底收入，同时在现有经济作物上进行适度投入以期待未来收获
+
+[Agent 24 - Year 7]
+Decision: Target Ratio 0.3, Loan 5600
+Reasoning: 保持现有经济作物比例，同时为下一年度的种植做准备，并申请一定额度的贷款以应对未来可能的资金需求。
+
+[Agent 67 - Year 7]
+Decision: Target Ratio 0.3, Loan 8400
+Reasoning: 当前经济作物已有2.9亩成熟可获得收入，剩余土地主要用于保底收益的水稻种植。申请部分贷款以扩大经济作物规模，提高整体盈利能力。
+
+[Agent 78 - Year 7]
+Decision: Target Ratio 0.2, Loan 0
+Reasoning: 当前经济作物回报稳定，且已有成熟产出。增加水稻种植作为保底策略更安全可靠。
+
+[Agent 37 - Year 7]
+Decision: Target Ratio 0.5, Loan 3200
+Reasoning: 增加经济作物种植比例，提高整体收益潜力。
+
+[Agent 51 - Year 7]
+Decision: Target Ratio 0.25, Loan 10000
+Reasoning: 保持经济作物和水稻种植比例平衡，同时利用部分贷款以提高整体经济效益。
+
+[Agent 92 - Year 7]
+Decision: Target Ratio 0.2, Loan 3600
+Reasoning: 为了平衡收入和资金压力，保持经济作物种植比例在合理范围内。
+
+[Agent 80 - Year 7]
+Decision: Target Ratio 0.25, Loan 1600
+Reasoning: 当前资产安全优先，投资经济作物风险较高。
+
+[Agent 95 - Year 7]
+Decision: Target Ratio 0.5, Loan 3000
+Reasoning: 保持现有经济作物，同时利用部分存款和补贴扩大种植面积，以确保年度现金流为正并减少债务风险。
+
+[Agent 70 - Year 7]
+Decision: Target Ratio 0.4, Loan 2800
+Reasoning: 保持现有经济作物比例，同时确保有额外的土地用于水稻种植以保证最低收益。申请一定金额贷款以支持后续的经济作物种植成本。
+
+[Agent 72 - Year 7]
+Decision: Target Ratio 0.25, Loan 3200
+Reasoning: 将一半的土地用于经济作物种植，以平衡风险与收益。同时申请贷款弥补投资缺口。
+
+[Agent 48 - Year 7]
+Decision: Target Ratio 0.5, Loan 24000
+Reasoning: 保持现有经济作物比例以确保持续收益，同时利用贷款扩大经济作物种植面积
+
+[Agent 43 - Year 7]
+Decision: Target Ratio 0.2, Loan 1800
+Reasoning: 保留30%的土地种植保底收益的水稻，其余70%用于经济作物以平衡风险和收益。同时申请小额贷款弥补剩余土地的投入资金需求。
+
+[Agent 91 - Year 7]
+Decision: Target Ratio 0.3, Loan 0
+Reasoning: 当前经济作物已成熟可产生收入，保留更多土地用于长期保底收益种植水稻。
+
+[Agent 75 - Year 7]
+Decision: Target Ratio 0.3, Loan 14000
+Reasoning: 目前经济作物投资回报周期较长，通过增加少量贷款以提高现金作物比例，可以更快获得现金流并减少土地闲置损失。
+
+[Agent 33 - Year 7]
+Decision: Target Ratio 0.75, Loan 14800
+Reasoning: 通过扩大经济作物种植面积，既能增加收益又能减少对现有成熟作物的依赖，同时申请贷款以应对可能的资金需求。
+
+[Agent 25 - Year 7]
+Decision: Target Ratio 0.5, Loan 0
+Reasoning: 目前经济作物已成熟，保底收益充足，维持现状以保证资金安全和积累更多用于长远投资。
+
+[Agent 86 - Year 7]
+Decision: Target Ratio 0.45, Loan 2600
+Reasoning: 为了平衡风险与收益，决定将一半的土地种植经济作物以期获得更高回报。剩余土地用于保底收益的水稻种植。
+
+[Agent 64 - Year 7]
+Decision: Target Ratio 0.5, Loan 8000
+Reasoning: 平衡现有经济作物收益与未来土地潜力，同时考虑政府补贴和贷款可能性。
+
+[Agent 69 - Year 7]
+Decision: Target Ratio 0.5, Loan 2200
+Reasoning: 尽管目前经济作物收益较低，但其在5年后可带来显著回报。当前阶段通过扩大投资比例以积累更多资金，为未来潜力较大的经济效益做准备。
+
+[Agent 71 - Year 8]
+Decision: Target Ratio 0.4, Loan 8800
+Reasoning: 优先保护现有经济作物投资，同时确保有足够的现金用于下一阶段的种植。
+
+[Agent 20 - Year 8]
+Decision: Target Ratio 0.4, Loan 3800
+Reasoning: 优先维持现有经济作物并适度扩大，同时申请贷款以应对土地维护成本。
+
+[Agent 16 - Year 8]
+Decision: Target Ratio 0.25, Loan 0
+Reasoning: 当前经济作物投资回报率较低，优先保持现有土地用于保底收益的水稻种植。
+
+[Agent 53 - Year 8]
+Decision: Target Ratio 0.3, Loan 7200
+Reasoning: 维持当前经济作物种植比例，确保已有收益稳定的同时考虑未来扩大规模的可能性。
+
+[Agent 14 - Year 8]
+Decision: Target Ratio 0.3, Loan 6000
+Reasoning: 为了充分利用剩余的土地并尽早实现经济收益，同时保持风险在可控范围内。
+
+[Agent 52 - Year 8]
+Decision: Target Ratio 0.4, Loan 22000
+Reasoning: 为了充分利用土地并平衡风险收益，将种植比例设定为40%，以确保经济作物的稳健发展。同时申请一笔贷款用于维持现有经济作物的投入。
+
+[Agent 69 - Year 8]
+Decision: Target Ratio 0.6, Loan 13680
+Reasoning: 扩大经济作物种植面积以提高收益，同时通过贷款弥补前期投入资金缺口。
+
+[Agent 51 - Year 8]
+Decision: Target Ratio 0.25, Loan 7800
+Reasoning: 目前经济作物已成熟的3.1亩可以带来收入，剩余的土地中保留一定比例的经济作物以期未来有更好的回报率
+
+[Agent 37 - Year 8]
+Decision: Target Ratio 0.5, Loan 3000
+Reasoning: 通过扩大经济作物种植比例，提高总收益以覆盖投入成本，并为未来储备资金。
+
+[Agent 13 - Year 8]
+Decision: Target Ratio 0.4, Loan 8000
+Reasoning: 在当前经济状况下，种植少量经济作物以获得补贴和部分收益，并利用贷款覆盖其他土地的维护成本。
+
+[Agent 88 - Year 8]
+Decision: Target Ratio 0.4, Loan 2200
+Reasoning: 保持现有经济作物比例，确保资产安全的同时保留一部分投资机会。
+
+[Agent 42 - Year 8]
+Decision: Target Ratio 0.5, Loan 1600
+Reasoning: 保持现有经济作物比例，确保已有成熟地块收益稳定，并通过贷款增加水稻种植面积以实现保底收益。
+
+[Agent 40 - Year 8]
+Decision: Target Ratio 0.5, Loan 4000
+Reasoning: 平衡风险与收益，保留一半土地用于经济作物以维持收入并利用政府补贴
+
+[Agent 3 - Year 8]
+Decision: Target Ratio 0.6, Loan 12000
+Reasoning: 尽管经济作物在5年后才能产生收益，但目前的存款和补贴不足以覆盖维护成本。申请部分贷款来增加经济作物种植比例是可行的选择。
+
+[Agent 86 - Year 8]
+Decision: Target Ratio 0.6, Loan 2400
+Reasoning: 维持现有经济作物投资，同时通过借贷扩大种植比例以增加收入来源。
+
+[Agent 59 - Year 8]
+Decision: Target Ratio 0.6, Loan 127908
+Reasoning: 增加经济作物比例以提升收益，同时利用贷款弥补投入不足。
+
+[Agent 70 - Year 8]
+Decision: Target Ratio 0.6, Loan 1200
+Reasoning: 保持现有经济作物比例，申请少量贷款维持运营。
+
+[Agent 9 - Year 8]
+Decision: Target Ratio 0.2, Loan 1600
+Reasoning: 保留一部分土地种植水稻以保证保底收益，同时在可控范围内投资一定比例的经济作物进行尝试。
+
+[Agent 38 - Year 8]
+Decision: Target Ratio 0.8, Loan 17640
+Reasoning: 增加经济作物种植面积以最大化收益，同时申请贷款应对种植成本。
+
+[Agent 73 - Year 8]
+Decision: Target Ratio 0.3, Loan 6000
+Reasoning: 维持现有经济作物种植比例，同时通过小额借贷以应对种植成本增加。
+
+[Agent 39 - Year 8]
+Decision: Target Ratio 0.5, Loan 4400
+Reasoning: 平衡风险与收益，优先保障经济作物的生长并保持一定的现金流
+
+[Agent 55 - Year 8]
+Decision: Target Ratio 0.7, Loan 4200
+Reasoning: 为了最大化收益，扩大经济作物种植面积以获取更多补贴和市场价差。
+
+[Agent 64 - Year 8]
+Decision: Target Ratio 0.3, Loan 2000
+Reasoning: 保留一定比例的土地种植保底收益的水稻，同时适量增加经济作物比例，以期在风险可控的情况下提升总收益。
+
+[Agent 94 - Year 8]
+Decision: Target Ratio 0.4, Loan 26000
+Reasoning: 为了充分利用现有土地并获得更高收益，决定扩大经济作物种植比例。
+
+[Agent 23 - Year 8]
+Decision: Target Ratio 0.3, Loan 2400
+Reasoning: 通过投资1.8亩经济作物和保留其他土地种植水稻，平衡风险与收益。
+
+[Agent 61 - Year 8]
+Decision: Target Ratio 0.3, Loan 15600
+Reasoning: 保持经济作物种植比例在合理范围，以减少风险并充分利用政府补贴。同时申请贷款来减轻初始投入压力。
+
+[Agent 67 - Year 8]
+Decision: Target Ratio 0.3, Loan 6800
+Reasoning: 保本的前提下，通过增加经济作物种植比例来最大化资产的利用效率和安全度。
+
+[Agent 6 - Year 8]
+Decision: Target Ratio 0.5, Loan 0
+Reasoning: 当前经济作物收益不稳定且有维护成本，将保持现有经济作物比例以确保现金流稳定并观察市场情况。
+
+[Agent 36 - Year 8]
+Decision: Target Ratio 0.2, Loan 4800
+Reasoning: 保留现有成熟作物收益，同时准备启动新投资所需的流动资金。
+
+[Agent 49 - Year 8]
+Decision: Target Ratio 0.25, Loan 0
+Reasoning: 当前经济作物已成熟可获利，保留更多土地种植水稻以保底收益，并且目前的存款和补贴足以支持当前的维护成本。
+
+[Agent 93 - Year 8]
+Decision: Target Ratio 0.5, Loan 0
+Reasoning: 目前经济作物已成熟，保留现有比例以维持现金流稳定，同时准备下一年度的种植计划。
+
+[Agent 18 - Year 8]
+Decision: Target Ratio 0.3, Loan 25000
+Reasoning: 平衡风险与收益，优先投入成熟经济作物，同时申请小额贷款以提高总体产出。
+
+[Agent 75 - Year 8]
+Decision: Target Ratio 0.3, Loan 1400
+Reasoning: 平衡风险与收益，保留一定比例的土地种植水稻以确保基本收入，同时投入一部分土地于经济作物进行尝试。
+
+[Agent 8 - Year 8]
+Decision: Target Ratio 0.3, Loan 16800
+Reasoning: 通过种植少量经济作物获取现金流，同时留出更多土地用于保底收益的水稻种植。
+
+[Agent 48 - Year 8]
+Decision: Target Ratio 0.5, Loan 0
+Reasoning: 当前经济作物已成熟并产生收益，保留部分土地种植水稻以确保保底收益，同时控制贷款风险。
+
+[Agent 78 - Year 8]
+Decision: Target Ratio 0.8, Loan 0
+Reasoning: 当前经济作物已成熟，且政府补贴充足，继续种植以获取收益是保守型投资者的明智选择。
+
+[Agent 84 - Year 8]
+Decision: Target Ratio 0.6, Loan 12000
+Reasoning: 平衡风险与收益，预留充足资金应对经济作物种植初期投入及可能的市场波动。
+
+[Agent 83 - Year 8]
+Decision: Target Ratio 0.4, Loan 28000
+Reasoning: 扩大经济作物种植面积以提高收益，同时申请贷款弥补资金缺口。
+
+[Agent 76 - Year 8]
+Decision: Target Ratio 0.5, Loan 0
+Reasoning: 当前经济作物已有一定的收益，继续投入以获取更多利润。同时预留一部分土地种植保底的水稻作物。
+
+[Agent 46 - Year 8]
+Decision: Target Ratio 0.5, Loan 0
+Reasoning: 在现有经济作物成熟可获利的条件下，保持当前比例以维持稳定收益并准备贷款资金。
+
+[Agent 22 - Year 8]
+Decision: Target Ratio 0.2, Loan 16000
+Reasoning: 确保现有经济作物收益最大化，同时控制投资风险。
+
+[Agent 43 - Year 8]
+Decision: Target Ratio 0.2, Loan 1000
+Reasoning: 保留一部分土地种植保底收益的水稻，同时适度增加经济作物的比例以平衡收入来源。
+
+[Agent 30 - Year 8]
+Decision: Target Ratio 0.3, Loan 12000
+Reasoning: 通过扩大经济作物种植比例，提高总收益以覆盖维护成本，并在年底有足够的现金储备偿还贷款。
+
+[Agent 35 - Year 8]
+Decision: Target Ratio 0.4, Loan 8000
+Reasoning: 当前经济作物投资回报率较低，优先保证资金安全及储备用于未来可能的投资机会。
+
+[Agent 89 - Year 8]
+Decision: Target Ratio 0.5, Loan 1600
+Reasoning: 平衡风险与收益，确保有足够的现金流来维持经济作物的种植维护和补贴，同时留有余地应对可能的资金需求。
+
+[Agent 98 - Year 8]
+Decision: Target Ratio 0.375, Loan 15600
+Reasoning: 虽然经济作物需要五年才能收获，但考虑到长期收益和政府补贴，扩大经济作物种植比例可以提高总收益。
+
+[Agent 28 - Year 8]
+Decision: Target Ratio 0.5, Loan 0
+Reasoning: 当前已有部分经济作物产出，且有政府补贴支持下，维持现有种植比例以平衡风险和收益。
+
+[Agent 65 - Year 8]
+Decision: Target Ratio 0.2, Loan 1200
+Reasoning: 平衡投资风险与收益，保持足够的现金作物种植以确保收入稳定
+
+[Agent 26 - Year 8]
+Decision: Target Ratio 0.3, Loan 12000
+Reasoning: 确保资金安全，等待经济作物成熟后再进行大规模投资。
+
+[Agent 29 - Year 8]
+Decision: Target Ratio 0.4, Loan 3600
+Reasoning: 在现有资源下，优先投入经济作物以加速收益并利用政府补贴和借款来降低初始投资压力。
+
+[Agent 91 - Year 8]
+Decision: Target Ratio 0.3, Loan 16000
+Reasoning: 确保资产安全，维持现有经济作物种植比例同时申请贷款以备后续投资。
+
+[Agent 77 - Year 8]
+Decision: Target Ratio 0.4, Loan 28000
+Reasoning: 保持现有经济作物种植比例，同时申请小额贷款用于增加水稻种植面积以平衡收益。
+
+[Agent 57 - Year 8]
+Decision: Target Ratio 0.3, Loan 6000
+Reasoning: 确保现有经济作物的成熟并获得收益，同时保留一部分土地用于种植水稻以保障现金流。
+
+[Agent 50 - Year 8]
+Decision: Target Ratio 0.4, Loan 8800
+Reasoning: 当前经济作物虽有产出但风险较高，优先保证土地保值和储备一定的流动资金以备不时之需。
+
+[Agent 12 - Year 8]
+Decision: Target Ratio 0.3, Loan 6000
+Reasoning: 目前经济作物投资已超过保底收益，通过扩大经济作物种植比例来增加未来收入，同时申请贷款以应对可能的资金短缺。
+
+[Agent 72 - Year 8]
+Decision: Target Ratio 0.2, Loan 1600
+Reasoning: 维持现有经济作物种植，同时适度扩大以获得更好收益，并利用贷款资金
+
+[Agent 10 - Year 8]
+Decision: Target Ratio 0.3, Loan 6000
+Reasoning: 维持当前经济作物种植比例，同时利用部分借款扩大经济作物种植面积，以追求更高的经济效益。
+
+[Agent 2 - Year 8]
+Decision: Target Ratio 0.5, Loan 12000
+Reasoning: 平衡风险与收益，保留现有经济作物并适度增加水稻种植比例以确保现金流稳定和长期收益。
+
+[Agent 24 - Year 8]
+Decision: Target Ratio 0.3, Loan 15000
+Reasoning: 在保障稻谷保底收益的同时，适度增加经济作物种植比例以期获得更高收益，同时考虑通过贷款缓解初期投入压力。
+
+[Agent 96 - Year 8]
+Decision: Target Ratio 0.6, Loan 12000
+Reasoning: 保持现有经济作物比例，利用全部土地以获取更多补贴和稳定收益。考虑到投资成本以及风险控制，贷款成为必要的手段来实现目标。
+
+[Agent 47 - Year 8]
+Decision: Target Ratio 0.3, Loan 8000
+Reasoning: 保持经济作物和水稻种植比例平衡，同时申请贷款增加经济作物面积以提高收益。
+
+[Agent 85 - Year 8]
+Decision: Target Ratio 0.4, Loan 2800
+Reasoning: 保持现有经济作物种植比例，同时考虑长期收益和风险，适当进行小额借贷以支持更多经济作物的种植。
+
+[Agent 68 - Year 8]
+Decision: Target Ratio 0.3, Loan 14000
+Reasoning: 保留一部分土地种植水稻以保证保底收益，并申请贷款用于经济作物，确保在5年后达到目标收益。
+
+[Agent 54 - Year 8]
+Decision: Target Ratio 0.35, Loan 6600
+Reasoning: 通过适度增加经济作物种植比例，充分利用现有土地资源并结合政府补贴和借贷资金，以实现资产增值和收入多元化。
+
+[Agent 19 - Year 8]
+Decision: Target Ratio 0.75, Loan 12000
+Reasoning: 尽管现有经济作物有产出，但为了确保整体收益和未来种植更多成熟作物的可能性，选择保留一部分土地用于种植经济作物。
+
+[Agent 11 - Year 8]
+Decision: Target Ratio 0.8, Loan 17600
+Reasoning: 尽管当前经济作物仅有3.2亩产出，但通过扩大投资比例至80%，可以提高整体经济效益。
+
+[Agent 15 - Year 8]
+Decision: Target Ratio 0.5, Loan 0
+Reasoning: 目前经济作物已有部分产出，继续投入以维持收益和市场竞争力。同时将一部分土地用于种植水稻以确保保底收益。
+
+[Agent 0 - Year 8]
+Decision: Target Ratio 0.6, Loan 48000
+Reasoning: 扩大经济作物种植比例以提高整体收益，同时申请贷款增加资金投入。
+
+[Agent 90 - Year 8]
+Decision: Target Ratio 0.5, Loan 8000
+Reasoning: 当前经济作物已成熟，收益可观。通过扩大现金作物种植面积，以实现更高收益并逐步积累资金用于进一步扩展或投资其他机会。
+
+[Agent 97 - Year 8]
+Decision: Target Ratio 0.4, Loan 0
+Reasoning: 目前经济作物有产出但投入大，保底的水稻种植可以稳定收入。今年适当减少经济作物种植以维持现金流充足，等待未来几年经济作物成熟后产生收益。
+
+[Agent 17 - Year 8]
+Decision: Target Ratio 0.2, Loan 8000
+Reasoning: 通过适度增加经济作物种植比例，平衡收益与风险，同时准备应对可能的短期资金需求。
+
+[Agent 41 - Year 8]
+Decision: Target Ratio 0.2, Loan 4279.68
+Reasoning: 保持现有经济作物比例以确保现金流，同时合理分配土地用于种植水稻保证最低收益。
+
+[Agent 5 - Year 8]
+Decision: Target Ratio 0.2, Loan 1600
+Reasoning: 保持现有经济作物稳定，同时增加种植比例以提高整体收益。
+
+[Agent 32 - Year 8]
+Decision: Target Ratio 0.25, Loan 3800
+Reasoning: 保持现有经济作物比例，通过小额贷款维持土地平衡并预留应对未来可能的额外支出。
+
+[Agent 4 - Year 8]
+Decision: Target Ratio 0.4, Loan 8000
+Reasoning: 平衡当前收益与未来长期投资，适度增加经济作物种植比例以提升总体收入。
+
+[Agent 66 - Year 8]
+Decision: Target Ratio 0.5, Loan 0
+Reasoning: 当前经济作物已成熟，优先保证现有收入稳定，同时保留一部分土地用于未来发展的灵活性。
+
+[Agent 81 - Year 8]
+Decision: Target Ratio 0.2, Loan 14800
+Reasoning: 保留一部分土地种植水稻以确保保底收益，同时合理分配经济作物的比例进行短期利润积累。
+
+[Agent 45 - Year 8]
+Decision: Target Ratio 0.4, Loan 2800
+Reasoning: 通过种植少量经济作物和保持主要土地用于水稻种植，以平衡收益与风险。
+
+[Agent 25 - Year 8]
+Decision: Target Ratio 0.5, Loan 0
+Reasoning: 在现有经济作物收益和保底水稻收益之间寻找平衡，同时考虑长期投资回报。
+
+[Agent 1 - Year 8]
+Decision: Target Ratio 0.2, Loan 3600
+Reasoning: 保持现有经济作物比例，同时利用储蓄和政府补贴覆盖部分投入成本，并为下一年的种植做准备。
+
+[Agent 74 - Year 8]
+Decision: Target Ratio 0.25, Loan 3000
+Reasoning: 保持稳健投资，通过适度增加经济作物种植比例来平衡收益与风险。
+
+[Agent 92 - Year 8]
+Decision: Target Ratio 0.3, Loan 4500
+Reasoning: 保持现有经济作物比例，同时利用政府补贴和少量贷款进行维持，以确保现金流稳定。
+
+[Agent 56 - Year 8]
+Decision: Target Ratio 0.8, Loan 40000
+Reasoning: 尽管经济作物种植需要5年才能收益，但为了最大化未来几年的现金流和减轻对剩余土地的压力，将现有土地中80%用于经济作物种植。
+
+[Agent 95 - Year 8]
+Decision: Target Ratio 0.5, Loan 3000
+Reasoning: 当前经济作物投资回报低，但剩余土地保底收益稳定。申请贷款用于种植更多经济作物以增加收入来源。
+
+[Agent 79 - Year 8]
+Decision: Target Ratio 0.5, Loan 4000
+Reasoning: 保持现有经济作物收益稳定，同时利用部分农业补贴减轻经济压力并预留应对突发情况的资金。
+
+[Agent 7 - Year 8]
+Decision: Target Ratio 0.3, Loan 2600
+Reasoning: 保持现有经济作物种植比例，同时准备小额借贷以应对潜在风险和市场不确定性。
+
+[Agent 21 - Year 8]
+Decision: Target Ratio 0.6, Loan 3000
+Reasoning: 尽管经济作物需5年才能收获，但考虑到当前的现金流状况和高回报潜力，决定投资更多比例的经济作物以追求更高收益。
+
+[Agent 58 - Year 8]
+Decision: Target Ratio 0.3, Loan 5624
+Reasoning: 保持现有经济作物比例，减少风险并确保资金安全以应对未来的投资和维护成本。
+
+[Agent 62 - Year 8]
+Decision: Target Ratio 0.3, Loan 0
+Reasoning: 当前资产状况下，优先保证经济作物的投入以提高收益，并通过政府补贴和自身储蓄来覆盖这部分成本。剩余土地种植保底收益水稻。
+
+[Agent 99 - Year 8]
+Decision: Target Ratio 0.35, Loan 1600
+Reasoning: 保持现有经济作物比例，同时利用少量借款扩大种植规模以增加收入来源。
+
+[Agent 80 - Year 8]
+Decision: Target Ratio 0.3, Loan 4800
+Reasoning: 当前存款不足以支撑全额种植经济作物，但投资于成熟作物可带来即时收益，保障资产安全并逐步积累资金。
+
+[Agent 87 - Year 8]
+Decision: Target Ratio 0.5, Loan 6720
+Reasoning: 为了尽快实现收益并覆盖初始投资成本，增加经济作物种植比例有助于提高短期现金流。
+
+[Agent 27 - Year 8]
+Decision: Target Ratio 0.4, Loan 16000
+Reasoning: 维持现有经济作物比例，以减少市场波动风险，并利用贷款资金支持后续投资。
+
+[Agent 33 - Year 8]
+Decision: Target Ratio 0.7, Loan 28000
+Reasoning: 保持现有经济作物比例，同时考虑扩大保底收益的土地面积。
+
+[Agent 63 - Year 8]
+Decision: Target Ratio 0.4, Loan 12000
+Reasoning: 保持现有经济作物比例，通过借贷增加收益潜力，同时为下一年份的丰收做准备。
+
+[Agent 82 - Year 8]
+Decision: Target Ratio 0.3, Loan 2400
+Reasoning: 保持现有经济作物比例，同时减少对已成熟地块的投入以确保资金安全并预留一部分用于可能的新技术或新尝试。
+
+[Agent 34 - Year 8]
+Decision: Target Ratio 0.5, Loan 0
+Reasoning: 当前经济作物投资已经有一定产出，继续投入可以保证收益。剩余土地种植水稻作为保底方案。
+
+[Agent 31 - Year 8]
+Decision: Target Ratio 0.2, Loan 14000
+Reasoning: 保持经济作物种植比例在安全可控的范围内，同时增加投资以提高未来收益潜力。
+
+[Agent 44 - Year 8]
+Decision: Target Ratio 0.2, Loan 14000
+Reasoning: 为了保持资产安全并考虑到经济作物需要5年才能完全成熟，保留大部分土地用于种植水稻以确保收益。
+
+[Agent 60 - Year 8]
+Decision: Target Ratio 0.3, Loan 12000
+Reasoning: 优先保证现有经济作物的收益，同时通过借款扩大水稻种植面积以确保保底收益并逐步积累资金进行经济作物投资。
+
+[Agent 5 - Year 9]
+Decision: Target Ratio 0.2, Loan 1600
+Reasoning: 当前经济作物投入产出比低，保留一部分土地种植水稻作为保底收益，并申请小额贷款以维持经济作物的投入。
+
+[Agent 40 - Year 9]
+Decision: Target Ratio 0.5, Loan 14000
+Reasoning: 保持现有经济作物与水稻种植平衡，同时利用贷款扩大经济作物面积以增加收益。
+
+[Agent 48 - Year 9]
+Decision: Target Ratio 0.5, Loan 0
+Reasoning: 当前经济作物收益有限，保持现有投资比例以评估长期可行性
+
+[Agent 14 - Year 9]
+Decision: Target Ratio 0.25, Loan 4000
+Reasoning: 保持现有经济作物比例，同时申请小额贷款以支持后续的经济作物种植投资。
+
+[Agent 61 - Year 9]
+Decision: Target Ratio 0.3, Loan 5200
+Reasoning: 保持现有经济作物比例以维持收益，同时利用部分贷款种植剩余土地的水稻以确保全年有收入来源。
+
+[Agent 52 - Year 9]
+Decision: Target Ratio 0.5, Loan 16000
+Reasoning: 平衡风险与收益，充分利用现有资源及补贴进行投资。
+
+[Agent 90 - Year 9]
+Decision: Target Ratio 0.5, Loan 8000
+Reasoning: 当前经济作物投资回报周期较长，通过适度增加经济作物种植比例以实现资金回笼和长期收益最大化。
+
+[Agent 78 - Year 9]
+Decision: Target Ratio 0.8, Loan 0
+Reasoning: 目前只有少量经济作物成熟可收益，其余为投入阶段，维持现有投资组合以保证资金安全和逐步扩大生产规模。
+
+[Agent 1 - Year 9]
+Decision: Target Ratio 0.2, Loan 1600
+Reasoning: 保留一定比例的土地用于水稻种植以确保基础收益，同时适量投入经济作物来平衡资产结构和风险分散。
+
+[Agent 89 - Year 9]
+Decision: Target Ratio 0.5, Loan 1600
+Reasoning: 平衡风险与收益，通过部分种植经济作物获得收入以偿还前期投入并为明年继续扩大种植做准备。
+
+[Agent 62 - Year 9]
+Decision: Target Ratio 0.3, Loan 0
+Reasoning: 当前经济作物已有成熟的收益，保留一部分土地种植保底收益的水稻以确保稳定的现金流，同时控制贷款风险。
+
+[Agent 42 - Year 9]
+Decision: Target Ratio 0.4, Loan 16820
+Reasoning: 维持现有经济作物比例，通过借贷弥补资金缺口以最大化土地利用率和收益。
+
+[Agent 9 - Year 9]
+Decision: Target Ratio 0.2, Loan 14670
+Reasoning: 保留足够的土地用于水稻种植以确保基本收益，同时通过贷款增加经济作物的种植面积以提高整体收入潜力
+
+[Agent 65 - Year 9]
+Decision: Target Ratio 0.2, Loan 800
+Reasoning: 当前资金不足以完全投入经济作物，通过小额借贷增加种植面积以提高整体收益。
+
+[Agent 77 - Year 9]
+Decision: Target Ratio 0.4, Loan 27600
+Reasoning: 当前经济作物已成熟并产生收入，保留一定比例土地种植水稻以确保基本收益。同时申请部分贷款用于扩大经济作物种植面积，实现长期收益最大化。
+
+[Agent 87 - Year 9]
+Decision: Target Ratio 0.6, Loan 13200
+Reasoning: 为了最大化投资回报，将更多土地用于经济作物种植以提高产出和收入。
+
+[Agent 92 - Year 9]
+Decision: Target Ratio 0.25, Loan 4600
+Reasoning: 维持现有经济作物种植比例，同时寻求小额贷款以应对未来可能的资金短缺。
+
+[Agent 69 - Year 9]
+Decision: Target Ratio 0.7, Loan 4200
+Reasoning: 扩大经济作物种植比例以获取更高收益，同时申请贷款填补资金缺口。
+
+[Agent 27 - Year 9]
+Decision: Target Ratio 0.5, Loan 12000
+Reasoning: 保持现有种植结构，通过贷款支持经济作物投资以实现收益增长。
+
+[Agent 33 - Year 9]
+Decision: Target Ratio 0.8, Loan 16000
+Reasoning: 当前经济作物占比较低，有助于提高整体收益；同时申请贷款用于增加种植面积，以充分利用政府补贴和获得更高经济效益。
+
+[Agent 76 - Year 9]
+Decision: Target Ratio 0.3, Loan 14000
+Reasoning: 保持现有经济作物比例，同时通过借贷增加投资以加速收益实现。
+
+[Agent 47 - Year 9]
+Decision: Target Ratio 0.25, Loan 0
+Reasoning: 当前经济作物收益良好，保留部分土地种植水稻以保证保底收益。剩余土地按现状保持不变。
+
+[Agent 39 - Year 9]
+Decision: Target Ratio 0.5, Loan 4400
+Reasoning: 平衡风险与收益，保持现有经济作物比例以维持收入并为未来规划留出空间。
+
+[Agent 64 - Year 9]
+Decision: Target Ratio 0.25, Loan 1400
+Reasoning: 为了尽快增加收入并为未来的经济作物种植做准备，决定投资较少的现金作物。
+
+[Agent 8 - Year 9]
+Decision: Target Ratio 0.3, Loan 16800
+Reasoning: 平衡现有经济作物的收益和储备土地种植水稻以确保稳定收益，同时申请贷款维持现状。
+
+[Agent 88 - Year 9]
+Decision: Target Ratio 0.2, Loan 4400
+Reasoning: 当前经济作物投入产出比低，优先保护现有资源和资本安全。
+
+[Agent 18 - Year 9]
+Decision: Target Ratio 0.4, Loan 8000
+Reasoning: 保持经济作物与水稻种植比例，既能获取短期收益又能确保长期稳定发展。同时申请一定贷款用于投资提高经济作物产量。
+
+[Agent 55 - Year 9]
+Decision: Target Ratio 0.6, Loan 12000
+Reasoning: 增加经济作物种植比例以提高收益，同时申请贷款扩大规模
+
+[Agent 54 - Year 9]
+Decision: Target Ratio 0.4, Loan 3800
+Reasoning: 保持现有经济作物比例，同时考虑合理借款以维持土地管理及短期收益。
+
+[Agent 7 - Year 9]
+Decision: Target Ratio 0.3, Loan 2600
+Reasoning: 保持现有经济作物比例的同时，通过小额借贷进一步投资以平衡风险和收益。
+
+[Agent 50 - Year 9]
+Decision: Target Ratio 0.4, Loan 8820
+Reasoning: 保持现有经济作物比例，确保资产安全并考虑未来可能的收益提升。
+
+[Agent 44 - Year 9]
+Decision: Target Ratio 0.2, Loan 11450
+Reasoning: 当前经济作物收益不稳定，优先保护现有投资并积累更多资金以备未来更大规模的投资。
+
+[Agent 85 - Year 9]
+Decision: Target Ratio 0.6, Loan 22000
+Reasoning: 保持当前经济作物比例，同时确保有足够的资金进行维护和可能的后续贷款以支持种植计划。
+
+[Agent 67 - Year 9]
+Decision: Target Ratio 0.3, Loan 0
+Reasoning: 当前资产状况稳健，继续保留现有经济作物比例以保证收益稳定。
+
+[Agent 20 - Year 9]
+Decision: Target Ratio 0.3, Loan 14760
+Reasoning: 为了在短期内提升收益，将部分土地用于经济作物种植。
+
+[Agent 41 - Year 9]
+Decision: Target Ratio 0.3, Loan 6240
+Reasoning: 保持现有投资比例，确保经济作物的收益稳定以补充存款和土地维护成本。
+
+[Agent 28 - Year 9]
+Decision: Target Ratio 0.5, Loan 0
+Reasoning: 保持现有经济作物比例，以确保稳定的短期收益和现金流。
+
+[Agent 26 - Year 9]
+Decision: Target Ratio 0.4, Loan 0
+Reasoning: 当前经济作物已成熟的收益稳定，且有政府补贴支持。保留现有经济作物比例来确保现金流安全和资产稳定。
+
+[Agent 57 - Year 9]
+Decision: Target Ratio 0.3, Loan 6000
+Reasoning: 保持现有经济作物比例，避免风险增加及潜在的亏损可能性。同时利用部分存款申请贷款用于土地维护。
+
+[Agent 37 - Year 9]
+Decision: Target Ratio 0.5, Loan 3200
+Reasoning: 平衡现有经济作物收益与扩大种植规模风险，以实现长期投资增长。
+
+[Agent 73 - Year 9]
+Decision: Target Ratio 0.3, Loan 6000
+Reasoning: 当前经济作物收益稳定且有补贴，保留部分土地种植水稻以保障保底收益，同时申请小额贷款用于扩大经济作物规模
+
+[Agent 86 - Year 9]
+Decision: Target Ratio 0.6, Loan 3200
+Reasoning: 当前经济作物已有收益，继续扩大种植比例以提高收入潜力和长期回报率。同时申请贷款弥补剩余土地的投入成本。
+
+[Agent 32 - Year 9]
+Decision: Target Ratio 0.25, Loan 3800
+Reasoning: 保持经济作物与水稻种植的平衡，同时考虑贷款以维持现有经济作物的成长。
+
+[Agent 97 - Year 9]
+Decision: Target Ratio 0.4, Loan 8000
+Reasoning: 在当前情况下，投资一部分土地种植经济作物有助于快速提升收入，以应对每年的维护成本。同时通过贷款进一步分散风险。
+
+[Agent 59 - Year 9]
+Decision: Target Ratio 0.7, Loan 46286
+Reasoning: 尽管有高成本和较低的投入产出比，但由于长期投资视角下的高收益作物潜力，决定增加经济作物种植比例以期未来获得更多利润。
+
+[Agent 58 - Year 9]
+Decision: Target Ratio 0.3, Loan 14850
+Reasoning: 保持现有经济作物比例，同时利用一部分存款申请小额贷款用于扩大种植面积，以实现长期稳定的收益增长。
+
+[Agent 36 - Year 9]
+Decision: Target Ratio 0.25, Loan 4800
+Reasoning: 保持现有经济作物比例，避免过度投资可能带来的风险。
+
+[Agent 15 - Year 9]
+Decision: Target Ratio 0.6, Loan 15200
+Reasoning: 保持现有经济作物比例以确保稳定的收益，同时申请部分贷款用于剩余土地的种植。
+
+[Agent 30 - Year 9]
+Decision: Target Ratio 0.3, Loan 4200
+Reasoning: 保留部分土地种植水稻以保证保底收益，同时扩大经济作物种植面积获取更高利润。
+
+[Agent 13 - Year 9]
+Decision: Target Ratio 0.4, Loan 1600
+Reasoning: 保持现有经济作物比例以维持收益，同时申请小额贷款用于剩余土地种植水稻以保证保底收益。
+
+[Agent 16 - Year 9]
+Decision: Target Ratio 0.25, Loan 0
+Reasoning: 当前资产状况稳健，优先保证现有收益与安全。
+
+[Agent 35 - Year 9]
+Decision: Target Ratio 0.4, Loan 0
+Reasoning: 当前经济作物投资回报不确定且面临损失风险，优先保证现有成熟经济作物的收益稳定。
+
+[Agent 10 - Year 9]
+Decision: Target Ratio 0.4, Loan 0
+Reasoning: 维持现状，优先保证现有经济作物收益，同时开始规划下一年的种植计划。
+
+[Agent 63 - Year 9]
+Decision: Target Ratio 0.4, Loan 0
+Reasoning: 在保证现有经济作物收益的同时，维持土地的多样化种植以增加收入来源。
+
+[Agent 19 - Year 9]
+Decision: Target Ratio 0.8, Loan 13640
+Reasoning: 通过扩大经济作物种植比例，以实现更高的收益并偿还前期投入成本。
+
+[Agent 11 - Year 9]
+Decision: Target Ratio 0.7, Loan 14582
+Reasoning: 为了尽快回收投资并获得收益，将更多土地种植经济作物以提高回报率。
+
+[Agent 96 - Year 9]
+Decision: Target Ratio 0.4, Loan 8000
+Reasoning: 当前经济作物仅占总土地的40%，未来有潜力通过提高目标比例来增加收入。考虑到5年的投资周期，决定申请部分贷款以加快收益回笼速度。
+
+[Agent 80 - Year 9]
+Decision: Target Ratio 0.3, Loan 8400
+Reasoning: 保留一半土地种植水稻以确保稳定收益，同时控制经济作物投资风险。
+
+[Agent 79 - Year 9]
+Decision: Target Ratio 0.5, Loan 2000
+Reasoning: 保持现有经济作物种植比例，同时增加水稻种植以确保基础收益，并通过小额贷款进行补充投资。
+
+[Agent 84 - Year 9]
+Decision: Target Ratio 0.6, Loan 4000
+Reasoning: 当前经济作物收益良好且可控制风险，继续扩大投资以提高总收益和资金流动性。
+
+[Agent 25 - Year 9]
+Decision: Target Ratio 0.5, Loan 0
+Reasoning: 保持现有经济作物与水稻种植比例，维持稳定收益的同时考虑风险控制。
+
+[Agent 0 - Year 9]
+Decision: Target Ratio 0.6, Loan 4800
+Reasoning: 扩大经济作物种植面积，提高整体收益潜力
+
+[Agent 83 - Year 9]
+Decision: Target Ratio 0.4, Loan 13680
+Reasoning: 通过扩大经济作物种植面积，短期内提高收入以偿还贷款并积累资金进行后续发展。
+
+[Agent 74 - Year 9]
+Decision: Target Ratio 0.25, Loan 3600
+Reasoning: 保持现有经济作物比例稳定，同时利用部分存款申请小额贷款以扩大经济作物种植面积。
+
+[Agent 66 - Year 9]
+Decision: Target Ratio 0.5, Loan 0
+Reasoning: 维持现有经济作物比例，减少风险，优先积累资金用于下一周期的种植。
+
+[Agent 72 - Year 9]
+Decision: Target Ratio 0.2, Loan 13600
+Reasoning: 保持现有经济作物比例，同时利用积蓄和政府补贴维持运营，并申请贷款扩大种植面积以获取更多收入来源。
+
+[Agent 60 - Year 9]
+Decision: Target Ratio 0.3, Loan 5600
+Reasoning: 保持现有经济作物，增加保底收益的土地比例以保障资产安全。
+
+[Agent 6 - Year 9]
+Decision: Target Ratio 0.5, Loan 2000
+Reasoning: 平衡投资，充分利用现有土地资源并减少经济作物的初始成本风险。
+
+[Agent 2 - Year 9]
+Decision: Target Ratio 0.5, Loan 1600
+Reasoning: 通过将一半的土地种植经济作物，平衡风险与收益，同时利用贷款资金维持经济作物的运营。
+
+[Agent 17 - Year 9]
+Decision: Target Ratio 0.2, Loan 8000
+Reasoning: 投资经济作物以期待未来的收益，同时考虑现有资源和市场条件。
+
+[Agent 53 - Year 9]
+Decision: Target Ratio 0.4, Loan 25600
+Reasoning: 保持现有经济作物比例，同时利用部分存款申请小额贷款用于扩大种植面积，确保维持现金作物的收入并避免过度投资
+
+[Agent 43 - Year 9]
+Decision: Target Ratio 0.2, Loan 1000
+Reasoning: 保持稳健投资，提高经济作物比例以平衡收益和风险
+
+[Agent 99 - Year 9]
+Decision: Target Ratio 0.7, Loan 5600
+Reasoning: 平衡现有收益与未来经济作物投资回报，确保现金流充足以应对后续投入。
+
+[Agent 3 - Year 9]
+Decision: Target Ratio 0.6, Loan 32000
+Reasoning: 保持现有经济作物种植比例，同时利用部分积蓄申请贷款以扩大投入，保障下一阶段的收益。
+
+[Agent 23 - Year 9]
+Decision: Target Ratio 0.3, Loan 1240
+Reasoning: 在现有资源下，最大化经济作物比例以提高整体收益并减少贷款负担。
+
+[Agent 68 - Year 9]
+Decision: Target Ratio 0.3, Loan 28000
+Reasoning: 维持现有经济作物比例，同时在风险可控范围内增加投入以期待未来收益增长。
+
+[Agent 45 - Year 9]
+Decision: Target Ratio 0.3, Loan 4600
+Reasoning: 平衡风险与收益，预留一部分土地用于水稻种植以确保基本收益，并申请适量贷款进行经济作物的初期投入。
+
+[Agent 94 - Year 9]
+Decision: Target Ratio 0.4, Loan 23698
+Reasoning: 保持经济作物与水稻种植平衡，同时减少短期财务压力
+
+[Agent 71 - Year 9]
+Decision: Target Ratio 0.3, Loan 28426
+Reasoning: 当前经济作物投入产出比不高，转为更多种植保底收益的水稻以减少风险
+
+[Agent 91 - Year 9]
+Decision: Target Ratio 0.25, Loan 8000
+Reasoning: 保持现有经济作物比例，同时利用部分存款和贷款扩大经济作物种植面积，以保证资产安全并逐步增加收益。
+
+[Agent 95 - Year 9]
+Decision: Target Ratio 0.4, Loan 0
+Reasoning: 当前经济作物投资收益不确定，优先保护现有资产安全
+
+[Agent 12 - Year 9]
+Decision: Target Ratio 0.3, Loan 12800
+Reasoning: 平衡风险与收益，利用剩余的土地进行短期经济作物种植以维持现金流和部分利润。
+
+[Agent 51 - Year 9]
+Decision: Target Ratio 0.3, Loan 20000
+Reasoning: 保持现有经济作物比例，通过贷款扩大种植面积以提高整体收益。
+
+[Agent 21 - Year 9]
+Decision: Target Ratio 0.6, Loan 3000
+Reasoning: 扩大经济作物种植面积以追求更高收益，同时确保至少有1亩水稻以保障最低收入来源。
+
+[Agent 75 - Year 9]
+Decision: Target Ratio 0.3, Loan 14000
+Reasoning: 保持经济作物与水稻种植平衡，利用政府补贴和贷款扩大经济作物种植面积，以期在下一年获得收益。
+
+[Agent 4 - Year 9]
+Decision: Target Ratio 0.4, Loan 8000
+Reasoning: 维持现有经济作物比例，同时准备未来可能的资金需求以应对潜在的额外投入或收益增加。
+
+[Agent 22 - Year 9]
+Decision: Target Ratio 0.2, Loan 3200
+Reasoning: 当前经济作物投资回报率低，且未来5年需维持投入以保证生长周期，优先保本增效。
+
+[Agent 29 - Year 9]
+Decision: Target Ratio 0.3, Loan 0
+Reasoning: 保持现有种植结构以确保最低收益，并为明年更多投资做准备。
+
+[Agent 34 - Year 9]
+Decision: Target Ratio 0.4, Loan 12000
+Reasoning: 当前经济作物投资收益低且风险大，维持现有种植结构以确保资产安全和现金流稳定。
+
+[Agent 56 - Year 9]
+Decision: Target Ratio 0.8, Loan 40000
+Reasoning: 通过增加经济作物种植比例至80%，既保证了保底收益，又能在后续收获后用于偿还贷款
+
+[Agent 24 - Year 9]
+Decision: Target Ratio 0.3, Loan 5000
+Reasoning: 保持现有经济作物比例，同时利用部分存款申请小额贷款以增加种植面积，为后续的收获做准备。
+
+[Agent 98 - Year 9]
+Decision: Target Ratio 0.5, Loan 4800
+Reasoning: 当前经济作物已投入但未成熟，扩大种植比例可以争取未来更多收益。
+
+[Agent 49 - Year 9]
+Decision: Target Ratio 0.3, Loan 17620
+Reasoning: 保持经济作物种植比例在合理水平，以便在风险可控的情况下获得部分收益。同时申请贷款以补充经济作物的初期投入。
+
+[Agent 38 - Year 9]
+Decision: Target Ratio 0.8, Loan 17748
+Reasoning: 为了最大化收益，决定增加经济作物的比例，同时申请贷款以覆盖维护成本。
+
+[Agent 81 - Year 9]
+Decision: Target Ratio 0.2, Loan 1600
+Reasoning: 维持现有收益稳定，同时为未来可能的扩大种植做好准备。
+
+[Agent 46 - Year 9]
+Decision: Target Ratio 0.5, Loan 8200
+Reasoning: 平衡风险与收益，保留一部分土地种植保底的水稻以确保收入稳定。
+
+[Agent 82 - Year 9]
+Decision: Target Ratio 0.3, Loan 12000
+Reasoning: 保留部分土地种植保底收益的水稻，同时在剩余的土地中投资一部分经济作物以平衡风险和回报。
+
+[Agent 70 - Year 9]
+Decision: Target Ratio 0.5, Loan 6000
+Reasoning: 保持现有经济作物比例，通过小额借贷增加投入以提高产量和盈利能力。
+
+[Agent 31 - Year 9]
+Decision: Target Ratio 0.3, Loan 14200
+Reasoning: 保持现有经济作物比例，同时通过借贷缓解现金流压力，以便维持土地的维护和管理。
+
+[Agent 93 - Year 9]
+Decision: Target Ratio 0.4, Loan 0
+Reasoning: 目前经济作物收益未达预期，调整比例以期提高整体经济效益。
+
+[Agent 27 - Year 10]
+Decision: Target Ratio 0.5, Loan 12000
+Reasoning: 平衡风险与收益，保留一半土地种植水稻以确保稳定的保底收入，并申请贷款用于剩余经济作物的维护。
+
+[Agent 46 - Year 10]
+Decision: Target Ratio 0.5, Loan 0
+Reasoning: 目前经济作物收益良好，继续投资维持当前比例以保证持续盈利。同时保留部分土地种植水稻作为保底收益，无需额外贷款。
+
+[Agent 29 - Year 10]
+Decision: Target Ratio 0.2, Loan 1200
+Reasoning: 保持现有经济作物种植比例，同时考虑通过小额贷款增加短期收益。
+
+[Agent 78 - Year 10]
+Decision: Target Ratio 0.8, Loan 4000
+Reasoning: 当前经济作物投资回报低，剩余土地种植水稻保底收益，申请贷款以扩大经济作物种植面积，提高未来收益可能性
+
+[Agent 49 - Year 10]
+Decision: Target Ratio 0.3, Loan 0
+Reasoning: 当前经济作物占比为2.6/8.7，保持现有比例以维持稳定的现金流和收益。
+
+[Agent 59 - Year 10]
+Decision: Target Ratio 0.8, Loan 17640
+Reasoning: 尽管现有经济作物中有部分已经成熟，为了长期收益和未来5年的稳定产出，决定扩大经济作物种植面积。
+
+[Agent 10 - Year 10]
+Decision: Target Ratio 0.3, Loan 5000
+Reasoning: 虽然种植经济作物需要投资，但其长期收益较高，且有助于提高总收入以应对未来可能的市场波动。同时申请贷款维持现有土地的使用。
+
+[Agent 13 - Year 10]
+Decision: Target Ratio 0.5, Loan 12000
+Reasoning: 平衡风险与收益，继续扩大经济作物种植比例以获得更高回报。同时申请贷款弥补部分资金缺口。
+
+[Agent 14 - Year 10]
+Decision: Target Ratio 0.3, Loan 16800
+Reasoning: 维持现有经济作物收益的同时，合理规划土地利用以确保长期稳定收益。
+
+[Agent 94 - Year 10]
+Decision: Target Ratio 0.5, Loan 2800
+Reasoning: 保留一半的土地种植经济作物以平衡风险和收益，同时申请贷款来支持这部分投资。
+
+[Agent 39 - Year 10]
+Decision: Target Ratio 0.7, Loan 4400
+Reasoning: 通过扩大经济作物种植面积，期望在维持现有收入的同时增加现金流，为未来几年的投入打下基础。
+
+[Agent 48 - Year 10]
+Decision: Target Ratio 0.5, Loan 14000
+Reasoning: 平衡风险与收益，维持经济作物和水稻种植比例，同时利用部分贷款资金进行额外投资。
+
+[Agent 64 - Year 10]
+Decision: Target Ratio 0.25, Loan 8000
+Reasoning: 平衡风险与收益，优先保证基本收益同时尝试增加收入来源。
+
+[Agent 2 - Year 10]
+Decision: Target Ratio 0.7, Loan 28000
+Reasoning: 维持现有经济作物比例以确保现金流，同时考虑未来可能的技术升级或市场变动风险。
+
+[Agent 75 - Year 10]
+Decision: Target Ratio 0.3, Loan 14000
+Reasoning: 保持经济作物和水稻种植比例，以确保现金流稳定并利用贷款投资未来收益潜力较大的经济作物。
+
+[Agent 55 - Year 10]
+Decision: Target Ratio 0.5, Loan 12000
+Reasoning: 扩大经济作物种植面积以追求更高的收益，同时通过贷款来弥补初期的资金缺口。
+
+[Agent 0 - Year 10]
+Decision: Target Ratio 0.6, Loan 43200
+Reasoning: 尽管目前有部分经济作物可获利，但为了尽快增加收入并为未来的收获做准备，决定扩大经济作物的种植面积。
+
+[Agent 61 - Year 10]
+Decision: Target Ratio 0.25, Loan 1360
+Reasoning: 维持现有经济作物比例，以平衡风险和收益。考虑适度增加投资以获得更高回报。
+
+[Agent 68 - Year 10]
+Decision: Target Ratio 0.4, Loan 8000
+Reasoning: 保持现有经济作物比例，合理利用政府补贴，并申请小额贷款以增加投入，促进更多土地产出。
+
+[Agent 51 - Year 10]
+Decision: Target Ratio 0.3, Loan 4000
+Reasoning: 保持现有经济作物比例，为未来几年的收益积累做准备，同时申请小额贷款以应对后续投入。
+
+[Agent 45 - Year 10]
+Decision: Target Ratio 0.3, Loan 2800
+Reasoning: 保持经济作物与水稻种植比例平衡，同时确保现金流充足以应对下一年的投入。
+
+[Agent 85 - Year 10]
+Decision: Target Ratio 0.6, Loan 2400
+Reasoning: 通过扩大经济作物种植面积，预计获得更高的经济效益以应对5年后的收获期。同时，申请适量贷款用于维护和补充流动资金。
+
+[Agent 42 - Year 10]
+Decision: Target Ratio 0.4, Loan 0
+Reasoning: 今年主要保持现有经济作物种植比例，确保已有收益的稳定性。剩余土地用于保底种植水稻，以保证基本收入和现金流稳定。
+
+[Agent 22 - Year 10]
+Decision: Target Ratio 0.2, Loan 3200
+Reasoning: 保本安全，维持现有经济作物种植比例以确保现金流稳定和资产安全性。
+
+[Agent 79 - Year 10]
+Decision: Target Ratio 0.5, Loan 2000
+Reasoning: 通过种植一半土地的经济作物，保持财务平衡并为未来储备更多资金。
+
+[Agent 44 - Year 10]
+Decision: Target Ratio 0.2, Loan 11473
+Reasoning: 优先保护现有资产安全，同时考虑未来经济作物的潜力和政府补贴
+
+[Agent 8 - Year 10]
+Decision: Target Ratio 0.3, Loan 168226
+Reasoning: 保持现有经济作物比例，同时确保有足够的资金进行后期种植和维护。
+
+[Agent 32 - Year 10]
+Decision: Target Ratio 0.2, Loan 3800
+Reasoning: 虽然经济作物投资回报周期长，但考虑到总土地面积及现有条件，保持部分土地种植经济作物有助于分散风险并获取短期收益。
+
+[Agent 7 - Year 10]
+Decision: Target Ratio 0.25, Loan 1360
+Reasoning: 保持经济作物与水稻种植的平衡，同时为后续投入做准备。
+
+[Agent 65 - Year 10]
+Decision: Target Ratio 0.2, Loan 8000
+Reasoning: 目前经济作物投入较大，明年才能获得收益。通过借贷增加水稻种植面积以维持现金流。
+
+[Agent 30 - Year 10]
+Decision: Target Ratio 0.3, Loan 12000
+Reasoning: 维持现有经济作物比例，同时利用部分储备金贷款增加投入以提高长期收益潜力。
+
+[Agent 3 - Year 10]
+Decision: Target Ratio 0.6, Loan 0
+Reasoning: 当前经济作物收益较好，保留一定比例种植以保持收入稳定，并未发现明显的投资机会或风险需要通过借贷来应对。
+
+[Agent 52 - Year 10]
+Decision: Target Ratio 0.4, Loan 22000
+Reasoning: 保留一定比例的经济作物种植以应对市场风险，同时申请贷款用于扩大成熟经济作物规模。
+
+[Agent 60 - Year 10]
+Decision: Target Ratio 0.25, Loan 4800
+Reasoning: 当前经济作物投入产出比低，优先保证现有经济作物成熟，同时减少总风险
+
+[Agent 37 - Year 10]
+Decision: Target Ratio 0.5, Loan 2600
+Reasoning: 当前经济作物收益稳定，但为了提升整体利润，决定保持现状并适度扩大投资
+
+[Agent 93 - Year 10]
+Decision: Target Ratio 0.4, Loan 2000
+Reasoning: 确保经济作物与水稻种植平衡，兼顾收益稳定与风险控制。
+
+[Agent 71 - Year 10]
+Decision: Target Ratio 0.2, Loan 6600
+Reasoning: 保持现有经济作物比例，确保资产安全并逐步增加投资以实现长期收益增长。
+
+[Agent 19 - Year 10]
+Decision: Target Ratio 0.8, Loan 12000
+Reasoning: 通过扩大经济作物种植比例，提高总收益以覆盖投资成本和维持长期发展。
+
+[Agent 21 - Year 10]
+Decision: Target Ratio 0.5, Loan 3000
+Reasoning: 目前经济作物已成熟，为了最大化收益并准备下一轮种植，决定继续投入一半的土地用于经济作物。
+
+[Agent 34 - Year 10]
+Decision: Target Ratio 0.4, Loan 10000
+Reasoning: 保持现有经济作物比例，以确保稳定收益并逐步增加投资，同时申请贷款缓解前期资金压力。
+
+[Agent 82 - Year 10]
+Decision: Target Ratio 0.5, Loan 0
+Reasoning: 当前经济作物收益稳定，剩余土地可以保持现有的水稻种植以确保保底收益。
+
+[Agent 41 - Year 10]
+Decision: Target Ratio 0.3, Loan 6000
+Reasoning: 保持经济作物和水稻种植比例，同时利用部分贷款进行短期风险投资以提高整体收益。
+
+[Agent 87 - Year 10]
+Decision: Target Ratio 0.6, Loan 42896
+Reasoning: 提升经济作物种植比例以追求更高收益，同时确保有足够的资金进行投资和维持生产。
+
+[Agent 99 - Year 10]
+Decision: Target Ratio 0.4, Loan 0
+Reasoning: 当前经济作物投资收益不稳定，优先保证现有成熟地块的产出并进行合理规划以备后续发展。
+
+[Agent 62 - Year 10]
+Decision: Target Ratio 0.4, Loan 2800
+Reasoning: 保留部分土地种植保底收益的水稻，同时利用政府补贴和少量贷款扩大经济作物种植面积以提高收益。
+
+[Agent 84 - Year 10]
+Decision: Target Ratio 0.4, Loan 8000
+Reasoning: 为了在有限的初期投资下最大化未来收益，决定保留更多土地用于经济作物种植。同时申请贷款以覆盖部分投资成本。
+
+[Agent 36 - Year 10]
+Decision: Target Ratio 0.25, Loan 4800
+Reasoning: 确保资金安全，优先利用政府补贴和现有存款种植保底收益的水稻，减少经济作物投资风险。
+
+[Agent 12 - Year 10]
+Decision: Target Ratio 0.3, Loan 0
+Reasoning: 目前经济作物已成熟并产生收益，保留一定比例用于新作物种植以平衡风险和收益。同时，借款成本较高且可能面临还款压力，故不申请贷款。
+
+[Agent 95 - Year 10]
+Decision: Target Ratio 0.4, Loan 1000
+Reasoning: 当前经济作物投资收益较低，且需要5年才能完全回收成本。优先考虑保底的水稻种植以增加现金流量和资产安全。
+
+[Agent 24 - Year 10]
+Decision: Target Ratio 0.3, Loan 0
+Reasoning: 当前经济作物收益稳定，剩余土地保底收益高且无风险。谨慎使用资金以备未来可能出现的风险和机会成本。
+
+[Agent 89 - Year 10]
+Decision: Target Ratio 0.5, Loan 1600
+Reasoning: 保留一半土地种植经济作物，一方面可以平衡风险并利用政府补贴和前期投资收益，另一方面在成熟前保持一定的土地产出以补充现金流。
+
+[Agent 38 - Year 10]
+Decision: Target Ratio 0.8, Loan 17640
+Reasoning: 为了最大化未来收益，决定扩大经济作物种植比例。
+
+[Agent 83 - Year 10]
+Decision: Target Ratio 0.5, Loan 36000
+Reasoning: 增加经济作物种植比例以加快资金回收速度，追求更高收益。
+
+[Agent 67 - Year 10]
+Decision: Target Ratio 0.25, Loan 5800
+Reasoning: 保持现有经济作物比例，减少风险以保障资金安全
+
+[Agent 91 - Year 10]
+Decision: Target Ratio 0.3, Loan 2400
+Reasoning: 当前经济作物投资收益较低，优先保障现有稳定收入以确保资金安全。
+
+[Agent 88 - Year 10]
+Decision: Target Ratio 0.2, Loan 0
+Reasoning: 现有经济作物收益已确定，且有补贴保证收入，优先保护资产安全。
+
+[Agent 23 - Year 10]
+Decision: Target Ratio 0.5, Loan 0
+Reasoning: 当前经济作物已有产出，维持现状以确保收益，并在土地剩余空间考虑种植保底水稻。
+
+[Agent 33 - Year 10]
+Decision: Target Ratio 0.8, Loan 16000
+Reasoning: 确保经济作物种植比例足够高，以最大化收益和补贴，同时通过贷款补充流动资金，保证土地维持在最佳使用状态
+
+[Agent 81 - Year 10]
+Decision: Target Ratio 0.2, Loan 14000
+Reasoning: 保持现有经济作物比例的同时，适度扩大种植面积以分散风险并获取更多收益。
+
+[Agent 54 - Year 10]
+Decision: Target Ratio 0.35, Loan 1680
+Reasoning: 平衡现有经济作物投资收益与剩余土地种植水稻的保底收益，同时考虑合理贷款以应对未来可能出现的资金需求。
+
+[Agent 47 - Year 10]
+Decision: Target Ratio 0.3, Loan 16664
+Reasoning: 通过增加经济作物种植比例，平衡风险与收益，同时利用贷款资金支持初期投入以实现未来收益最大化。
+
+[Agent 1 - Year 10]
+Decision: Target Ratio 0.2, Loan 14000
+Reasoning: 为了平衡收入和成本，同时考虑到经济作物种植后需5年才能收获，今年决定将总土地的20%用于种植经济作物
+
+[Agent 40 - Year 10]
+Decision: Target Ratio 0.5, Loan 4000
+Reasoning: 保持现有经济作物比例，适度减少投入风险并维持收益平衡
+
+[Agent 9 - Year 10]
+Decision: Target Ratio 0.2, Loan 4400
+Reasoning: 当前经济作物占比过低，为了尽快增加收入，决定适当扩大经济作物种植比例。
+
+[Agent 80 - Year 10]
+Decision: Target Ratio 0.3, Loan 4800
+Reasoning: 在当前经济状况下，优先保证现有经济作物的维护和少量收益，减少新的投入以确保资产安全。
+
+[Agent 25 - Year 10]
+Decision: Target Ratio 0.5, Loan 0
+Reasoning: 当前经济作物已有一定产出，保留现有比例继续维持，同时考虑明年扩大种植以提高经济效益。
+
+[Agent 56 - Year 10]
+Decision: Target Ratio 0.7, Loan 8000
+Reasoning: 当前经济作物投资收益低，扩大投入以期提高总收益。同时申请贷款以支持更多经济作物的种植和维护。
+
+[Agent 98 - Year 10]
+Decision: Target Ratio 0.4, Loan 9600
+Reasoning: 优先扩大经济作物种植面积，提高长期收益潜力。
+
+[Agent 53 - Year 10]
+Decision: Target Ratio 0.4, Loan 8800
+Reasoning: 平衡现有资源，继续投入经济作物以保持收入来源，同时申请贷款缓解短期资金压力。
+
+[Agent 77 - Year 10]
+Decision: Target Ratio 0.5, Loan 19800
+Reasoning: 平衡风险与收益，投资一半土地种植经济作物以获取更多现金流并减少长期维持成本的压力。
+
+[Agent 20 - Year 10]
+Decision: Target Ratio 0.7, Loan 48624
+Reasoning: 扩大经济作物种植比例以提高收益，同时申请贷款填补资金缺口。
+
+[Agent 66 - Year 10]
+Decision: Target Ratio 0.5, Loan 0
+Reasoning: 今年保持现有经济作物比例，同时利用政府补贴和部分存款来应对维护费用。
+
+[Agent 69 - Year 10]
+Decision: Target Ratio 0.8, Loan 3600
+Reasoning: 为了在最短时间内提高收益并为下一轮种植做准备，选择80%的土地种植经济作物。
+
+[Agent 57 - Year 10]
+Decision: Target Ratio 0.3, Loan 0
+Reasoning: 当前经济作物投资收益有限，且仍有5年种植周期。优先确保现有经济作物收获后获得资金进行水稻种植以保障收入稳定和资产安全。
+
+[Agent 4 - Year 10]
+Decision: Target Ratio 0.4, Loan 8000
+Reasoning: 将更多土地用于经济作物种植，既考虑保底收益又可承担风险和成本。
+
+[Agent 58 - Year 10]
+Decision: Target Ratio 0.3, Loan 14000
+Reasoning: 维持现有经济作物收益，同时增加部分土地用于种植水稻以保证总收益和现金流稳定。
+
+[Agent 50 - Year 10]
+Decision: Target Ratio 0.4, Loan 8800
+Reasoning: 维持现有经济作物收益，减少对剩余土地的投入以确保资金安全。
+
+[Agent 6 - Year 10]
+Decision: Target Ratio 0.5, Loan 8000
+Reasoning: 平衡现有经济作物的收益与储备资金，同时考虑到剩余土地可以种植保底收益的水稻。
+
+[Agent 28 - Year 10]
+Decision: Target Ratio 0.5, Loan 8200
+Reasoning: 平衡现有经济作物投资与未来收益潜力，确保资金用于关键区域
+
+[Agent 97 - Year 10]
+Decision: Target Ratio 0.4, Loan 8000
+Reasoning: 保持现有经济作物比例，同时利用部分存款申请小额贷款以扩大种植面积，以提高整体收益。
+
+[Agent 76 - Year 10]
+Decision: Target Ratio 0.3, Loan 3200
+Reasoning: 保持现有经济作物比例，通过借款用于种植以维持总土地的经济作物比例。
+
+[Agent 70 - Year 10]
+Decision: Target Ratio 0.5, Loan 4800
+Reasoning: 保持现有经济作物的产出同时扩大保底收益的土地比例
+
+[Agent 5 - Year 10]
+Decision: Target Ratio 0.2, Loan 1600
+Reasoning: 保持现有经济作物比例，同时准备小额借贷用于可能增加的收入作物种植。
+
+[Agent 92 - Year 10]
+Decision: Target Ratio 0.2, Loan 0
+Reasoning: 今年主要保持现有经济作物比例，同时开始准备下一年度的种植计划。
+
+[Agent 86 - Year 10]
+Decision: Target Ratio 0.7, Loan 3200
+Reasoning: 保持稳健发展，利用剩余的土地种植经济作物以增加收益来源。
+
+[Agent 43 - Year 10]
+Decision: Target Ratio 0.2, Loan 12473
+Reasoning: 保留一半土地种植保底收益的水稻，其余用于经济作物种植，以平衡风险和收益。同时申请贷款弥补投入资金缺口。
+
+[Agent 90 - Year 10]
+Decision: Target Ratio 0.5, Loan 16000
+Reasoning: 为了实现长期收益最大化，决定将一半的土地种植经济作物，以便在成熟后能够获得更高的利润。同时申请足够的贷款以覆盖年度维护成本和投资新经济作物的需求。
+
+[Agent 31 - Year 10]
+Decision: Target Ratio 0.4, Loan 2800
+Reasoning: 维持现有经济作物产量，同时考虑长期收益和成本控制。
+
+[Agent 73 - Year 10]
+Decision: Target Ratio 0.4, Loan 2867.8
+Reasoning: 保持现有经济作物比例，同时合理分配贷款以维持整体资产稳健增长。
+
+[Agent 72 - Year 10]
+Decision: Target Ratio 0.2, Loan 13600
+Reasoning: 保持现有经济作物比例，避免因大规模调整而造成投资风险，并通过借贷获取额外土地用于种植。
+
+[Agent 35 - Year 10]
+Decision: Target Ratio 0.4, Loan 0
+Reasoning: 当前经济作物投资回报率较高，且有政府补贴，优先考虑继续扩大经济作物种植以增加收入和资产安全。
+
+[Agent 18 - Year 10]
+Decision: Target Ratio 0.5, Loan 10000
+Reasoning: 平衡种植经济作物与水稻的比例，同时考虑投资回报率和风险控制。
+
+[Agent 96 - Year 10]
+Decision: Target Ratio 0.6, Loan 12000
+Reasoning: 平衡风险与收益，既保留了部分经济作物种植以获取收入，又保持了足够的土地用于水稻保底收益。
+
+[Agent 26 - Year 10]
+Decision: Target Ratio 0.4, Loan 12800
+Reasoning: 优先保证现有经济作物成熟收益，同时确保资产安全
+
+[Agent 74 - Year 10]
+Decision: Target Ratio 0.2, Loan 3600
+Reasoning: 保留一部分土地种植保底收益的水稻，同时合理分配剩余资源进行经济作物种植以平衡风险和收益。
+
+[Agent 16 - Year 10]
+Decision: Target Ratio 0.3, Loan 1760
+Reasoning: 维持现有经济作物种植，以确保资产安全并获得一定的收益。
+
+[Agent 15 - Year 10]
+Decision: Target Ratio 0.6, Loan 13200
+Reasoning: 保持现有作物比例，同时确保有足够的资金用于经济作物的维护和投资。
+
+[Agent 17 - Year 10]
+Decision: Target Ratio 0.2, Loan 1800
+Reasoning: 保持现有经济作物比例，减少风险同时维持一定的经济效益。
+
+[Agent 63 - Year 10]
+Decision: Target Ratio 0.4, Loan 2800
+Reasoning: 通过增加经济作物种植比例，提高整体收益以覆盖维护成本及未来收获资金需求。
+
+[Agent 11 - Year 10]
+Decision: Target Ratio 0.7, Loan 142857
+Reasoning: 扩大经济作物种植面积以增加收益，同时利用贷款弥补初始投资和日常维护费用。
